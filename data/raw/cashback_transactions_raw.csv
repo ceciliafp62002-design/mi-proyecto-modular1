@@ -1,0 +1,1546 @@
+ID_Transaccion,Fecha,Cliente_Edad,Cliente_Genero,Pais,Marca,Categoria,Plataforma_Cashback,Canal_Integracion,Monto_Compra,Porcentaje_Devolucion
+TRX-2026-0001,2025-07-21,37.0,F,España,Apple,Tecnología,Letyshops,Extensión Navegador,673.37,
+TRX-2026-0002,2026-02-14,,No binario,Alemania,Vueling,Viajes,Letyshops,Web/Enlace Directo,450.43,"5,2%"
+TRX-2026-0003,2026-03-24,39.0,No binario,Francia,Amazon,tecnología,Letyshops,Extensión Navegador,863.2,"1,7%"
+TRX-2026-0004,2026-05-22,46.0,No binario,Francia,Iberia,Viajes,iGraal,Web/Enlace Directo,247.11,0.0551
+TRX-2026-0005,2025-07-10,32.0,F,Italia,PcComponentes,Tecnología,Letyshops,Extensión Navegador,366.91,0.0191
+TRX-2026-0006,2025-06-19,32.0,No binario,Reino Unido,Vueling,Viajes,Letyshops,Web/Enlace Directo,495.6,"3,7%"
+TRX-2026-0007,2025-06-28,46.0,M,Italia,Expedia,Viajes,iGraal,App Móvil,308.66,0.0326
+TRX-2026-0008,2025-10-01,40.0,M,Reino Unido,Dia,Alimentación,Awin_Affiliate,Extensión Navegador,31.03,"3,7%"
+TRX-2026-0009,2026-02-21,30.0,F,Alemania,Carrefour,Alimentación,iGraal,Extensión Navegador,24.93,0.0248
+TRX-2026-0010,2025-10-17,38.0,No binario,España,Booking,Viajes,Awin_Affiliate,Web/Enlace Directo,273.9,"4,2%"
+TRX-2026-0011,2025-09-30,30.0,F,Alemania,Renfe,Viajes,Letyshops,Extensión Navegador,293.13,0.0365
+TRX-2026-0012,2025-10-06,30.0,F,España ,Amazon,Tecnología,Letyshops,Extensión Navegador,247.15,"2,1%"
+TRX-2026-0013,2026-04-10,35.0,F,Reino Unido,Dia,Alimentación,Awin_Affiliate,Web/Enlace Directo,71.71,"3,3%"
+TRX-2026-0014,2026-01-05,,M,Reino Unido,MediaMarkt,Tecnología,Revolut_Rewards,Extensión Navegador,253.2,"1,1%"
+TRX-2026-0015,2025-06-16,20.0,No binario,espana,Nike,Moda,iGraal,App Móvil,33.86,0.0543
+TRX-2026-0016,2025-08-22,29.0,M,España ,Just Eat,Alimentación,Letyshops,Extensión Navegador,21.3,0.0329
+TRX-2026-0017,2025-07-18,25.0,F,espana,Uber Eats,Alimentación,iGraal,Extensión Navegador,27.45,"3,6%"
+TRX-2026-0018,2025-10-30,36.0,No binario,España ,Vueling,Viajes,iGraal,Extensión Navegador,608.03,"6,4%"
+TRX-2026-0019,2026-03-21,26.0,M,España ,Uber Eats,Alimentación,Revolut_Rewards,App Móvil,42.5,0.0487
+TRX-2026-0020,2025-08-21,22.0,No binario,Alemania,Renfe,Viajes,iGraal,Extensión Navegador,412.98,0.0501
+TRX-2026-0021,2026-03-10,45.0,F,Alemania,Expedia,viajes,Revolut_Rewards,Extensión Navegador,616.71,0.0528
+TRX-2026-0022,2025-08-28,32.0,No binario,España ,Apple,Tecnología,Awin_Affiliate,Extensión Navegador,268.43,0.0126
+TRX-2026-0023,2025-10-22,34.0,No binario,Alemania,Booking,Viajes,Letyshops,Web/Enlace Directo,231.16,0.0673
+TRX-2026-0024,2025-09-08,22.0,No binario,España,Vueling,Viajes,Awin_Affiliate,Web/Enlace Directo,139.04,"6,5%"
+TRX-2026-0025,2026-02-26,29.0,No binario,España,Sephora,Moda,Awin_Affiliate,Web/Enlace Directo,86.07,0.0943
+TRX-2026-0026,2025-12-25,34.0,F,Reino Unido,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,646.87,"2,1%"
+TRX-2026-0027,2026-05-26,24.0,M,Alemania,Zara,Moda,Letyshops,Extensión Navegador,63.53,0.0939
+TRX-2026-0028,2026-02-06,37.0,No binario,espana,Fnac,Tecnología,Revolut_Rewards,Web/Enlace Directo,684.55,"2,9%"
+TRX-2026-0029,2026-06-01,29.0,F,Reino Unido,MediaMarkt,tecnología,Letyshops,App Móvil,176.91,"2,4%"
+TRX-2026-0030,2025-10-21,31.0,M,ES,Zalando,Moda,iGraal,Web/Enlace Directo,49.14,0.0597
+TRX-2026-0031,2025-09-12,29.0,M,España ,Renfe,Viajes,Letyshops,Web/Enlace Directo,628.64,"4,1%"
+TRX-2026-0032,2025-09-25,48.0,F,Francia,ASOS,Moda,iGraal,Web/Enlace Directo,79.51,0.0712
+TRX-2026-0033,2026-03-05,33.0,M,Francia,Renfe,Viajes,Awin_Affiliate,Web/Enlace Directo,563.37,"5,9%"
+TRX-2026-0034,2026-01-13,25.0,No binario,España ,Zara,Moda,Revolut_Rewards,Web/Enlace Directo,118.52,
+TRX-2026-0035,2025-11-05,40.0,No binario,Alemania,MediaMarkt,Tecnología,Revolut_Rewards,App Móvil,621.04,0.0202
+TRX-2026-0036,2026-01-19,24.0,No binario,Reino Unido,PcComponentes,tecnología,Letyshops,Web/Enlace Directo,306.96,"2,6%"
+TRX-2026-0037,2026-05-07,35.0,M,Francia,Sephora,Moda,Revolut_Rewards,App Móvil,74.96,0.0489
+TRX-2026-0038,2025-11-08,18.0,F,ES,Carrefour,Alimentación,Letyshops,Extensión Navegador,44.67,0.044
+TRX-2026-0039,2025-09-28,23.0,M,Italia,Dia,Alimentación,Revolut_Rewards,App Móvil,31.85,0.0274
+TRX-2026-0040,2026-01-24,35.0,M,espana,Apple,Tecnología,Awin_Affiliate,App Móvil,314.95,"2,1%"
+TRX-2026-0041,2025-11-13,39.0,M,España,Just Eat,Alimentación,iGraal,Extensión Navegador,69.14,0.0317
+TRX-2026-0042,2026-06-10,35.0,M,ES,Just Eat,Alimentación,Letyshops,App Móvil,29.26,"3,3%"
+TRX-2026-0043,2025-10-17,33.0,F,Alemania,Iberia,viajes,iGraal,Extensión Navegador,446.37,0.0354
+TRX-2026-0044,2025-12-28,31.0,M,Italia,Uber Eats,alimentación,Revolut_Rewards,App Móvil,69.27,0.0341
+TRX-2026-0045,2026-05-09,22.0,No binario,España,Expedia,Viajes,Letyshops,Extensión Navegador,434.16,0.0395
+TRX-2026-0046,2025-12-07,28.0,F,Alemania,Expedia,Viajes,Awin_Affiliate,Extensión Navegador,409.85,0.0672
+TRX-2026-0047,2026-03-04,30.0,F,Alemania,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,100.05,0.0473
+TRX-2026-0048,2025-12-06,42.0,F,Alemania,PcComponentes,Tecnología,Revolut_Rewards,App Móvil,130.76,0.0292
+TRX-2026-0049,2025-09-19,36.0,No binario,España,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,53.51,"3,0%"
+TRX-2026-0050,2025-08-26,19.0,No binario,Reino Unido,Uber Eats,Alimentación,iGraal,App Móvil,70.31,"2,5%"
+TRX-2026-0051,2025-06-19,36.0,M,Alemania,Vueling,Viajes,Letyshops,Extensión Navegador,217.57,0.0463
+TRX-2026-0052,2025-10-27,30.0,F,ES,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,249.24,"2,3%"
+TRX-2026-0053,2025-06-19,28.0,M,espana,Amazon,Tecnología,Letyshops,Extensión Navegador,660.3,0.0163
+TRX-2026-0054,2025-08-16,38.0,No binario,Alemania,PcComponentes,Tecnología,Letyshops,App Móvil,235.64,"1,4%"
+TRX-2026-0055,2025-09-03,42.0,M,Reino Unido,Sephora,Moda,Revolut_Rewards,Extensión Navegador,134.09,0.0744
+TRX-2026-0056,2025-10-12,41.0,F,Italia,Iberia,Viajes,Revolut_Rewards,Extensión Navegador,408.9,"5,7%"
+TRX-2026-0057,2026-02-06,27.0,F,Alemania,Dia,Alimentación,Revolut_Rewards,App Móvil,74.05,0.0289
+TRX-2026-0058,2026-04-24,31.0,F,Reino Unido,ASOS,Moda,iGraal,Extensión Navegador,54.98,"7,3%"
+TRX-2026-0059,2026-05-28,36.0,F,espana,MediaMarkt,Tecnología,iGraal,Web/Enlace Directo,240.74,0.0153
+TRX-2026-0060,2026-01-28,41.0,F,España,Expedia,Viajes,Awin_Affiliate,Web/Enlace Directo,506.91,"5,3%"
+TRX-2026-0061,2026-01-25,30.0,No binario,Alemania,Just Eat,Alimentación,iGraal,Web/Enlace Directo,17.59,"3,3%"
+TRX-2026-0062,2025-08-23,32.0,No binario,espana,Fnac,Tecnología,iGraal,Extensión Navegador,444.63,0.023
+TRX-2026-0063,2026-04-28,25.0,M,España ,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,21.8,0.0248
+TRX-2026-0064,2025-09-05,24.0,F,Francia,Renfe,Viajes,Awin_Affiliate,App Móvil,146.08,
+TRX-2026-0065,2025-10-20,40.0,M,espana,Mango,Moda,Awin_Affiliate,Web/Enlace Directo,119.56,0.0775
+TRX-2026-0066,2025-06-21,44.0,M,España,Vueling,Viajes,Letyshops,Web/Enlace Directo,170.28,0.052
+TRX-2026-0067,2026-04-14,33.0,No binario,Italia,Zara,Moda,Awin_Affiliate,Web/Enlace Directo,113.18,0.0649
+TRX-2026-0068,2026-03-08,42.0,No binario,Alemania,Nike,moda,Awin_Affiliate,App Móvil,67.48,"8,7%"
+TRX-2026-0069,2025-08-21,36.0,No binario,Francia,Zara,Moda,Revolut_Rewards,App Móvil,66.55,"8,6%"
+TRX-2026-0070,2026-02-11,28.0,No binario,Francia,Zara,Moda,iGraal,App Móvil,118.09,0.0823
+TRX-2026-0071,2026-03-28,36.0,M,España ,Mango,moda,Awin_Affiliate,Extensión Navegador,134.27,0.0664
+TRX-2026-0072,2026-03-26,46.0,F,Francia,Amazon,Tecnología,Revolut_Rewards,Web/Enlace Directo,109.07,0.0166
+TRX-2026-0073,2025-10-07,33.0,No binario,España,Expedia,Viajes,Awin_Affiliate,Extensión Navegador,505.66,"4,7%"
+TRX-2026-0074,2026-05-21,46.0,M,Italia,Renfe,Viajes,Awin_Affiliate,App Móvil,325.49,0.0398
+TRX-2026-0075,2025-08-05,18.0,M,Alemania,Zara,moda,Letyshops,Extensión Navegador,82.64,"5,5%"
+TRX-2026-0076,2025-07-02,40.0,No binario,España ,Iberia,Viajes,Awin_Affiliate,Web/Enlace Directo,250.52,0.0685
+TRX-2026-0077,2025-10-09,34.0,F,ES,Uber Eats,alimentación,Awin_Affiliate,Web/Enlace Directo,34.19,0.0493
+TRX-2026-0078,2026-05-19,31.0,No binario,Reino Unido,Uber Eats,Alimentación,Letyshops,Web/Enlace Directo,67.13,"2,7%"
+TRX-2026-0079,2025-06-30,34.0,F,Reino Unido,Booking,Viajes,Awin_Affiliate,App Móvil,99.02,"4,5%"
+TRX-2026-0080,2026-03-03,18.0,F,Italia,Fnac,Tecnología,Awin_Affiliate,Extensión Navegador,260.99,0.0265
+TRX-2026-0081,2026-04-16,32.0,M,España,Zalando,Moda,Revolut_Rewards,Web/Enlace Directo,70.72,"8,7%"
+TRX-2026-0082,2025-08-18,36.0,M,Italia,PcComponentes,Tecnología,Letyshops,App Móvil,61.52,0.0277
+TRX-2026-0083,2025-10-19,45.0,No binario,España,Carrefour,Alimentación,Letyshops,Extensión Navegador,76.51,0.0291
+TRX-2026-0084,2025-12-06,29.0,No binario,Reino Unido,Dia,Alimentación,Revolut_Rewards,Web/Enlace Directo,21.44,
+TRX-2026-0085,2025-10-29,27.0,M,ES,PcComponentes,Tecnología,Awin_Affiliate,Web/Enlace Directo,815.46,"2,3%"
+TRX-2026-0086,2025-10-24,29.0,F,Reino Unido,Sephora,Moda,iGraal,Extensión Navegador,123.35,"5,5%"
+TRX-2026-0087,2026-02-27,41.0,No binario,espana,ASOS,Moda,Letyshops,Web/Enlace Directo,25.35,"9,2%"
+TRX-2026-0088,2026-05-31,36.0,F,España,Apple,Tecnología,Awin_Affiliate,Extensión Navegador,189.85,0.011
+TRX-2026-0089,2025-09-24,29.0,No binario,España ,Dia,Alimentación,iGraal,Web/Enlace Directo,65.91,
+TRX-2026-0090,2025-11-20,38.0,M,Reino Unido,Iberia,viajes,Revolut_Rewards,Extensión Navegador,592.58,"4,3%"
+TRX-2026-0091,2025-06-14,34.0,M,Francia,MediaMarkt,Tecnología,Revolut_Rewards,Extensión Navegador,722.06,0.0123
+TRX-2026-0092,2025-11-05,41.0,M,ES,Uber Eats,Alimentación,Revolut_Rewards,App Móvil,42.04,0.0229
+TRX-2026-0093,2026-05-10,28.0,F,Italia,Booking,viajes,Revolut_Rewards,Extensión Navegador,504.42,"4,5%"
+TRX-2026-0094,2025-07-05,31.0,F,Francia,MediaMarkt,Tecnología,iGraal,App Móvil,556.35,0.017
+TRX-2026-0095,2026-04-19,30.0,M,Italia,PcComponentes,Tecnología,Awin_Affiliate,Web/Enlace Directo,234.5,0.0186
+TRX-2026-0096,2025-09-01,22.0,F,Alemania,PcComponentes,tecnología,Letyshops,App Móvil,644.32,"1,6%"
+TRX-2026-0097,2025-11-20,36.0,F,ES,Booking,Viajes,Letyshops,App Móvil,319.3,"4,4%"
+TRX-2026-0098,2026-05-18,36.0,F,ES,Booking,Viajes,Awin_Affiliate,App Móvil,457.31,0.0494
+TRX-2026-0099,2026-04-18,34.0,M,Reino Unido,Uber Eats,Alimentación,iGraal,Extensión Navegador,40.69,"3,8%"
+TRX-2026-0100,2026-02-03,32.0,M,espana,Booking,Viajes,Revolut_Rewards,Web/Enlace Directo,325.47,0.0352
+TRX-2026-0101,2026-05-08,22.0,M,Italia,Iberia,Viajes,iGraal,App Móvil,605.06,0.0645
+TRX-2026-0102,2026-04-16,30.0,M,espana,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,831.0,0.0118
+TRX-2026-0103,2026-01-06,31.0,No binario,ES,ASOS,Moda,Letyshops,Extensión Navegador,88.81,0.0468
+TRX-2026-0104,2026-03-30,27.0,F,espana,ASOS,Moda,Letyshops,Extensión Navegador,100.3,0.0856
+TRX-2026-0105,2025-08-29,32.0,No binario,Francia,Amazon,Tecnología,Letyshops,App Móvil,98.73,"1,9%"
+TRX-2026-0106,2026-01-06,37.0,M,Francia,Booking,Viajes,Awin_Affiliate,App Móvil,123.74,0.0646
+TRX-2026-0107,2025-09-03,49.0,No binario,España,Dia,Alimentación,Awin_Affiliate,Web/Enlace Directo,45.92,"2,5%"
+TRX-2026-0108,2026-05-01,35.0,No binario,Reino Unido,Nike,Moda,Letyshops,Web/Enlace Directo,79.72,0.0664
+TRX-2026-0109,2025-11-16,36.0,M,Reino Unido,Renfe,Viajes,iGraal,App Móvil,133.87,"5,7%"
+TRX-2026-0110,2026-03-29,33.0,M,España,ASOS,Moda,Awin_Affiliate,Web/Enlace Directo,112.31,0.0635
+TRX-2026-0111,2026-04-09,18.0,No binario,Reino Unido,Iberia,Viajes,Awin_Affiliate,Extensión Navegador,286.68,"3,7%"
+TRX-2026-0112,2026-04-04,33.0,F,España ,PcComponentes,Tecnología,iGraal,Web/Enlace Directo,329.62,"2,5%"
+TRX-2026-0113,2025-07-29,34.0,F,Reino Unido,Carrefour,Alimentación,Revolut_Rewards,App Móvil,58.96,0.0271
+TRX-2026-0114,2025-09-13,53.0,F,ES,Dia,Alimentación,Awin_Affiliate,Web/Enlace Directo,76.56,0.0495
+TRX-2026-0115,2026-03-23,32.0,F,Italia,ASOS,Moda,iGraal,Web/Enlace Directo,85.07,0.0623
+TRX-2026-0116,2026-05-02,36.0,F,ES,Dia,Alimentación,Revolut_Rewards,Extensión Navegador,76.52,0.0267
+TRX-2026-0117,2025-12-04,33.0,F,Francia,Renfe,Viajes,Letyshops,Extensión Navegador,261.65,0.034
+TRX-2026-0118,2025-10-15,24.0,No binario,Italia,Sephora,Moda,Revolut_Rewards,App Móvil,101.92,"9,4%"
+TRX-2026-0119,2025-08-06,43.0,No binario,Francia,Renfe,Viajes,Letyshops,App Móvil,149.45,0.0395
+TRX-2026-0120,2025-10-01,40.0,No binario,Alemania,Vueling,Viajes,Letyshops,Web/Enlace Directo,161.84,0.0472
+TRX-2026-0121,2026-05-01,40.0,No binario,ES,Vueling,Viajes,iGraal,App Móvil,577.8,
+TRX-2026-0122,2025-12-19,26.0,F,Reino Unido,Vueling,Viajes,Awin_Affiliate,Extensión Navegador,105.27,0.0518
+TRX-2026-0123,2025-06-22,45.0,M,Reino Unido,Zalando,moda,iGraal,Web/Enlace Directo,122.02,"6,7%"
+TRX-2026-0124,2026-01-06,22.0,No binario,Francia,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,27.42,0.0307
+TRX-2026-0125,2025-12-07,38.0,M,Francia,Just Eat,Alimentación,Awin_Affiliate,Extensión Navegador,47.25,0.0349
+TRX-2026-0126,2026-05-04,51.0,M,Alemania,Mango,Moda,Awin_Affiliate,App Móvil,37.82,"6,0%"
+TRX-2026-0127,2025-10-29,26.0,M,Francia,Renfe,Viajes,Revolut_Rewards,App Móvil,444.5,"6,2%"
+TRX-2026-0128,2025-07-01,29.0,F,ES,Mango,Moda,Revolut_Rewards,Extensión Navegador,40.78,0.0542
+TRX-2026-0129,2025-07-01,34.0,M,ES,MediaMarkt,Tecnología,iGraal,Web/Enlace Directo,158.42,"1,7%"
+TRX-2026-0130,2025-10-01,29.0,No binario,Francia,Renfe,Viajes,Awin_Affiliate,Web/Enlace Directo,334.38,"7,0%"
+TRX-2026-0131,2026-05-07,21.0,M,ES,Carrefour,Alimentación,Awin_Affiliate,Web/Enlace Directo,37.58,0.0219
+TRX-2026-0132,2025-07-22,34.0,F,Italia,Fnac,Tecnología,Letyshops,Extensión Navegador,887.21,"2,6%"
+TRX-2026-0133,2025-10-17,25.0,No binario,España ,Booking,Viajes,Awin_Affiliate,App Móvil,649.77,0.0588
+TRX-2026-0134,2025-07-20,37.0,F,Francia,Uber Eats,Alimentación,Letyshops,Web/Enlace Directo,56.59,0.0255
+TRX-2026-0135,2026-04-11,26.0,No binario,ES,Apple,Tecnología,Letyshops,App Móvil,843.87,0.0145
+TRX-2026-0136,2025-09-04,46.0,M,espana,Fnac,Tecnología,iGraal,Web/Enlace Directo,591.25,0.0218
+TRX-2026-0137,2025-08-29,27.0,F,Italia,Booking,Viajes,iGraal,Web/Enlace Directo,519.48,"4,1%"
+TRX-2026-0138,2025-07-27,31.0,No binario,espana,MediaMarkt,Tecnología,Letyshops,Web/Enlace Directo,389.24,0.0191
+TRX-2026-0139,2025-08-07,40.0,F,espana,Amazon,Tecnología,Revolut_Rewards,Extensión Navegador,694.17,"2,0%"
+TRX-2026-0140,2026-04-25,24.0,F,espana,Just Eat,Alimentación,Letyshops,Extensión Navegador,67.88,0.048
+TRX-2026-0141,2025-10-01,35.0,M,Francia,Booking,viajes,Revolut_Rewards,Web/Enlace Directo,340.62,0.0396
+TRX-2026-0142,2025-07-14,44.0,No binario,Francia,Fnac,Tecnología,iGraal,Extensión Navegador,410.6,0.0276
+TRX-2026-0143,2025-08-26,21.0,No binario,España,Fnac,tecnología,Awin_Affiliate,Extensión Navegador,372.26,0.019
+TRX-2026-0144,2025-12-22,35.0,No binario,España ,Zalando,Moda,Revolut_Rewards,Web/Enlace Directo,30.03,0.0423
+TRX-2026-0145,2026-04-03,36.0,M,Alemania,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,675.81,"1,6%"
+TRX-2026-0146,2026-01-11,40.0,M,Italia,Renfe,Viajes,Awin_Affiliate,Web/Enlace Directo,142.47,"4,7%"
+TRX-2026-0147,2025-08-12,24.0,M,España ,Sephora,moda,iGraal,Web/Enlace Directo,85.06,0.0715
+TRX-2026-0148,2025-06-20,23.0,F,España ,Iberia,Viajes,Awin_Affiliate,App Móvil,166.32,0.0576
+TRX-2026-0149,2026-04-04,38.0,No binario,ES,MediaMarkt,Tecnología,Revolut_Rewards,App Móvil,862.75,0.0192
+TRX-2026-0150,2025-06-24,36.0,M,Alemania,Dia,Alimentación,Letyshops,App Móvil,51.28,0.0267
+TRX-2026-0151,2025-06-18,36.0,M,España ,Uber Eats,Alimentación,Awin_Affiliate,App Móvil,22.92,"4,0%"
+TRX-2026-0152,2026-01-16,36.0,F,ES,Renfe,Viajes,Revolut_Rewards,Web/Enlace Directo,226.17,"4,9%"
+TRX-2026-0153,2025-08-02,28.0,No binario,Alemania,Zalando,moda,iGraal,Web/Enlace Directo,138.15,"5,4%"
+TRX-2026-0154,2025-06-30,35.0,F,ES,Zara,Moda,Revolut_Rewards,App Móvil,106.32,"8,5%"
+TRX-2026-0155,2025-08-24,36.0,F,Alemania,Expedia,Viajes,Revolut_Rewards,Extensión Navegador,612.34,0.0315
+TRX-2026-0156,2026-01-16,28.0,F,España ,Fnac,Tecnología,iGraal,App Móvil,284.72,0.0298
+TRX-2026-0157,2026-01-25,48.0,F,Italia,Renfe,Viajes,Letyshops,Web/Enlace Directo,341.58,"4,0%"
+TRX-2026-0158,2026-03-07,,F,Alemania,Just Eat,Alimentación,Awin_Affiliate,Extensión Navegador,41.05,0.0229
+TRX-2026-0159,2025-11-29,24.0,F,Francia,Amazon,Tecnología,Awin_Affiliate,Web/Enlace Directo,661.68,0.0102
+TRX-2026-0160,2026-01-07,39.0,F,Francia,PcComponentes,Tecnología,Awin_Affiliate,App Móvil,568.58,"1,4%"
+TRX-2026-0161,2025-11-13,26.0,No binario,Alemania,Dia,Alimentación,Letyshops,Web/Enlace Directo,64.06,"4,6%"
+TRX-2026-0162,2025-08-29,40.0,F,espana,Mango,Moda,Letyshops,Extensión Navegador,66.01,"7,1%"
+TRX-2026-0163,2025-10-28,43.0,F,Francia,Mango,Moda,Revolut_Rewards,App Móvil,95.49,
+TRX-2026-0164,2026-06-12,27.0,No binario,España,Booking,Viajes,Revolut_Rewards,App Móvil,479.22,"5,2%"
+TRX-2026-0165,2026-03-13,41.0,F,Italia,Uber Eats,Alimentación,Revolut_Rewards,App Móvil,71.53,"4,7%"
+TRX-2026-0166,2025-07-14,37.0,M,España,Mango,Moda,Revolut_Rewards,Web/Enlace Directo,40.92,0.0987
+TRX-2026-0167,2025-11-08,40.0,No binario,Francia,Zalando,Moda,Revolut_Rewards,App Móvil,44.39,
+TRX-2026-0168,2025-08-03,49.0,F,España,Nike,Moda,iGraal,Web/Enlace Directo,29.2,
+TRX-2026-0169,2025-09-10,32.0,F,Italia,Expedia,Viajes,Awin_Affiliate,Extensión Navegador,545.0,"5,9%"
+TRX-2026-0170,2026-01-10,27.0,F,Reino Unido,Zara,Moda,Awin_Affiliate,App Móvil,32.62,0.0969
+TRX-2026-0171,2025-10-03,26.0,F,España ,Uber Eats,Alimentación,Revolut_Rewards,App Móvil,24.7,0.0313
+TRX-2026-0172,2026-04-01,27.0,M,España ,Just Eat,Alimentación,Letyshops,App Móvil,30.79,0.0261
+TRX-2026-0173,2026-03-08,33.0,F,espana,Carrefour,Alimentación,iGraal,Extensión Navegador,67.3,0.0376
+TRX-2026-0174,2026-06-06,36.0,F,ES,Iberia,Viajes,Letyshops,Web/Enlace Directo,424.51,0.0382
+TRX-2026-0175,2025-12-12,36.0,M,ES,Fnac,Tecnología,Revolut_Rewards,App Móvil,124.8,0.0296
+TRX-2026-0176,2025-08-29,40.0,F,Reino Unido,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,141.84,0.0747
+TRX-2026-0177,2026-02-08,34.0,M,Alemania,Amazon,Tecnología,Revolut_Rewards,Web/Enlace Directo,591.86,"2,0%"
+TRX-2026-0178,2025-10-06,45.0,F,Alemania,Vueling,Viajes,iGraal,Extensión Navegador,618.76,0.0567
+TRX-2026-0179,2025-06-16,31.0,F,España ,Mango,Moda,Revolut_Rewards,App Móvil,32.56,
+TRX-2026-0180,2025-11-15,55.0,F,espana,Fnac,tecnología,Awin_Affiliate,Extensión Navegador,471.91,0.024
+TRX-2026-0181,2026-03-07,39.0,No binario,Alemania,Amazon,Tecnología,Awin_Affiliate,App Móvil,107.96,0.0292
+TRX-2026-0182,2026-05-03,27.0,No binario,Italia,Booking,Viajes,Revolut_Rewards,App Móvil,294.99,0.049
+TRX-2026-0183,2025-07-18,25.0,M,Alemania,Vueling,Viajes,iGraal,Extensión Navegador,200.51,
+TRX-2026-0184,2026-01-21,37.0,No binario,Alemania,Expedia,Viajes,Awin_Affiliate,Extensión Navegador,628.04,0.0535
+TRX-2026-0185,2026-03-22,32.0,No binario,ES,Uber Eats,alimentación,Revolut_Rewards,Web/Enlace Directo,24.1,0.0497
+TRX-2026-0186,2025-12-21,39.0,No binario,Italia,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,32.77,0.0498
+TRX-2026-0187,2025-06-30,37.0,No binario,Reino Unido,Carrefour,Alimentación,Awin_Affiliate,Extensión Navegador,61.35,"2,2%"
+TRX-2026-0188,2026-01-02,33.0,M,espana,Booking,Viajes,Awin_Affiliate,App Móvil,285.15,"4,1%"
+TRX-2026-0189,2026-04-22,27.0,F,ES,Fnac,Tecnología,iGraal,Web/Enlace Directo,554.32,"1,6%"
+TRX-2026-0190,2025-08-31,21.0,F,Alemania,Sephora,moda,Revolut_Rewards,Extensión Navegador,42.36,0.0581
+TRX-2026-0191,2025-10-09,30.0,F,España,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,570.34,"1,9%"
+TRX-2026-0192,2025-12-27,40.0,M,espana,Dia,Alimentación,Awin_Affiliate,App Móvil,54.21,0.0409
+TRX-2026-0193,2025-06-23,35.0,No binario,Francia,ASOS,Moda,Revolut_Rewards,App Móvil,127.06,"6,4%"
+TRX-2026-0194,2025-06-29,24.0,No binario,España ,Dia,Alimentación,Revolut_Rewards,App Móvil,69.03,0.0221
+TRX-2026-0195,2026-02-04,35.0,No binario,España ,Just Eat,Alimentación,iGraal,App Móvil,79.4,0.0344
+TRX-2026-0196,2025-09-12,37.0,No binario,Reino Unido,Booking,Viajes,Letyshops,Web/Enlace Directo,458.88,0.0367
+TRX-2026-0197,2025-12-26,26.0,M,espana,Booking,Viajes,Awin_Affiliate,Extensión Navegador,371.09,0.0508
+TRX-2026-0198,2025-08-16,35.0,No binario,Alemania,ASOS,moda,iGraal,App Móvil,38.07,0.065
+TRX-2026-0199,2026-01-05,34.0,M,Francia,Mango,Moda,Revolut_Rewards,App Móvil,84.52,0.0663
+TRX-2026-0200,2026-04-16,24.0,F,Italia,PcComponentes,Tecnología,Letyshops,Web/Enlace Directo,249.77,"1,3%"
+TRX-2026-0201,2025-11-18,36.0,No binario,España ,Sephora,Moda,Revolut_Rewards,App Móvil,28.65,"7,7%"
+TRX-2026-0202,2025-06-18,38.0,F,Alemania,Vueling,Viajes,Letyshops,App Móvil,265.81,"4,8%"
+TRX-2026-0203,2025-08-12,42.0,M,Alemania,Carrefour,Alimentación,Awin_Affiliate,App Móvil,69.96,0.0385
+TRX-2026-0204,2026-05-01,42.0,No binario,España ,PcComponentes,Tecnología,Letyshops,App Móvil,140.58,"1,7%"
+TRX-2026-0205,2026-03-10,22.0,M,Reino Unido,Mango,Moda,Letyshops,App Móvil,61.1,0.0512
+TRX-2026-0206,2025-10-08,26.0,F,espana,Just Eat,alimentación,Revolut_Rewards,Web/Enlace Directo,46.96,
+TRX-2026-0207,2026-01-15,38.0,F,España ,Mango,Moda,Awin_Affiliate,Extensión Navegador,122.59,0.0739
+TRX-2026-0208,2025-09-08,38.0,M,Alemania,Iberia,Viajes,Letyshops,App Móvil,138.38,0.0632
+TRX-2026-0209,2025-12-17,38.0,F,Francia,Expedia,Viajes,Letyshops,Web/Enlace Directo,415.12,0.044
+TRX-2026-0210,2026-02-28,64.0,F,Italia,Vueling,Viajes,Awin_Affiliate,Web/Enlace Directo,240.22,"5,2%"
+TRX-2026-0211,2025-09-23,38.0,No binario,Italia,Expedia,Viajes,Revolut_Rewards,Extensión Navegador,645.72,"6,5%"
+TRX-2026-0212,2026-02-07,43.0,No binario,Francia,Dia,Alimentación,Awin_Affiliate,Web/Enlace Directo,41.92,0.0336
+TRX-2026-0213,2026-01-22,41.0,No binario,España ,Just Eat,Alimentación,Awin_Affiliate,Web/Enlace Directo,15.16,0.0432
+TRX-2026-0214,2025-09-13,39.0,M,espana,Dia,Alimentación,Revolut_Rewards,App Móvil,35.99,0.0285
+TRX-2026-0215,2025-06-29,31.0,F,España ,Iberia,Viajes,iGraal,Extensión Navegador,609.78,0.0363
+TRX-2026-0216,2025-07-16,40.0,M,España,PcComponentes,Tecnología,Awin_Affiliate,App Móvil,110.88,0.0233
+TRX-2026-0217,2026-02-14,27.0,M,Reino Unido,Booking,Viajes,iGraal,Extensión Navegador,351.78,
+TRX-2026-0218,2026-04-13,32.0,M,Reino Unido,Zara,Moda,iGraal,Extensión Navegador,72.88,"8,4%"
+TRX-2026-0219,2026-04-06,30.0,No binario,Reino Unido,Nike,Moda,iGraal,Web/Enlace Directo,106.25,0.0664
+TRX-2026-0220,2025-06-27,34.0,M,Italia,Nike,Moda,iGraal,Extensión Navegador,119.06,"7,5%"
+TRX-2026-0221,2026-01-23,52.0,No binario,espana,Mango,Moda,Awin_Affiliate,Web/Enlace Directo,28.35,0.0908
+TRX-2026-0222,2026-01-13,19.0,No binario,España,Zara,Moda,Revolut_Rewards,Extensión Navegador,55.14,"7,8%"
+TRX-2026-0223,2025-08-26,39.0,M,España,Zara,Moda,iGraal,Extensión Navegador,98.42,"4,1%"
+TRX-2026-0224,2025-06-14,21.0,No binario,Italia,Just Eat,alimentación,Revolut_Rewards,Extensión Navegador,56.63,"3,6%"
+TRX-2026-0225,2026-03-26,30.0,No binario,espana,Carrefour,alimentación,Awin_Affiliate,Web/Enlace Directo,43.44,"4,9%"
+TRX-2026-0226,2025-08-06,42.0,F,ES,Nike,Moda,iGraal,Web/Enlace Directo,42.15,0.0407
+TRX-2026-0227,2026-03-20,34.0,M,España,PcComponentes,Tecnología,iGraal,App Móvil,734.11,"1,5%"
+TRX-2026-0228,2025-08-27,25.0,F,España,ASOS,moda,iGraal,Web/Enlace Directo,109.27,0.0469
+TRX-2026-0229,2025-10-15,28.0,M,Francia,Zalando,Moda,iGraal,Web/Enlace Directo,125.39,0.0828
+TRX-2026-0230,2026-01-01,39.0,M,Italia,Vueling,Viajes,Awin_Affiliate,Extensión Navegador,366.16,"6,6%"
+TRX-2026-0231,2026-05-09,28.0,M,Italia,Amazon,Tecnología,Awin_Affiliate,Extensión Navegador,515.66,"1,0%"
+TRX-2026-0232,2025-10-19,35.0,M,Alemania,Dia,Alimentación,Letyshops,Extensión Navegador,15.41,"3,2%"
+TRX-2026-0233,2025-12-24,34.0,F,Italia,Uber Eats,alimentación,iGraal,Extensión Navegador,49.44,0.0271
+TRX-2026-0234,2026-04-27,28.0,F,España ,Uber Eats,alimentación,Revolut_Rewards,Web/Enlace Directo,20.52,"2,3%"
+TRX-2026-0235,2026-04-08,51.0,F,espana,Amazon,tecnología,Revolut_Rewards,Web/Enlace Directo,755.43,0.0165
+TRX-2026-0236,2025-08-18,39.0,F,espana,Expedia,Viajes,Revolut_Rewards,App Móvil,259.0,"3,5%"
+TRX-2026-0237,2026-04-28,18.0,F,Italia,Fnac,Tecnología,iGraal,Extensión Navegador,758.9,"1,7%"
+TRX-2026-0238,2025-07-02,,M,España,Nike,Moda,Revolut_Rewards,App Móvil,94.49,"7,3%"
+TRX-2026-0239,2026-02-20,28.0,F,España,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,53.1,"4,8%"
+TRX-2026-0240,2026-04-27,40.0,M,España ,Iberia,viajes,iGraal,Extensión Navegador,606.76,0.0473
+TRX-2026-0241,2026-02-24,27.0,F,España ,MediaMarkt,Tecnología,Letyshops,Extensión Navegador,568.13,0.0223
+TRX-2026-0242,2026-01-21,33.0,M,España ,Dia,Alimentación,Letyshops,Web/Enlace Directo,79.62,"3,6%"
+TRX-2026-0243,2025-10-08,38.0,M,Alemania,MediaMarkt,Tecnología,Awin_Affiliate,Extensión Navegador,62.41,"2,2%"
+TRX-2026-0244,2025-10-15,40.0,No binario,España,Zalando,Moda,iGraal,Extensión Navegador,107.11,0.056
+TRX-2026-0245,2025-11-27,24.0,M,Italia,Zalando,Moda,Letyshops,Web/Enlace Directo,64.75,"8,4%"
+TRX-2026-0246,2025-08-27,31.0,No binario,espana,Zara,moda,Awin_Affiliate,Extensión Navegador,86.3,"4,5%"
+TRX-2026-0247,2025-08-03,30.0,F,Italia,ASOS,moda,Letyshops,App Móvil,32.44,0.0489
+TRX-2026-0248,2025-12-09,28.0,F,España ,Carrefour,Alimentación,Awin_Affiliate,App Móvil,35.97,0.0493
+TRX-2026-0249,2026-03-16,48.0,No binario,Alemania,Apple,Tecnología,Letyshops,App Móvil,303.87,"2,4%"
+TRX-2026-0250,2025-11-25,37.0,No binario,espana,Mango,Moda,Awin_Affiliate,Web/Enlace Directo,52.61,0.0739
+TRX-2026-0251,2026-01-01,,F,Reino Unido,Renfe,Viajes,Revolut_Rewards,Extensión Navegador,231.17,"4,0%"
+TRX-2026-0252,2025-11-28,41.0,M,Reino Unido,Dia,Alimentación,Revolut_Rewards,App Móvil,72.32,"3,1%"
+TRX-2026-0253,2025-06-27,50.0,F,ES,Carrefour,Alimentación,iGraal,App Móvil,16.31,"2,8%"
+TRX-2026-0254,2025-09-06,42.0,F,España,Carrefour,Alimentación,Revolut_Rewards,Web/Enlace Directo,25.72,"4,7%"
+TRX-2026-0255,2025-09-03,,No binario,Reino Unido,Amazon,Tecnología,Awin_Affiliate,Extensión Navegador,122.49,0.0179
+TRX-2026-0256,2026-04-30,30.0,M,Italia,Dia,Alimentación,iGraal,Extensión Navegador,28.45,0.0391
+TRX-2026-0257,2025-10-15,44.0,M,Reino Unido,PcComponentes,tecnología,Revolut_Rewards,Extensión Navegador,359.08,"1,8%"
+TRX-2026-0258,2026-01-27,28.0,No binario,espana,Sephora,Moda,iGraal,Extensión Navegador,108.52,0.0885
+TRX-2026-0259,2025-11-11,37.0,No binario,Reino Unido,Dia,Alimentación,Revolut_Rewards,App Móvil,20.13,0.0471
+TRX-2026-0260,2025-07-02,40.0,No binario,España ,Iberia,viajes,Letyshops,Extensión Navegador,634.13,"6,2%"
+TRX-2026-0261,2025-07-27,26.0,F,Italia,Amazon,Tecnología,iGraal,Extensión Navegador,373.77,"1,8%"
+TRX-2026-0262,2025-06-20,33.0,No binario,Alemania,Carrefour,Alimentación,Revolut_Rewards,Extensión Navegador,24.63,0.0376
+TRX-2026-0263,2026-04-23,18.0,M,Italia,MediaMarkt,Tecnología,Awin_Affiliate,App Móvil,603.12,0.0214
+TRX-2026-0264,2025-06-30,25.0,No binario,Francia,Iberia,Viajes,Awin_Affiliate,Web/Enlace Directo,215.42,
+TRX-2026-0265,2026-01-09,31.0,M,ES,Carrefour,Alimentación,Letyshops,Extensión Navegador,34.53,0.0423
+TRX-2026-0266,2026-03-09,24.0,M,España ,Just Eat,alimentación,Awin_Affiliate,Extensión Navegador,48.49,"2,5%"
+TRX-2026-0267,2026-05-30,47.0,F,ES,Nike,Moda,Letyshops,Extensión Navegador,82.06,0.0951
+TRX-2026-0268,2026-04-11,22.0,No binario,ES,ASOS,Moda,Revolut_Rewards,Web/Enlace Directo,80.76,0.0976
+TRX-2026-0269,2025-06-26,30.0,F,espana,Iberia,Viajes,iGraal,Extensión Navegador,566.68,"6,1%"
+TRX-2026-0270,2025-11-16,35.0,No binario,ES,Iberia,Viajes,Letyshops,Web/Enlace Directo,178.72,"6,2%"
+TRX-2026-0271,2025-12-03,45.0,M,Francia,Apple,tecnología,Revolut_Rewards,App Móvil,622.39,"2,6%"
+TRX-2026-0272,2025-12-04,22.0,No binario,Reino Unido,Amazon,Tecnología,iGraal,App Móvil,94.9,0.0298
+TRX-2026-0273,2025-07-15,43.0,M,ES,Mango,Moda,Letyshops,Extensión Navegador,125.68,0.0881
+TRX-2026-0274,2026-01-13,34.0,M,Francia,Just Eat,Alimentación,iGraal,Web/Enlace Directo,61.02,"3,7%"
+TRX-2026-0275,2025-10-13,26.0,No binario,espana,Apple,Tecnología,Letyshops,App Móvil,123.94,"1,3%"
+TRX-2026-0276,2026-02-20,37.0,M,España ,MediaMarkt,tecnología,Awin_Affiliate,App Móvil,264.08,0.0159
+TRX-2026-0277,2025-07-31,35.0,F,Francia,Mango,Moda,iGraal,Web/Enlace Directo,72.71,"5,8%"
+TRX-2026-0278,2025-11-16,29.0,No binario,Francia,ASOS,Moda,Letyshops,Extensión Navegador,85.95,
+TRX-2026-0279,2026-03-19,34.0,No binario,Italia,Zara,Moda,iGraal,Extensión Navegador,101.81,0.078
+TRX-2026-0280,2026-03-03,30.0,No binario,ES,Renfe,Viajes,Letyshops,Extensión Navegador,465.75,"5,5%"
+TRX-2026-0281,2026-01-08,34.0,F,espana,Renfe,Viajes,Awin_Affiliate,App Móvil,494.86,"5,4%"
+TRX-2026-0282,2026-03-09,39.0,F,Italia,Carrefour,Alimentación,Letyshops,Extensión Navegador,62.27,0.0239
+TRX-2026-0283,2025-07-15,46.0,F,Francia,Fnac,tecnología,iGraal,Web/Enlace Directo,895.43,0.0232
+TRX-2026-0284,2025-12-01,24.0,F,Alemania,MediaMarkt,Tecnología,Letyshops,Extensión Navegador,637.87,"2,3%"
+TRX-2026-0285,2025-08-07,51.0,No binario,espana,Carrefour,Alimentación,iGraal,App Móvil,22.41,"2,3%"
+TRX-2026-0286,2025-12-12,18.0,No binario,Francia,Apple,Tecnología,iGraal,Web/Enlace Directo,466.87,
+TRX-2026-0287,2026-04-18,32.0,No binario,Reino Unido,Dia,Alimentación,iGraal,Web/Enlace Directo,19.88,0.0417
+TRX-2026-0288,2026-01-29,38.0,M,España,Expedia,viajes,iGraal,App Móvil,285.32,0.0571
+TRX-2026-0289,2026-04-04,36.0,No binario,Reino Unido,ASOS,Moda,Awin_Affiliate,App Móvil,144.39,0.0561
+TRX-2026-0290,2025-11-21,29.0,M,España,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,72.6,"2,5%"
+TRX-2026-0291,2025-08-15,32.0,M,Italia,Dia,Alimentación,Revolut_Rewards,App Móvil,54.74,0.0459
+TRX-2026-0292,2025-10-07,30.0,F,Francia,Carrefour,Alimentación,iGraal,App Móvil,57.57,0.0204
+TRX-2026-0293,2026-02-19,29.0,No binario,Italia,Fnac,Tecnología,iGraal,App Móvil,609.07,"1,5%"
+TRX-2026-0294,2025-09-01,40.0,No binario,espana,Expedia,Viajes,Revolut_Rewards,App Móvil,575.57,0.033
+TRX-2026-0295,2025-09-05,36.0,No binario,Francia,Dia,Alimentación,iGraal,App Móvil,43.87,"3,7%"
+TRX-2026-0296,2025-07-14,28.0,F,ES,Just Eat,Alimentación,iGraal,Web/Enlace Directo,50.69,0.0448
+TRX-2026-0297,2025-10-23,41.0,M,ES,Expedia,Viajes,Revolut_Rewards,App Móvil,399.29,0.0548
+TRX-2026-0298,2026-02-20,36.0,F,España ,Amazon,tecnología,Awin_Affiliate,Web/Enlace Directo,131.44,0.0279
+TRX-2026-0299,2025-11-24,40.0,F,Francia,Sephora,Moda,Awin_Affiliate,Extensión Navegador,119.64,0.0428
+TRX-2026-0300,2025-10-22,39.0,No binario,Alemania,Zara,Moda,iGraal,Web/Enlace Directo,117.03,0.0732
+TRX-2026-0301,2026-03-15,27.0,No binario,Alemania,Sephora,Moda,Letyshops,Extensión Navegador,73.43,0.076
+TRX-2026-0302,2025-06-24,29.0,F,ES,Uber Eats,Alimentación,Awin_Affiliate,App Móvil,67.31,0.0241
+TRX-2026-0303,2025-09-03,39.0,No binario,espana,Zalando,Moda,Awin_Affiliate,Web/Enlace Directo,68.16,0.0803
+TRX-2026-0304,2026-04-15,38.0,M,Alemania,Just Eat,alimentación,Awin_Affiliate,App Móvil,67.54,"3,6%"
+TRX-2026-0305,2026-03-23,33.0,M,Reino Unido,Apple,Tecnología,iGraal,Web/Enlace Directo,714.55,0.0141
+TRX-2026-0306,2025-07-03,34.0,No binario,Alemania,Sephora,Moda,Revolut_Rewards,Extensión Navegador,88.87,
+TRX-2026-0307,2025-11-12,44.0,No binario,espana,Booking,Viajes,Awin_Affiliate,Extensión Navegador,433.72,0.0612
+TRX-2026-0308,2025-08-16,29.0,No binario,Reino Unido,Sephora,Moda,Letyshops,App Móvil,81.1,"9,9%"
+TRX-2026-0309,2026-05-24,38.0,M,espana,Apple,tecnología,Letyshops,Web/Enlace Directo,767.57,0.0101
+TRX-2026-0310,2025-07-28,32.0,No binario,Italia,MediaMarkt,Tecnología,Awin_Affiliate,Extensión Navegador,714.27,"1,6%"
+TRX-2026-0311,2025-11-13,32.0,No binario,Alemania,Carrefour,Alimentación,Awin_Affiliate,Extensión Navegador,72.42,"4,0%"
+TRX-2026-0312,2025-10-13,42.0,No binario,Italia,Booking,Viajes,Awin_Affiliate,App Móvil,217.0,
+TRX-2026-0313,2025-11-30,40.0,F,Francia,Fnac,Tecnología,Awin_Affiliate,Extensión Navegador,823.75,"2,6%"
+TRX-2026-0314,2025-07-15,40.0,F,espana,Booking,Viajes,Letyshops,Web/Enlace Directo,383.93,"5,5%"
+TRX-2026-0315,2025-09-11,44.0,No binario,Reino Unido,Carrefour,alimentación,Letyshops,Extensión Navegador,44.85,"3,0%"
+TRX-2026-0316,2025-08-23,34.0,F,España,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,41.29,"2,9%"
+TRX-2026-0317,2025-08-18,39.0,F,Reino Unido,Renfe,Viajes,iGraal,App Móvil,528.53,"4,2%"
+TRX-2026-0318,2025-07-10,31.0,F,Francia,Mango,Moda,Letyshops,Extensión Navegador,118.34,0.0878
+TRX-2026-0319,2025-07-17,36.0,M,España,Nike,Moda,iGraal,Extensión Navegador,96.59,0.0636
+TRX-2026-0320,2025-12-19,32.0,F,Francia,Zalando,Moda,Letyshops,Extensión Navegador,102.11,"5,5%"
+TRX-2026-0321,2025-09-05,34.0,M,Reino Unido,Renfe,Viajes,iGraal,App Móvil,135.98,0.059
+TRX-2026-0322,2026-04-23,38.0,M,Alemania,Expedia,Viajes,Awin_Affiliate,App Móvil,336.87,"5,5%"
+TRX-2026-0323,2026-01-03,27.0,M,ES,Renfe,viajes,Letyshops,Extensión Navegador,485.95,"5,6%"
+TRX-2026-0324,2025-10-20,50.0,M,espana,MediaMarkt,Tecnología,iGraal,Extensión Navegador,595.17,"1,2%"
+TRX-2026-0325,2025-07-28,25.0,F,Reino Unido,Booking,viajes,iGraal,Web/Enlace Directo,409.97,"6,1%"
+TRX-2026-0326,2025-09-10,24.0,M,Reino Unido,ASOS,moda,Revolut_Rewards,Extensión Navegador,136.43,0.0754
+TRX-2026-0327,2025-12-09,43.0,No binario,espana,Mango,Moda,Letyshops,Web/Enlace Directo,42.55,0.0496
+TRX-2026-0328,2026-02-21,40.0,M,ES,Renfe,Viajes,Awin_Affiliate,Extensión Navegador,104.4,0.0383
+TRX-2026-0329,2026-05-24,38.0,No binario,España ,Vueling,Viajes,Awin_Affiliate,Web/Enlace Directo,230.09,"5,2%"
+TRX-2026-0330,2025-09-22,39.0,M,Francia,Mango,Moda,Revolut_Rewards,App Móvil,127.15,
+TRX-2026-0331,2025-10-31,33.0,F,España,Vueling,Viajes,Awin_Affiliate,Extensión Navegador,165.64,0.0363
+TRX-2026-0332,2026-04-16,26.0,M,Reino Unido,Just Eat,alimentación,Letyshops,Web/Enlace Directo,25.48,"4,5%"
+TRX-2026-0333,2025-07-26,34.0,No binario,España,Nike,Moda,Letyshops,App Móvil,140.31,0.071
+TRX-2026-0334,2026-05-01,28.0,F,Francia,Just Eat,Alimentación,Letyshops,Extensión Navegador,68.97,0.038
+TRX-2026-0335,2026-01-29,41.0,F,Reino Unido,MediaMarkt,Tecnología,iGraal,Extensión Navegador,365.26,"1,3%"
+TRX-2026-0336,2026-03-29,,No binario,espana,Zara,Moda,iGraal,Web/Enlace Directo,87.92,0.0471
+TRX-2026-0337,2025-07-01,27.0,No binario,Francia,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,49.44,0.0269
+TRX-2026-0338,2025-06-22,31.0,No binario,España ,Dia,Alimentación,Awin_Affiliate,App Móvil,64.78,
+TRX-2026-0339,2026-06-10,37.0,No binario,Alemania,Vueling,Viajes,iGraal,App Móvil,453.09,"5,8%"
+TRX-2026-0340,2026-02-04,29.0,M,Italia,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,40.83,0.0261
+TRX-2026-0341,2025-10-09,27.0,M,espana,MediaMarkt,tecnología,Letyshops,Web/Enlace Directo,142.41,0.0146
+TRX-2026-0342,2025-09-05,35.0,No binario,Reino Unido,Expedia,Viajes,Revolut_Rewards,Web/Enlace Directo,83.02,"3,4%"
+TRX-2026-0343,2026-02-20,35.0,M,España,Iberia,Viajes,Revolut_Rewards,Web/Enlace Directo,454.02,0.0415
+TRX-2026-0344,2025-11-01,29.0,F,España,Apple,Tecnología,iGraal,Web/Enlace Directo,479.07,0.024
+TRX-2026-0345,2026-04-30,30.0,M,Italia,Uber Eats,alimentación,Revolut_Rewards,App Móvil,53.1,0.0355
+TRX-2026-0346,2025-08-31,35.0,No binario,España,Amazon,Tecnología,Letyshops,Web/Enlace Directo,868.23,0.0191
+TRX-2026-0347,2026-05-07,22.0,No binario,España ,PcComponentes,Tecnología,Awin_Affiliate,Web/Enlace Directo,739.31,0.0215
+TRX-2026-0348,2025-10-22,22.0,No binario,Francia,Iberia,Viajes,iGraal,App Móvil,118.51,0.0553
+TRX-2026-0349,2025-12-15,28.0,No binario,Alemania,Renfe,viajes,Letyshops,App Móvil,133.02,0.0569
+TRX-2026-0350,2025-12-14,32.0,F,Alemania,Apple,Tecnología,Letyshops,App Móvil,673.92,"1,5%"
+TRX-2026-0351,2025-08-01,36.0,M,España,Booking,Viajes,iGraal,Web/Enlace Directo,624.79,"5,0%"
+TRX-2026-0352,2025-08-23,45.0,M,Francia,Mango,Moda,Awin_Affiliate,App Móvil,52.76,"7,5%"
+TRX-2026-0353,2025-09-29,40.0,M,Francia,Zara,Moda,iGraal,Web/Enlace Directo,89.78,"5,9%"
+TRX-2026-0354,2025-12-10,32.0,No binario,Italia,Apple,Tecnología,Awin_Affiliate,Extensión Navegador,271.69,"2,9%"
+TRX-2026-0355,2025-12-05,33.0,M,Italia,Uber Eats,Alimentación,Revolut_Rewards,Extensión Navegador,52.14,0.0494
+TRX-2026-0356,2025-09-02,25.0,M,Italia,Dia,Alimentación,Letyshops,Web/Enlace Directo,24.72,"4,4%"
+TRX-2026-0357,2025-09-22,33.0,No binario,Reino Unido,MediaMarkt,Tecnología,Awin_Affiliate,App Móvil,523.44,"2,1%"
+TRX-2026-0358,2025-10-13,31.0,No binario,ES,Uber Eats,alimentación,Awin_Affiliate,App Móvil,38.42,0.0367
+TRX-2026-0359,2025-08-07,36.0,F,Alemania,ASOS,Moda,Awin_Affiliate,App Móvil,109.15,0.0692
+TRX-2026-0360,2025-07-25,27.0,F,Italia,Sephora,moda,Awin_Affiliate,App Móvil,103.91,0.0743
+TRX-2026-0361,2026-01-02,,No binario,España ,Fnac,Tecnología,Revolut_Rewards,App Móvil,803.41,0.0256
+TRX-2026-0362,2026-02-13,46.0,No binario,España,Expedia,viajes,Letyshops,App Móvil,138.72,0.0326
+TRX-2026-0363,2026-05-02,,F,espana,Nike,moda,Revolut_Rewards,App Móvil,53.67,0.0843
+TRX-2026-0364,2025-07-09,37.0,M,Italia,MediaMarkt,Tecnología,Revolut_Rewards,Web/Enlace Directo,843.98,"2,1%"
+TRX-2026-0365,2025-10-23,39.0,No binario,Reino Unido,Uber Eats,Alimentación,Awin_Affiliate,App Móvil,50.08,0.0441
+TRX-2026-0366,2026-06-13,30.0,No binario,Italia,ASOS,Moda,Awin_Affiliate,App Móvil,91.89,0.0813
+TRX-2026-0367,2026-01-15,35.0,No binario,espana,Vueling,Viajes,Awin_Affiliate,Extensión Navegador,314.69,"5,2%"
+TRX-2026-0368,2026-02-21,34.0,M,espana,Dia,Alimentación,Awin_Affiliate,App Móvil,57.15,"3,6%"
+TRX-2026-0369,2025-07-22,34.0,M,Alemania,Uber Eats,alimentación,Revolut_Rewards,Extensión Navegador,35.84,0.0246
+TRX-2026-0370,2026-04-10,27.0,No binario,Francia,Expedia,Viajes,iGraal,Extensión Navegador,88.39,0.0387
+TRX-2026-0371,2025-06-22,34.0,F,espana,Expedia,Viajes,iGraal,App Móvil,522.12,0.0329
+TRX-2026-0372,2026-06-07,37.0,F,Italia,Zara,Moda,Revolut_Rewards,Extensión Navegador,117.2,0.042
+TRX-2026-0373,2025-10-14,45.0,M,Reino Unido,Amazon,tecnología,Letyshops,Web/Enlace Directo,666.28,0.0249
+TRX-2026-0374,2025-12-11,41.0,F,Italia,Nike,Moda,Letyshops,Web/Enlace Directo,79.27,0.0409
+TRX-2026-0375,2026-05-23,51.0,No binario,Italia,Dia,Alimentación,Awin_Affiliate,Extensión Navegador,31.17,0.035
+TRX-2026-0376,2026-05-14,27.0,F,ES,Sephora,Moda,iGraal,Extensión Navegador,85.98,0.059
+TRX-2026-0377,2025-06-26,40.0,M,España ,ASOS,Moda,iGraal,App Móvil,113.33,0.0735
+TRX-2026-0378,2025-10-17,35.0,M,Italia,Nike,moda,Letyshops,App Móvil,61.96,"5,6%"
+TRX-2026-0379,2026-03-11,51.0,F,Alemania,Fnac,Tecnología,Letyshops,App Móvil,660.06,0.0232
+TRX-2026-0380,2025-09-04,27.0,F,Alemania,Amazon,tecnología,Revolut_Rewards,Web/Enlace Directo,316.94,0.0119
+TRX-2026-0381,2026-05-28,27.0,F,ES,Dia,alimentación,iGraal,Extensión Navegador,52.12,0.0451
+TRX-2026-0382,2026-06-07,29.0,F,Reino Unido,Carrefour,Alimentación,Revolut_Rewards,Web/Enlace Directo,18.95,0.0367
+TRX-2026-0383,2025-08-02,18.0,M,Alemania,Booking,Viajes,Awin_Affiliate,Extensión Navegador,618.42,"6,8%"
+TRX-2026-0384,2025-09-17,29.0,No binario,España ,Mango,Moda,Revolut_Rewards,Web/Enlace Directo,38.19,"7,8%"
+TRX-2026-0385,2026-03-13,27.0,No binario,Francia,Apple,Tecnología,Revolut_Rewards,App Móvil,816.14,0.021
+TRX-2026-0386,2025-12-30,35.0,No binario,España,Zara,Moda,Awin_Affiliate,App Móvil,145.21,"6,7%"
+TRX-2026-0387,2026-01-10,36.0,F,espana,Zalando,moda,Awin_Affiliate,Extensión Navegador,121.44,0.0966
+TRX-2026-0388,2026-01-29,49.0,M,Alemania,Zalando,Moda,Awin_Affiliate,App Móvil,36.49,0.064
+TRX-2026-0389,2026-03-17,41.0,M,Italia,Vueling,viajes,Awin_Affiliate,Extensión Navegador,496.55,"5,3%"
+TRX-2026-0390,2025-11-03,29.0,M,Italia,Expedia,viajes,iGraal,Web/Enlace Directo,523.13,"4,5%"
+TRX-2026-0391,2025-09-29,26.0,No binario,España ,Nike,Moda,Revolut_Rewards,App Móvil,119.11,"7,5%"
+TRX-2026-0392,2026-05-02,37.0,M,Alemania,Vueling,viajes,Revolut_Rewards,App Móvil,128.5,0.0501
+TRX-2026-0393,2025-10-07,23.0,M,Reino Unido,Mango,Moda,Letyshops,Extensión Navegador,33.96,"8,7%"
+TRX-2026-0394,2025-11-09,48.0,M,ES,ASOS,Moda,Awin_Affiliate,Web/Enlace Directo,106.93,"8,6%"
+TRX-2026-0395,2026-03-31,43.0,M,España,Zalando,Moda,Awin_Affiliate,Extensión Navegador,119.72,"9,1%"
+TRX-2026-0396,2026-01-17,30.0,F,espana,Renfe,Viajes,Revolut_Rewards,App Móvil,92.97,0.0384
+TRX-2026-0397,2025-07-30,,No binario,ES,Iberia,viajes,iGraal,App Móvil,177.08,0.0414
+TRX-2026-0398,2025-11-27,44.0,No binario,España ,PcComponentes,Tecnología,iGraal,App Móvil,785.97,"2,3%"
+TRX-2026-0399,2025-10-08,33.0,No binario,Alemania,Expedia,viajes,Letyshops,Web/Enlace Directo,631.07,0.0524
+TRX-2026-0400,2025-10-06,43.0,M,Reino Unido,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,68.99,"7,8%"
+TRX-2026-0401,2025-07-28,21.0,M,Francia,Vueling,viajes,Awin_Affiliate,Extensión Navegador,166.47,0.0659
+TRX-2026-0402,2025-08-04,29.0,No binario,Reino Unido,Zara,Moda,Letyshops,Web/Enlace Directo,44.09,0.0982
+TRX-2026-0403,2026-04-04,34.0,No binario,Alemania,Zalando,Moda,Awin_Affiliate,Web/Enlace Directo,113.14,"7,1%"
+TRX-2026-0404,2025-08-28,34.0,F,ES,Vueling,Viajes,iGraal,Extensión Navegador,261.03,0.0652
+TRX-2026-0405,2025-10-30,30.0,No binario,Italia,Apple,Tecnología,Letyshops,Extensión Navegador,153.13,0.0105
+TRX-2026-0406,2025-08-12,38.0,F,España ,Renfe,Viajes,iGraal,Web/Enlace Directo,524.5,0.0354
+TRX-2026-0407,2025-10-05,25.0,M,España ,Zalando,Moda,Letyshops,Extensión Navegador,76.07,0.0981
+TRX-2026-0408,2026-03-01,32.0,F,España ,Just Eat,Alimentación,Awin_Affiliate,App Móvil,72.69,0.0328
+TRX-2026-0409,2025-08-25,34.0,No binario,Alemania,Vueling,Viajes,iGraal,App Móvil,340.43,0.0651
+TRX-2026-0410,2026-05-24,38.0,No binario,Francia,Expedia,Viajes,Awin_Affiliate,App Móvil,306.88,0.0422
+TRX-2026-0411,2026-05-17,39.0,No binario,Alemania,Zara,Moda,Revolut_Rewards,Extensión Navegador,115.33,0.0468
+TRX-2026-0412,2025-11-14,25.0,M,Francia,Expedia,viajes,Revolut_Rewards,Web/Enlace Directo,591.07,0.0658
+TRX-2026-0413,2025-06-14,21.0,F,Reino Unido,Booking,Viajes,iGraal,Web/Enlace Directo,336.16,0.0445
+TRX-2026-0414,2026-03-24,44.0,M,Alemania,Carrefour,Alimentación,Letyshops,App Móvil,51.76,"4,0%"
+TRX-2026-0415,2025-11-11,36.0,M,ES,Uber Eats,alimentación,Letyshops,Extensión Navegador,73.41,"4,9%"
+TRX-2026-0416,2026-06-11,28.0,No binario,Francia,Zalando,Moda,Revolut_Rewards,App Móvil,76.27,0.0448
+TRX-2026-0417,2025-09-01,46.0,F,ES,Zalando,Moda,iGraal,Web/Enlace Directo,68.63,"4,9%"
+TRX-2026-0418,2026-03-14,34.0,F,Reino Unido,Fnac,Tecnología,Letyshops,App Móvil,684.43,"1,7%"
+TRX-2026-0419,2026-05-10,43.0,M,Italia,Renfe,Viajes,Revolut_Rewards,Extensión Navegador,149.55,"6,4%"
+TRX-2026-0420,2026-05-15,34.0,F,Alemania,Iberia,Viajes,Awin_Affiliate,App Móvil,427.04,0.0427
+TRX-2026-0421,2025-08-29,50.0,M,Alemania,Just Eat,alimentación,Letyshops,Web/Enlace Directo,30.13,"2,9%"
+TRX-2026-0422,2026-02-27,48.0,No binario,Francia,Carrefour,Alimentación,Awin_Affiliate,App Móvil,51.43,"3,9%"
+TRX-2026-0423,2026-01-07,32.0,M,Alemania,PcComponentes,Tecnología,iGraal,Web/Enlace Directo,326.62,0.0179
+TRX-2026-0424,2025-12-22,41.0,No binario,Francia,Carrefour,Alimentación,Letyshops,App Móvil,25.1,0.0338
+TRX-2026-0425,2026-05-16,39.0,No binario,ES,Fnac,tecnología,iGraal,Extensión Navegador,536.56,0.0166
+TRX-2026-0426,2025-12-22,44.0,M,Reino Unido,Mango,Moda,Revolut_Rewards,Extensión Navegador,99.4,0.0919
+TRX-2026-0427,2025-11-14,26.0,F,Francia,ASOS,Moda,Revolut_Rewards,App Móvil,52.02,"5,8%"
+TRX-2026-0428,2025-10-29,39.0,No binario,ES,Dia,alimentación,Letyshops,App Móvil,75.04,0.042
+TRX-2026-0429,2025-09-22,42.0,No binario,ES,Sephora,Moda,iGraal,App Móvil,73.45,"9,2%"
+TRX-2026-0430,2026-04-30,19.0,M,Francia,Booking,Viajes,Awin_Affiliate,Extensión Navegador,409.21,0.0425
+TRX-2026-0431,2026-01-01,24.0,M,Reino Unido,Renfe,Viajes,Letyshops,Extensión Navegador,235.97,0.0306
+TRX-2026-0432,2026-01-01,18.0,M,España ,Fnac,tecnología,Letyshops,Extensión Navegador,101.27,
+TRX-2026-0433,2026-05-19,31.0,F,Francia,Booking,Viajes,Revolut_Rewards,App Móvil,182.02,0.0538
+TRX-2026-0434,2026-01-05,39.0,M,Italia,Sephora,Moda,iGraal,App Móvil,95.97,0.0456
+TRX-2026-0435,2025-07-19,46.0,No binario,Italia,Just Eat,Alimentación,Letyshops,Extensión Navegador,24.34,"4,7%"
+TRX-2026-0436,2025-12-26,34.0,M,Francia,Carrefour,Alimentación,iGraal,App Móvil,22.34,0.0344
+TRX-2026-0437,2025-09-26,47.0,F,Francia,Renfe,Viajes,iGraal,App Móvil,383.66,0.046
+TRX-2026-0438,2025-11-29,22.0,F,espana,Sephora,Moda,Revolut_Rewards,App Móvil,95.9,0.0605
+TRX-2026-0439,2025-08-24,20.0,M,España,Uber Eats,Alimentación,iGraal,App Móvil,26.45,"4,9%"
+TRX-2026-0440,2025-12-28,33.0,M,Reino Unido,Booking,viajes,Letyshops,Extensión Navegador,585.74,0.0661
+TRX-2026-0441,2025-09-14,37.0,M,Francia,Dia,Alimentación,Letyshops,Web/Enlace Directo,72.03,0.029
+TRX-2026-0442,2025-12-19,33.0,F,Alemania,Vueling,Viajes,Revolut_Rewards,Extensión Navegador,565.93,
+TRX-2026-0443,2025-12-12,18.0,F,Italia,PcComponentes,Tecnología,Letyshops,App Móvil,643.91,"1,8%"
+TRX-2026-0444,2025-07-09,33.0,F,Francia,Zalando,Moda,Revolut_Rewards,App Móvil,130.0,0.0493
+TRX-2026-0445,2026-06-05,23.0,F,Reino Unido,Just Eat,Alimentación,Letyshops,Extensión Navegador,23.92,0.0442
+TRX-2026-0446,2025-07-29,39.0,F,Francia,Just Eat,Alimentación,Revolut_Rewards,App Móvil,29.67,"3,3%"
+TRX-2026-0447,2026-01-27,36.0,M,Alemania,PcComponentes,Tecnología,iGraal,Web/Enlace Directo,455.61,0.0174
+TRX-2026-0448,2025-09-17,26.0,M,Francia,Vueling,viajes,iGraal,Extensión Navegador,349.3,0.0597
+TRX-2026-0449,2026-01-05,29.0,No binario,ES,Fnac,Tecnología,iGraal,App Móvil,430.47,0.0281
+TRX-2026-0450,2026-01-16,25.0,F,ES,Fnac,Tecnología,Awin_Affiliate,Extensión Navegador,581.2,0.0216
+TRX-2026-0451,2026-05-02,33.0,F,Alemania,Renfe,Viajes,Awin_Affiliate,Extensión Navegador,431.0,"4,1%"
+TRX-2026-0452,2026-03-28,41.0,No binario,Francia,Apple,tecnología,Awin_Affiliate,Web/Enlace Directo,243.13,0.0136
+TRX-2026-0453,2025-08-13,26.0,F,Italia,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,57.94,"4,2%"
+TRX-2026-0454,2026-01-29,38.0,F,espana,Zara,Moda,Revolut_Rewards,App Móvil,62.67,0.0848
+TRX-2026-0455,2026-03-31,29.0,No binario,Italia,Carrefour,Alimentación,Awin_Affiliate,App Móvil,39.83,0.0295
+TRX-2026-0456,2025-12-14,27.0,M,Alemania,Amazon,Tecnología,Awin_Affiliate,App Móvil,729.99,0.0151
+TRX-2026-0457,2025-07-04,,No binario,Italia,Mango,Moda,Awin_Affiliate,Web/Enlace Directo,111.28,0.0508
+TRX-2026-0458,2026-04-24,25.0,No binario,España,Uber Eats,alimentación,Letyshops,Web/Enlace Directo,33.41,"2,6%"
+TRX-2026-0459,2026-02-22,29.0,No binario,Reino Unido,Booking,Viajes,iGraal,Web/Enlace Directo,154.05,0.0563
+TRX-2026-0460,2025-06-22,24.0,F,ES,MediaMarkt,Tecnología,iGraal,Web/Enlace Directo,429.96,0.0299
+TRX-2026-0461,2026-05-13,49.0,M,Francia,PcComponentes,Tecnología,Awin_Affiliate,App Móvil,193.02,0.0114
+TRX-2026-0462,2026-04-19,34.0,F,Alemania,Dia,Alimentación,iGraal,App Móvil,61.5,"2,3%"
+TRX-2026-0463,2025-10-02,28.0,F,Reino Unido,Booking,viajes,Revolut_Rewards,App Móvil,166.42,"4,3%"
+TRX-2026-0464,2025-10-12,35.0,M,Francia,Vueling,viajes,Letyshops,Extensión Navegador,299.12,0.0576
+TRX-2026-0465,2025-12-25,33.0,No binario,España ,Carrefour,Alimentación,iGraal,App Móvil,49.75,"4,9%"
+TRX-2026-0466,2025-09-03,32.0,F,Francia,ASOS,Moda,Revolut_Rewards,Extensión Navegador,103.83,"6,2%"
+TRX-2026-0467,2026-03-07,38.0,F,Reino Unido,Zara,Moda,Revolut_Rewards,Extensión Navegador,124.09,0.0786
+TRX-2026-0468,2026-06-05,40.0,F,España ,Renfe,Viajes,iGraal,App Móvil,147.37,0.0623
+TRX-2026-0469,2025-08-21,29.0,F,espana,Expedia,Viajes,Revolut_Rewards,Web/Enlace Directo,90.87,0.0663
+TRX-2026-0470,2026-05-19,29.0,M,Italia,Iberia,Viajes,Letyshops,Web/Enlace Directo,116.46,"6,3%"
+TRX-2026-0471,2026-03-02,31.0,M,espana,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,52.44,0.0241
+TRX-2026-0472,2026-04-13,18.0,M,espana,Dia,alimentación,Awin_Affiliate,Web/Enlace Directo,25.73,0.0273
+TRX-2026-0473,2026-03-25,21.0,F,Francia,Booking,Viajes,iGraal,Extensión Navegador,607.9,0.0583
+TRX-2026-0474,2025-10-13,44.0,No binario,España,Zalando,Moda,Awin_Affiliate,Web/Enlace Directo,81.3,"5,4%"
+TRX-2026-0475,2026-04-29,47.0,No binario,Italia,Amazon,Tecnología,Revolut_Rewards,Extensión Navegador,519.63,0.0138
+TRX-2026-0476,2025-09-10,32.0,No binario,España ,Dia,Alimentación,Awin_Affiliate,Extensión Navegador,27.59,0.0439
+TRX-2026-0477,2026-05-17,38.0,No binario,España,Apple,tecnología,Revolut_Rewards,App Móvil,327.49,0.0261
+TRX-2026-0478,2026-03-25,36.0,F,Francia,Booking,Viajes,Letyshops,Web/Enlace Directo,333.55,0.0532
+TRX-2026-0479,2026-04-18,58.0,M,España ,Expedia,viajes,Revolut_Rewards,Extensión Navegador,294.05,0.0388
+TRX-2026-0480,2025-08-05,42.0,M,espana,Uber Eats,Alimentación,Letyshops,App Móvil,61.79,
+TRX-2026-0481,2026-01-21,32.0,F,espana,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,64.42,"2,7%"
+TRX-2026-0482,2026-03-18,26.0,No binario,Alemania,Nike,Moda,Revolut_Rewards,Web/Enlace Directo,86.15,0.0997
+TRX-2026-0483,2026-02-07,21.0,F,España ,Dia,Alimentación,Letyshops,Web/Enlace Directo,73.39,"3,3%"
+TRX-2026-0484,2025-11-24,35.0,M,Italia,Iberia,Viajes,Revolut_Rewards,Extensión Navegador,127.36,0.0601
+TRX-2026-0485,2026-02-11,27.0,No binario,España,Iberia,Viajes,Awin_Affiliate,Extensión Navegador,480.88,0.0643
+TRX-2026-0486,2025-06-18,22.0,M,España,MediaMarkt,Tecnología,iGraal,Web/Enlace Directo,100.8,"2,8%"
+TRX-2026-0487,2025-08-04,28.0,No binario,Alemania,Sephora,Moda,iGraal,Web/Enlace Directo,135.11,"8,4%"
+TRX-2026-0488,2026-04-18,25.0,M,espana,Carrefour,alimentación,Awin_Affiliate,App Móvil,26.39,"3,7%"
+TRX-2026-0489,2025-07-16,47.0,M,Reino Unido,Sephora,Moda,Letyshops,App Móvil,69.09,0.056
+TRX-2026-0490,2025-10-08,41.0,No binario,Alemania,Iberia,Viajes,Awin_Affiliate,App Móvil,433.94,0.062
+TRX-2026-0491,2025-10-22,33.0,F,España ,Dia,Alimentación,Awin_Affiliate,Extensión Navegador,22.11,0.0283
+TRX-2026-0492,2026-06-02,45.0,M,Francia,Zara,moda,Awin_Affiliate,App Móvil,80.48,"7,9%"
+TRX-2026-0493,2025-09-20,34.0,No binario,España ,Uber Eats,Alimentación,Awin_Affiliate,App Móvil,53.57,0.0409
+TRX-2026-0494,2026-01-08,27.0,F,Italia,Apple,Tecnología,Revolut_Rewards,App Móvil,874.82,"2,5%"
+TRX-2026-0495,2026-03-23,46.0,No binario,Alemania,Apple,Tecnología,Letyshops,Web/Enlace Directo,635.86,
+TRX-2026-0496,2026-04-10,38.0,M,espana,Apple,Tecnología,Letyshops,Web/Enlace Directo,648.14,0.0233
+TRX-2026-0497,2026-01-10,25.0,F,ES,Just Eat,Alimentación,Letyshops,App Móvil,75.31,0.0247
+TRX-2026-0498,2025-08-24,32.0,No binario,España,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,46.13,0.0212
+TRX-2026-0499,2025-10-28,26.0,M,espana,PcComponentes,tecnología,Letyshops,Web/Enlace Directo,492.73,0.0256
+TRX-2026-0500,2025-07-05,22.0,F,Alemania,Dia,Alimentación,Revolut_Rewards,App Móvil,54.21,"3,5%"
+TRX-2026-0501,2025-11-07,41.0,M,Francia,PcComponentes,tecnología,Awin_Affiliate,App Móvil,342.17,0.0296
+TRX-2026-0502,2025-11-13,49.0,M,España,Sephora,moda,Revolut_Rewards,Web/Enlace Directo,137.05,0.0484
+TRX-2026-0503,2025-09-18,22.0,M,España ,Carrefour,Alimentación,iGraal,App Móvil,56.52,"2,8%"
+TRX-2026-0504,2026-03-10,38.0,M,España,Carrefour,Alimentación,Awin_Affiliate,Web/Enlace Directo,34.75,0.0368
+TRX-2026-0505,2025-07-21,28.0,No binario,Francia,Renfe,viajes,Revolut_Rewards,Extensión Navegador,360.38,"5,8%"
+TRX-2026-0506,2026-05-10,30.0,No binario,Reino Unido,Fnac,Tecnología,Revolut_Rewards,Web/Enlace Directo,415.02,0.0152
+TRX-2026-0507,2025-08-23,29.0,F,Italia,Apple,Tecnología,iGraal,Extensión Navegador,314.93,"2,8%"
+TRX-2026-0508,2025-12-13,27.0,F,espana,Fnac,Tecnología,iGraal,Web/Enlace Directo,206.68,0.0226
+TRX-2026-0509,2025-06-28,34.0,M,España ,PcComponentes,Tecnología,Awin_Affiliate,Extensión Navegador,51.09,"2,0%"
+TRX-2026-0510,2026-02-22,27.0,F,Alemania,Zalando,Moda,iGraal,App Móvil,82.56,0.0446
+TRX-2026-0511,2025-12-10,36.0,F,Italia,Uber Eats,alimentación,Letyshops,Web/Enlace Directo,34.8,"4,2%"
+TRX-2026-0512,2026-01-07,33.0,F,España ,Nike,Moda,Revolut_Rewards,Web/Enlace Directo,120.38,
+TRX-2026-0513,2025-07-11,32.0,No binario,Alemania,Iberia,viajes,iGraal,App Móvil,104.67,"4,2%"
+TRX-2026-0514,2025-08-17,26.0,F,ES,PcComponentes,Tecnología,iGraal,Extensión Navegador,767.44,0.0288
+TRX-2026-0515,2025-08-04,29.0,F,Alemania,Booking,Viajes,iGraal,Web/Enlace Directo,203.69,"3,8%"
+TRX-2026-0516,2026-04-24,40.0,F,Alemania,Uber Eats,Alimentación,Letyshops,App Móvil,58.78,0.0232
+TRX-2026-0517,2025-11-17,38.0,F,Italia,PcComponentes,Tecnología,Revolut_Rewards,Extensión Navegador,486.97,"2,0%"
+TRX-2026-0518,2025-10-04,26.0,F,Francia,MediaMarkt,Tecnología,Awin_Affiliate,Web/Enlace Directo,879.51,0.0189
+TRX-2026-0519,2026-05-09,34.0,M,Reino Unido,Apple,Tecnología,iGraal,Web/Enlace Directo,462.82,0.0121
+TRX-2026-0520,2025-11-20,40.0,No binario,Alemania,Expedia,Viajes,iGraal,App Móvil,635.87,0.0435
+TRX-2026-0521,2025-10-01,20.0,M,Italia,MediaMarkt,Tecnología,Awin_Affiliate,App Móvil,613.34,0.029
+TRX-2026-0522,2026-04-12,38.0,M,Francia,Dia,Alimentación,Letyshops,Extensión Navegador,21.47,"2,2%"
+TRX-2026-0523,2025-07-01,28.0,M,España ,Fnac,Tecnología,iGraal,Extensión Navegador,608.53,0.0204
+TRX-2026-0524,2026-01-31,38.0,No binario,España ,Booking,viajes,Revolut_Rewards,Extensión Navegador,298.67,"4,3%"
+TRX-2026-0525,2026-01-09,27.0,No binario,España ,Just Eat,Alimentación,Letyshops,App Móvil,61.52,"3,5%"
+TRX-2026-0526,2025-10-13,19.0,No binario,Italia,Mango,Moda,iGraal,App Móvil,57.92,"7,5%"
+TRX-2026-0527,2026-05-13,20.0,F,Alemania,Expedia,Viajes,Awin_Affiliate,App Móvil,541.45,0.0534
+TRX-2026-0528,2025-12-13,34.0,M,España,Expedia,Viajes,Letyshops,Extensión Navegador,449.41,0.0537
+TRX-2026-0529,2025-09-11,36.0,M,ES,Just Eat,Alimentación,Revolut_Rewards,App Móvil,16.33,"3,4%"
+TRX-2026-0530,2025-10-06,26.0,F,Reino Unido,ASOS,Moda,Revolut_Rewards,Web/Enlace Directo,126.43,"8,0%"
+TRX-2026-0531,2025-07-23,39.0,F,Italia,ASOS,Moda,Awin_Affiliate,Extensión Navegador,62.17,0.0744
+TRX-2026-0532,2025-08-21,20.0,F,Alemania,Amazon,Tecnología,iGraal,Web/Enlace Directo,729.02,"2,0%"
+TRX-2026-0533,2026-01-11,33.0,M,Reino Unido,Apple,Tecnología,Revolut_Rewards,App Móvil,256.09,0.0203
+TRX-2026-0534,2025-09-22,24.0,F,Alemania,Dia,Alimentación,Revolut_Rewards,App Móvil,75.92,0.036
+TRX-2026-0535,2025-07-28,28.0,F,Alemania,ASOS,Moda,Revolut_Rewards,Extensión Navegador,55.05,0.0848
+TRX-2026-0536,2026-05-12,34.0,No binario,espana,Uber Eats,alimentación,Awin_Affiliate,Web/Enlace Directo,25.44,"4,1%"
+TRX-2026-0537,2026-01-06,27.0,M,Francia,Just Eat,Alimentación,iGraal,Extensión Navegador,25.36,"2,4%"
+TRX-2026-0538,2026-05-23,30.0,No binario,Francia,Booking,Viajes,iGraal,App Móvil,422.91,0.0647
+TRX-2026-0539,2026-04-28,42.0,M,Italia,Zalando,Moda,iGraal,Web/Enlace Directo,116.81,0.096
+TRX-2026-0540,2026-02-05,29.0,M,espana,Mango,Moda,iGraal,App Móvil,66.16,"7,5%"
+TRX-2026-0541,2026-02-24,40.0,M,Francia,Uber Eats,Alimentación,iGraal,App Móvil,49.68,"4,1%"
+TRX-2026-0542,2026-01-22,24.0,F,España,Uber Eats,Alimentación,Awin_Affiliate,Extensión Navegador,56.95,"4,7%"
+TRX-2026-0543,2025-09-04,38.0,M,ES,PcComponentes,Tecnología,Letyshops,App Móvil,374.09,"2,8%"
+TRX-2026-0544,2026-01-12,45.0,F,Italia,Zara,Moda,Awin_Affiliate,Web/Enlace Directo,75.79,0.042
+TRX-2026-0545,2025-11-14,18.0,M,Reino Unido,Carrefour,Alimentación,Letyshops,Web/Enlace Directo,31.96,0.022
+TRX-2026-0546,2025-06-23,27.0,F,Italia,Expedia,Viajes,Revolut_Rewards,Web/Enlace Directo,157.57,0.046
+TRX-2026-0547,2025-09-22,38.0,No binario,Italia,Mango,Moda,Revolut_Rewards,App Móvil,81.44,"9,2%"
+TRX-2026-0548,2026-01-20,32.0,F,espana,Uber Eats,alimentación,Letyshops,App Móvil,71.97,
+TRX-2026-0549,2025-08-04,36.0,No binario,España ,Iberia,Viajes,Letyshops,App Móvil,479.72,0.0368
+TRX-2026-0550,2026-03-18,29.0,No binario,espana,Vueling,Viajes,Revolut_Rewards,App Móvil,551.54,"5,0%"
+TRX-2026-0551,2026-01-17,34.0,No binario,Francia,Dia,Alimentación,Revolut_Rewards,Extensión Navegador,54.01,"5,0%"
+TRX-2026-0552,2026-03-31,32.0,F,España,Apple,Tecnología,Revolut_Rewards,Extensión Navegador,357.89,0.0237
+TRX-2026-0553,2025-11-22,43.0,No binario,espana,Just Eat,Alimentación,Awin_Affiliate,Extensión Navegador,21.19,"2,2%"
+TRX-2026-0554,2025-07-05,36.0,No binario,Reino Unido,Booking,Viajes,Awin_Affiliate,Web/Enlace Directo,433.2,"4,2%"
+TRX-2026-0555,2025-08-20,36.0,F,España ,Mango,moda,Revolut_Rewards,App Móvil,134.74,"4,8%"
+TRX-2026-0556,2026-04-09,30.0,M,Italia,Amazon,Tecnología,Revolut_Rewards,App Móvil,816.4,0.0153
+TRX-2026-0557,2026-03-21,30.0,M,Reino Unido,Dia,Alimentación,Revolut_Rewards,Extensión Navegador,27.28,"2,2%"
+TRX-2026-0558,2026-04-15,30.0,M,España,Uber Eats,Alimentación,Revolut_Rewards,App Móvil,47.04,0.0454
+TRX-2026-0559,2026-03-19,37.0,No binario,Alemania,Fnac,Tecnología,Letyshops,Web/Enlace Directo,898.28,0.0101
+TRX-2026-0560,2025-10-01,30.0,No binario,España,PcComponentes,Tecnología,Awin_Affiliate,Web/Enlace Directo,883.95,"1,2%"
+TRX-2026-0561,2025-06-16,36.0,No binario,Francia,Uber Eats,Alimentación,iGraal,App Móvil,78.04,0.0397
+TRX-2026-0562,2025-08-26,50.0,F,España,Renfe,Viajes,Awin_Affiliate,Extensión Navegador,503.97,0.0519
+TRX-2026-0563,2025-11-21,40.0,F,España,Zalando,Moda,Revolut_Rewards,App Móvil,60.62,0.0852
+TRX-2026-0564,2026-01-06,31.0,No binario,Alemania,ASOS,Moda,iGraal,App Móvil,89.08,0.0694
+TRX-2026-0565,2025-11-09,43.0,M,Alemania,Zara,Moda,Revolut_Rewards,Extensión Navegador,30.05,0.0605
+TRX-2026-0566,2025-10-03,30.0,No binario,Reino Unido,Renfe,Viajes,Revolut_Rewards,App Móvil,125.13,"6,2%"
+TRX-2026-0567,2026-02-06,18.0,No binario,Francia,Fnac,Tecnología,iGraal,Web/Enlace Directo,105.82,"1,1%"
+TRX-2026-0568,2025-08-26,25.0,M,espana,Fnac,Tecnología,iGraal,Web/Enlace Directo,53.99,
+TRX-2026-0569,2025-06-18,19.0,M,espana,Just Eat,alimentación,Awin_Affiliate,App Móvil,77.84,"4,6%"
+TRX-2026-0570,2025-07-04,31.0,F,Francia,Booking,Viajes,Revolut_Rewards,Extensión Navegador,87.58,0.0562
+TRX-2026-0571,2025-10-07,34.0,M,Alemania,MediaMarkt,tecnología,Awin_Affiliate,Extensión Navegador,147.58,"1,0%"
+TRX-2026-0572,2026-02-26,47.0,M,Reino Unido,Sephora,moda,Letyshops,App Móvil,130.26,0.0915
+TRX-2026-0573,2025-11-09,36.0,F,espana,Zalando,Moda,Revolut_Rewards,App Móvil,83.94,0.0916
+TRX-2026-0574,2025-12-25,32.0,F,España,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,52.61,0.0419
+TRX-2026-0575,2025-08-04,40.0,No binario,Italia,Dia,Alimentación,iGraal,Web/Enlace Directo,16.24,0.0373
+TRX-2026-0576,2026-04-15,18.0,M,Alemania,MediaMarkt,Tecnología,Revolut_Rewards,Extensión Navegador,178.75,0.0245
+TRX-2026-0577,2025-06-28,35.0,M,Alemania,Dia,Alimentación,Awin_Affiliate,Web/Enlace Directo,61.24,0.0488
+TRX-2026-0578,2026-03-23,40.0,No binario,España ,PcComponentes,Tecnología,Revolut_Rewards,Extensión Navegador,189.03,0.0131
+TRX-2026-0579,2025-09-01,22.0,F,España,Amazon,Tecnología,Awin_Affiliate,Web/Enlace Directo,176.4,0.0266
+TRX-2026-0580,2026-02-17,43.0,F,Alemania,Zara,Moda,Awin_Affiliate,App Móvil,123.11,0.0862
+TRX-2026-0581,2025-09-23,36.0,No binario,Reino Unido,Booking,Viajes,Revolut_Rewards,App Móvil,628.71,0.0602
+TRX-2026-0582,2026-04-22,30.0,No binario,España ,Expedia,Viajes,iGraal,Extensión Navegador,599.26,"3,6%"
+TRX-2026-0583,2026-03-27,39.0,No binario,espana,Apple,Tecnología,iGraal,Extensión Navegador,417.63,0.0183
+TRX-2026-0584,2026-03-18,52.0,F,España ,MediaMarkt,Tecnología,Awin_Affiliate,Web/Enlace Directo,611.9,0.013
+TRX-2026-0585,2025-11-16,35.0,M,Italia,PcComponentes,tecnología,Revolut_Rewards,Extensión Navegador,702.33,0.0244
+TRX-2026-0586,2026-03-21,35.0,M,ES,Carrefour,Alimentación,Letyshops,Web/Enlace Directo,18.76,0.0389
+TRX-2026-0587,2026-01-09,30.0,No binario,Reino Unido,Amazon,Tecnología,iGraal,App Móvil,814.18,"2,2%"
+TRX-2026-0588,2025-07-29,27.0,No binario,Reino Unido,Uber Eats,Alimentación,Revolut_Rewards,Extensión Navegador,72.26,0.0225
+TRX-2026-0589,2025-09-20,40.0,No binario,ES,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,67.59,"7,8%"
+TRX-2026-0590,2025-09-28,27.0,F,Reino Unido,Renfe,Viajes,Awin_Affiliate,Web/Enlace Directo,369.27,0.035
+TRX-2026-0591,2026-06-11,34.0,M,espana,Sephora,Moda,Letyshops,App Móvil,62.4,0.08
+TRX-2026-0592,2025-12-28,30.0,No binario,Alemania,ASOS,moda,Revolut_Rewards,Extensión Navegador,43.32,0.0655
+TRX-2026-0593,2026-02-24,37.0,M,España ,Fnac,Tecnología,Revolut_Rewards,Web/Enlace Directo,520.71,0.0256
+TRX-2026-0594,2025-10-06,36.0,No binario,Francia,Zalando,Moda,Letyshops,App Móvil,113.89,0.0478
+TRX-2026-0595,2025-10-14,42.0,F,Reino Unido,Mango,Moda,Awin_Affiliate,Extensión Navegador,100.2,
+TRX-2026-0596,2025-12-05,29.0,M,España,Amazon,Tecnología,Revolut_Rewards,Extensión Navegador,720.44,0.0128
+TRX-2026-0597,2026-03-12,31.0,No binario,Francia,Booking,Viajes,Awin_Affiliate,Extensión Navegador,576.14,0.0467
+TRX-2026-0598,2025-10-13,26.0,No binario,Italia,Zalando,moda,Revolut_Rewards,App Móvil,108.4,0.0489
+TRX-2026-0599,2025-11-27,30.0,F,Francia,Fnac,Tecnología,iGraal,Web/Enlace Directo,805.44,0.0247
+TRX-2026-0600,2025-06-16,37.0,M,Alemania,Vueling,Viajes,iGraal,Extensión Navegador,624.45,0.0517
+TRX-2026-0601,2025-09-29,40.0,F,España ,Nike,moda,Awin_Affiliate,Extensión Navegador,55.66,0.0823
+TRX-2026-0602,2025-08-16,26.0,F,Francia,Renfe,Viajes,Revolut_Rewards,Extensión Navegador,316.51,"6,4%"
+TRX-2026-0603,2026-03-19,40.0,M,ES,ASOS,Moda,iGraal,Extensión Navegador,63.35,"6,4%"
+TRX-2026-0604,2026-04-24,44.0,M,espana,Uber Eats,Alimentación,Awin_Affiliate,App Móvil,76.2,"4,7%"
+TRX-2026-0605,2025-09-28,37.0,M,espana,PcComponentes,Tecnología,Awin_Affiliate,App Móvil,515.68,
+TRX-2026-0606,2025-08-17,49.0,No binario,espana,Mango,Moda,Letyshops,App Móvil,96.03,0.0668
+TRX-2026-0607,2026-03-19,27.0,F,Alemania,Just Eat,Alimentación,iGraal,Extensión Navegador,67.82,0.0488
+TRX-2026-0608,2025-10-10,24.0,M,Alemania,MediaMarkt,Tecnología,Awin_Affiliate,Web/Enlace Directo,222.97,"2,7%"
+TRX-2026-0609,2026-04-29,19.0,M,Reino Unido,Expedia,Viajes,Awin_Affiliate,App Móvil,200.18,0.0502
+TRX-2026-0610,2025-06-16,45.0,M,espana,Sephora,Moda,Awin_Affiliate,App Móvil,51.33,
+TRX-2026-0611,2026-06-09,39.0,No binario,España,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,20.27,0.0463
+TRX-2026-0612,2026-04-11,33.0,M,Italia,Uber Eats,alimentación,Revolut_Rewards,Extensión Navegador,69.54,0.0444
+TRX-2026-0613,2026-06-09,36.0,F,Reino Unido,Renfe,Viajes,Awin_Affiliate,Extensión Navegador,131.28,"5,5%"
+TRX-2026-0614,2025-12-10,24.0,F,ES,Dia,Alimentación,iGraal,Extensión Navegador,78.98,"3,9%"
+TRX-2026-0615,2025-07-11,53.0,No binario,Alemania,Nike,Moda,Letyshops,Web/Enlace Directo,33.13,0.0556
+TRX-2026-0616,2026-03-07,35.0,No binario,España,Fnac,Tecnología,Revolut_Rewards,Extensión Navegador,846.59,0.0228
+TRX-2026-0617,2025-11-17,34.0,M,ES,Just Eat,Alimentación,Awin_Affiliate,Web/Enlace Directo,64.34,"4,7%"
+TRX-2026-0618,2025-11-25,39.0,F,espana,Vueling,Viajes,iGraal,Web/Enlace Directo,208.61,0.0576
+TRX-2026-0619,2025-07-28,37.0,F,espana,Just Eat,alimentación,iGraal,Web/Enlace Directo,66.82,0.0481
+TRX-2026-0620,2026-05-17,35.0,M,Alemania,Nike,moda,Revolut_Rewards,Extensión Navegador,103.17,
+TRX-2026-0621,2025-06-23,27.0,F,Italia,Nike,Moda,Revolut_Rewards,Extensión Navegador,62.68,"7,8%"
+TRX-2026-0622,2025-11-30,37.0,M,España,Dia,Alimentación,iGraal,App Móvil,39.95,0.0439
+TRX-2026-0623,2025-10-24,49.0,No binario,espana,Nike,Moda,iGraal,Extensión Navegador,99.4,0.0441
+TRX-2026-0624,2025-12-14,44.0,M,Francia,Dia,Alimentación,Letyshops,Extensión Navegador,66.81,"2,2%"
+TRX-2026-0625,2026-01-05,46.0,No binario,Alemania,Zalando,Moda,Revolut_Rewards,App Móvil,100.42,0.0575
+TRX-2026-0626,2026-02-12,29.0,No binario,Italia,Iberia,viajes,Awin_Affiliate,Extensión Navegador,636.61,"5,6%"
+TRX-2026-0627,2025-06-24,26.0,M,Alemania,Fnac,Tecnología,Awin_Affiliate,Web/Enlace Directo,297.68,"1,7%"
+TRX-2026-0628,2026-06-12,32.0,No binario,España ,Zara,Moda,Letyshops,Extensión Navegador,85.09,0.0861
+TRX-2026-0629,2025-12-10,34.0,F,ES,PcComponentes,tecnología,iGraal,Extensión Navegador,289.9,
+TRX-2026-0630,2026-03-16,42.0,F,España,ASOS,moda,Letyshops,Extensión Navegador,49.5,"5,1%"
+TRX-2026-0631,2026-04-18,20.0,M,España ,MediaMarkt,Tecnología,Letyshops,App Móvil,736.16,0.0232
+TRX-2026-0632,2026-04-08,46.0,F,espana,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,42.92,0.0391
+TRX-2026-0633,2026-02-07,32.0,F,Reino Unido,Apple,Tecnología,Revolut_Rewards,Extensión Navegador,665.48,0.0257
+TRX-2026-0634,2025-07-18,30.0,No binario,España ,Just Eat,Alimentación,Letyshops,App Móvil,61.31,0.0358
+TRX-2026-0635,2025-08-19,25.0,No binario,España ,Zalando,Moda,Letyshops,App Móvil,132.9,"6,4%"
+TRX-2026-0636,2025-09-05,20.0,F,ES,Renfe,Viajes,Revolut_Rewards,Web/Enlace Directo,280.4,0.0534
+TRX-2026-0637,2025-10-02,40.0,M,España,Carrefour,Alimentación,Letyshops,App Móvil,30.2,"3,9%"
+TRX-2026-0638,2026-05-04,34.0,M,ES,Booking,Viajes,iGraal,App Móvil,101.82,"3,8%"
+TRX-2026-0639,2026-01-24,23.0,F,Reino Unido,Sephora,Moda,Awin_Affiliate,Extensión Navegador,121.26,"5,7%"
+TRX-2026-0640,2025-07-13,23.0,F,Francia,Zara,Moda,Letyshops,Extensión Navegador,115.42,"5,3%"
+TRX-2026-0641,2025-10-20,31.0,M,Italia,Renfe,Viajes,Letyshops,App Móvil,518.97,"5,8%"
+TRX-2026-0642,2025-08-22,47.0,F,ES,Iberia,Viajes,Awin_Affiliate,App Móvil,208.53,
+TRX-2026-0643,2026-04-03,31.0,F,ES,Just Eat,Alimentación,Letyshops,App Móvil,19.14,0.0316
+TRX-2026-0644,2026-04-27,21.0,F,ES,Nike,Moda,Revolut_Rewards,Extensión Navegador,48.34,0.0442
+TRX-2026-0645,2025-10-24,32.0,F,España ,Expedia,Viajes,Awin_Affiliate,App Móvil,302.93,"7,0%"
+TRX-2026-0646,2026-02-28,31.0,F,Italia,ASOS,Moda,Revolut_Rewards,Web/Enlace Directo,108.1,0.0495
+TRX-2026-0647,2025-10-22,18.0,M,ES,Expedia,Viajes,Revolut_Rewards,Extensión Navegador,550.01,"5,4%"
+TRX-2026-0648,2025-08-23,33.0,F,Reino Unido,Renfe,Viajes,Revolut_Rewards,App Móvil,479.18,"5,8%"
+TRX-2026-0649,2026-02-06,32.0,F,Alemania,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,26.92,"3,7%"
+TRX-2026-0650,2026-01-24,39.0,No binario,Alemania,PcComponentes,Tecnología,Letyshops,App Móvil,393.7,"2,5%"
+TRX-2026-0651,2025-12-29,48.0,M,Francia,ASOS,Moda,Letyshops,Web/Enlace Directo,30.58,0.0416
+TRX-2026-0652,2025-11-21,43.0,F,Francia,Booking,Viajes,Awin_Affiliate,Extensión Navegador,484.19,0.0355
+TRX-2026-0653,2025-07-12,31.0,F,Reino Unido,Dia,alimentación,Revolut_Rewards,App Móvil,69.7,"2,5%"
+TRX-2026-0654,2025-11-25,25.0,F,espana,Renfe,Viajes,Letyshops,App Móvil,284.11,
+TRX-2026-0655,2025-09-19,54.0,No binario,Reino Unido,Iberia,Viajes,Awin_Affiliate,App Móvil,109.88,0.0302
+TRX-2026-0656,2026-02-11,34.0,F,espana,Iberia,Viajes,iGraal,Extensión Navegador,272.16,0.0377
+TRX-2026-0657,2025-07-08,34.0,F,Reino Unido,Nike,Moda,Revolut_Rewards,Web/Enlace Directo,38.46,0.0596
+TRX-2026-0658,2025-11-06,33.0,F,España ,Nike,Moda,Awin_Affiliate,App Móvil,46.7,"6,4%"
+TRX-2026-0659,2026-01-22,35.0,No binario,Alemania,PcComponentes,Tecnología,iGraal,Extensión Navegador,393.54,0.0254
+TRX-2026-0660,2025-08-26,32.0,F,espana,Vueling,Viajes,Awin_Affiliate,Web/Enlace Directo,476.9,0.0571
+TRX-2026-0661,2026-01-02,29.0,No binario,Francia,Renfe,Viajes,iGraal,Web/Enlace Directo,599.9,0.048
+TRX-2026-0662,2026-06-07,29.0,F,espana,Renfe,Viajes,Letyshops,Web/Enlace Directo,324.24,"4,0%"
+TRX-2026-0663,2026-03-01,33.0,No binario,España,Sephora,Moda,Revolut_Rewards,Web/Enlace Directo,134.67,"4,8%"
+TRX-2026-0664,2026-01-17,29.0,F,espana,Amazon,Tecnología,Letyshops,Extensión Navegador,503.81,0.0281
+TRX-2026-0665,2025-11-30,28.0,No binario,espana,Zara,Moda,iGraal,Extensión Navegador,133.73,"4,4%"
+TRX-2026-0666,2025-09-05,34.0,F,espana,Iberia,Viajes,Revolut_Rewards,App Móvil,173.57,0.0379
+TRX-2026-0667,2026-03-02,31.0,M,Italia,Carrefour,Alimentación,Awin_Affiliate,App Móvil,39.55,0.0341
+TRX-2026-0668,2025-10-10,46.0,F,Italia,Just Eat,Alimentación,iGraal,App Móvil,53.69,0.0246
+TRX-2026-0669,2025-12-03,18.0,No binario,Alemania,Carrefour,alimentación,Awin_Affiliate,Extensión Navegador,61.47,0.0259
+TRX-2026-0670,2025-12-04,42.0,M,Francia,Just Eat,Alimentación,Awin_Affiliate,App Móvil,46.82,
+TRX-2026-0671,2025-11-28,43.0,No binario,ES,Zara,Moda,Awin_Affiliate,Web/Enlace Directo,68.57,0.0825
+TRX-2026-0672,2026-02-07,18.0,F,Francia,Renfe,Viajes,iGraal,Web/Enlace Directo,459.44,0.0359
+TRX-2026-0673,2025-08-21,31.0,No binario,Italia,Nike,Moda,iGraal,Extensión Navegador,105.55,"9,5%"
+TRX-2026-0674,2026-03-09,31.0,M,ES,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,77.9,"4,0%"
+TRX-2026-0675,2026-04-29,22.0,F,Reino Unido,Apple,tecnología,Awin_Affiliate,Web/Enlace Directo,220.19,0.025
+TRX-2026-0676,2026-04-25,27.0,F,Italia,Just Eat,alimentación,Awin_Affiliate,Web/Enlace Directo,43.01,"2,5%"
+TRX-2026-0677,2026-04-18,25.0,M,Alemania,Zalando,Moda,Letyshops,Extensión Navegador,118.74,"8,9%"
+TRX-2026-0678,2025-07-29,48.0,F,Italia,Nike,Moda,Awin_Affiliate,Extensión Navegador,72.22,"5,7%"
+TRX-2026-0679,2026-04-23,41.0,F,ES,PcComponentes,Tecnología,iGraal,Extensión Navegador,221.52,"2,6%"
+TRX-2026-0680,2025-11-06,,M,ES,Amazon,Tecnología,Letyshops,App Móvil,611.97,"1,8%"
+TRX-2026-0681,2025-06-21,39.0,M,Reino Unido,Nike,Moda,iGraal,Web/Enlace Directo,59.93,0.082
+TRX-2026-0682,2025-10-13,24.0,No binario,Francia,Nike,Moda,Awin_Affiliate,Extensión Navegador,104.22,0.0924
+TRX-2026-0683,2025-10-08,29.0,M,Reino Unido,Renfe,Viajes,Revolut_Rewards,App Móvil,642.52,0.0643
+TRX-2026-0684,2026-04-01,37.0,No binario,Alemania,Expedia,Viajes,Revolut_Rewards,Extensión Navegador,251.77,0.0569
+TRX-2026-0685,2026-04-15,24.0,M,Reino Unido,Zalando,Moda,Letyshops,Extensión Navegador,119.16,"8,0%"
+TRX-2026-0686,2025-12-28,39.0,M,Italia,Apple,tecnología,Awin_Affiliate,Web/Enlace Directo,449.62,"2,8%"
+TRX-2026-0687,2026-04-28,32.0,No binario,España ,Mango,Moda,iGraal,Web/Enlace Directo,67.9,0.0946
+TRX-2026-0688,2025-11-02,31.0,F,espana,PcComponentes,Tecnología,Awin_Affiliate,Extensión Navegador,135.79,0.0168
+TRX-2026-0689,2026-01-04,39.0,M,Alemania,Renfe,Viajes,iGraal,Web/Enlace Directo,385.29,0.0639
+TRX-2026-0690,2026-04-10,37.0,No binario,Reino Unido,Nike,Moda,Revolut_Rewards,Extensión Navegador,92.29,"6,8%"
+TRX-2026-0691,2025-10-23,31.0,F,Alemania,Apple,Tecnología,iGraal,Web/Enlace Directo,315.32,0.02
+TRX-2026-0692,2025-07-25,43.0,F,Francia,MediaMarkt,Tecnología,iGraal,App Móvil,171.32,0.0243
+TRX-2026-0693,2026-03-14,25.0,M,Reino Unido,Uber Eats,Alimentación,Letyshops,Extensión Navegador,50.62,0.0301
+TRX-2026-0694,2025-09-16,38.0,No binario,España,Apple,Tecnología,Revolut_Rewards,Extensión Navegador,152.57,0.025
+TRX-2026-0695,2026-03-22,38.0,No binario,España,Just Eat,Alimentación,Awin_Affiliate,Extensión Navegador,28.63,"4,4%"
+TRX-2026-0696,2026-03-30,31.0,M,Francia,Nike,Moda,iGraal,App Móvil,146.77,"5,1%"
+TRX-2026-0697,2026-03-29,36.0,No binario,Reino Unido,Dia,Alimentación,iGraal,Extensión Navegador,30.66,0.0347
+TRX-2026-0698,2025-06-24,23.0,No binario,Reino Unido,Iberia,viajes,Revolut_Rewards,App Móvil,440.43,"4,8%"
+TRX-2026-0699,2025-09-26,41.0,F,España ,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,26.77,0.0345
+TRX-2026-0700,2025-06-13,32.0,No binario,España,Carrefour,Alimentación,Revolut_Rewards,Web/Enlace Directo,68.14,0.0435
+TRX-2026-0701,2025-07-15,29.0,F,Italia,Sephora,Moda,iGraal,Extensión Navegador,132.75,"8,2%"
+TRX-2026-0702,2025-08-23,42.0,F,Reino Unido,Nike,Moda,Awin_Affiliate,Extensión Navegador,35.58,"4,7%"
+TRX-2026-0703,2025-07-12,28.0,F,ES,PcComponentes,Tecnología,Awin_Affiliate,Web/Enlace Directo,499.33,0.0128
+TRX-2026-0704,2025-09-11,22.0,No binario,espana,Booking,Viajes,Letyshops,Extensión Navegador,187.2,0.042
+TRX-2026-0705,2026-04-09,21.0,No binario,Alemania,Carrefour,alimentación,Awin_Affiliate,App Móvil,39.82,0.0471
+TRX-2026-0706,2025-06-23,38.0,F,Alemania,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,112.1,"5,2%"
+TRX-2026-0707,2025-11-11,23.0,F,España ,Just Eat,alimentación,iGraal,Web/Enlace Directo,31.09,0.0281
+TRX-2026-0708,2025-12-25,48.0,M,España,ASOS,Moda,iGraal,Extensión Navegador,72.14,"9,8%"
+TRX-2026-0709,2026-01-08,18.0,No binario,Italia,Carrefour,alimentación,Awin_Affiliate,Web/Enlace Directo,52.19,
+TRX-2026-0710,2025-11-26,47.0,F,espana,Just Eat,alimentación,Letyshops,App Móvil,15.62,"3,5%"
+TRX-2026-0711,2025-07-21,35.0,M,Reino Unido,Sephora,Moda,Revolut_Rewards,Web/Enlace Directo,82.22,"6,6%"
+TRX-2026-0712,2025-09-20,33.0,No binario,Italia,ASOS,moda,iGraal,App Móvil,75.81,"5,9%"
+TRX-2026-0713,2026-03-21,29.0,No binario,espana,Renfe,Viajes,Revolut_Rewards,Extensión Navegador,628.43,0.047
+TRX-2026-0714,2025-09-14,37.0,No binario,ES,Carrefour,Alimentación,Letyshops,Web/Enlace Directo,15.47,0.0327
+TRX-2026-0715,2025-09-16,33.0,No binario,Alemania,Vueling,Viajes,Revolut_Rewards,Extensión Navegador,464.48,0.0653
+TRX-2026-0716,2025-09-23,42.0,M,espana,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,39.26,0.0234
+TRX-2026-0717,2026-01-16,34.0,M,Francia,Amazon,Tecnología,Letyshops,Extensión Navegador,674.7,"2,1%"
+TRX-2026-0718,2026-05-26,35.0,M,Alemania,Carrefour,alimentación,Awin_Affiliate,Extensión Navegador,55.01,"3,0%"
+TRX-2026-0719,2025-12-14,31.0,F,España ,Just Eat,alimentación,Letyshops,Extensión Navegador,49.39,0.047
+TRX-2026-0720,2025-10-16,33.0,M,España ,Amazon,Tecnología,Revolut_Rewards,Extensión Navegador,501.33,0.0154
+TRX-2026-0721,2025-12-12,36.0,No binario,España,Expedia,Viajes,Awin_Affiliate,Extensión Navegador,156.2,"4,7%"
+TRX-2026-0722,2025-07-08,20.0,M,España ,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,61.43,0.0297
+TRX-2026-0723,2025-11-26,23.0,F,España,Booking,Viajes,Letyshops,Extensión Navegador,276.15,0.0305
+TRX-2026-0724,2026-06-09,39.0,M,Francia,Amazon,Tecnología,Revolut_Rewards,Extensión Navegador,694.37,"1,5%"
+TRX-2026-0725,2026-01-30,35.0,No binario,espana,Dia,Alimentación,Revolut_Rewards,Web/Enlace Directo,65.88,0.0231
+TRX-2026-0726,2026-03-29,32.0,F,espana,Zara,moda,iGraal,App Móvil,148.8,0.0957
+TRX-2026-0727,2026-01-08,34.0,No binario,Reino Unido,Zalando,Moda,Awin_Affiliate,App Móvil,84.9,0.0706
+TRX-2026-0728,2025-12-16,36.0,No binario,Francia,ASOS,Moda,iGraal,Extensión Navegador,30.11,0.0431
+TRX-2026-0729,2026-04-23,29.0,M,espana,MediaMarkt,Tecnología,Awin_Affiliate,App Móvil,301.75,"1,2%"
+TRX-2026-0730,2025-08-16,27.0,No binario,Alemania,Apple,Tecnología,Awin_Affiliate,Extensión Navegador,542.52,"1,2%"
+TRX-2026-0731,2025-07-13,35.0,F,espana,Carrefour,Alimentación,iGraal,Web/Enlace Directo,55.24,0.029
+TRX-2026-0732,2025-11-11,26.0,No binario,Reino Unido,Fnac,tecnología,Awin_Affiliate,App Móvil,425.69,0.0243
+TRX-2026-0733,2025-09-29,37.0,F,espana,Apple,Tecnología,Awin_Affiliate,Extensión Navegador,861.99,0.0112
+TRX-2026-0734,2025-09-24,20.0,F,espana,Just Eat,Alimentación,Revolut_Rewards,App Móvil,54.47,
+TRX-2026-0735,2025-09-24,42.0,M,Alemania,Amazon,tecnología,Letyshops,App Móvil,649.1,"2,1%"
+TRX-2026-0736,2026-03-30,37.0,M,ES,PcComponentes,Tecnología,Letyshops,Extensión Navegador,499.75,"1,0%"
+TRX-2026-0737,2026-01-29,36.0,No binario,ES,Uber Eats,Alimentación,Awin_Affiliate,Extensión Navegador,55.69,"2,0%"
+TRX-2026-0738,2025-08-19,41.0,F,Reino Unido,Uber Eats,Alimentación,Letyshops,App Móvil,29.34,0.0281
+TRX-2026-0739,2026-02-15,47.0,No binario,Reino Unido,Uber Eats,Alimentación,Letyshops,App Móvil,21.09,"2,5%"
+TRX-2026-0740,2026-03-13,42.0,No binario,espana,Renfe,viajes,Letyshops,Extensión Navegador,545.97,"5,7%"
+TRX-2026-0741,2025-11-19,19.0,F,Reino Unido,Sephora,moda,iGraal,Web/Enlace Directo,37.47,"6,3%"
+TRX-2026-0742,2026-04-07,23.0,F,Italia,Renfe,Viajes,Letyshops,Web/Enlace Directo,421.79,"6,2%"
+TRX-2026-0743,2025-06-16,29.0,F,ES,Zara,Moda,Revolut_Rewards,Extensión Navegador,63.42,"6,9%"
+TRX-2026-0744,2026-04-22,34.0,No binario,España ,Vueling,viajes,Revolut_Rewards,Extensión Navegador,80.69,"3,9%"
+TRX-2026-0745,2025-06-28,38.0,M,Reino Unido,Iberia,viajes,Letyshops,Extensión Navegador,207.98,"6,8%"
+TRX-2026-0746,2026-05-01,28.0,F,Alemania,Zalando,Moda,Revolut_Rewards,Web/Enlace Directo,66.86,0.0509
+TRX-2026-0747,2026-01-18,35.0,M,España,MediaMarkt,Tecnología,Awin_Affiliate,App Móvil,737.22,"2,4%"
+TRX-2026-0748,2026-03-30,27.0,M,espana,Just Eat,alimentación,Revolut_Rewards,Extensión Navegador,22.36,0.0328
+TRX-2026-0749,2025-11-28,29.0,M,espana,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,78.24,0.0381
+TRX-2026-0750,2025-11-11,22.0,No binario,Francia,Dia,Alimentación,Revolut_Rewards,Extensión Navegador,52.76,0.0327
+TRX-2026-0751,2026-02-13,26.0,M,ES,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,84.24,"4,8%"
+TRX-2026-0752,2026-04-03,23.0,M,Francia,Mango,moda,Revolut_Rewards,Extensión Navegador,51.34,0.0535
+TRX-2026-0753,2026-05-31,26.0,No binario,Francia,PcComponentes,Tecnología,iGraal,Web/Enlace Directo,540.18,0.0195
+TRX-2026-0754,2026-02-08,42.0,F,ES,Dia,Alimentación,Letyshops,App Móvil,63.33,0.0424
+TRX-2026-0755,2025-07-18,26.0,No binario,espana,PcComponentes,tecnología,Letyshops,Extensión Navegador,797.8,0.0106
+TRX-2026-0756,2025-10-24,55.0,No binario,Reino Unido,Fnac,tecnología,Awin_Affiliate,Web/Enlace Directo,235.49,"2,9%"
+TRX-2026-0757,2026-02-25,37.0,M,Alemania,Expedia,viajes,Revolut_Rewards,Extensión Navegador,548.83,0.069
+TRX-2026-0758,2025-07-14,35.0,No binario,Francia,Dia,alimentación,iGraal,App Móvil,57.03,"2,6%"
+TRX-2026-0759,2026-05-30,27.0,F,espana,Mango,Moda,iGraal,Extensión Navegador,51.49,0.0407
+TRX-2026-0760,2026-01-27,39.0,F,Alemania,Vueling,Viajes,Revolut_Rewards,Extensión Navegador,107.39,"3,4%"
+TRX-2026-0761,2025-09-30,,F,España,Uber Eats,Alimentación,Letyshops,Web/Enlace Directo,58.85,0.0299
+TRX-2026-0762,2025-11-30,34.0,M,Alemania,Renfe,Viajes,Letyshops,Extensión Navegador,468.95,0.0332
+TRX-2026-0763,2025-06-30,54.0,No binario,España ,Mango,moda,Awin_Affiliate,App Móvil,123.17,"6,0%"
+TRX-2026-0764,2026-02-11,33.0,F,Alemania,Expedia,Viajes,Revolut_Rewards,Extensión Navegador,538.69,0.0357
+TRX-2026-0765,2026-04-30,43.0,M,España,Uber Eats,alimentación,Letyshops,App Móvil,25.5,"2,8%"
+TRX-2026-0766,2025-10-14,28.0,M,Italia,Dia,Alimentación,iGraal,Web/Enlace Directo,46.74,"3,1%"
+TRX-2026-0767,2025-10-31,33.0,M,Alemania,Amazon,Tecnología,iGraal,Web/Enlace Directo,395.35,
+TRX-2026-0768,2026-05-15,48.0,No binario,Italia,Sephora,Moda,iGraal,Extensión Navegador,131.63,"5,7%"
+TRX-2026-0769,2025-10-20,28.0,No binario,espana,MediaMarkt,Tecnología,Revolut_Rewards,Web/Enlace Directo,500.2,"2,6%"
+TRX-2026-0770,2025-11-04,48.0,F,Francia,PcComponentes,Tecnología,Awin_Affiliate,App Móvil,896.94,0.0197
+TRX-2026-0771,2026-03-26,39.0,M,España ,ASOS,Moda,iGraal,Web/Enlace Directo,121.78,0.0437
+TRX-2026-0772,2026-06-02,29.0,No binario,Francia,Amazon,Tecnología,Letyshops,Extensión Navegador,161.89,"1,5%"
+TRX-2026-0773,2026-02-24,39.0,No binario,ES,Nike,Moda,iGraal,App Móvil,67.75,"8,5%"
+TRX-2026-0774,2026-03-23,41.0,No binario,Francia,Fnac,Tecnología,Revolut_Rewards,Extensión Navegador,522.38,"2,8%"
+TRX-2026-0775,2025-07-08,38.0,No binario,Reino Unido,PcComponentes,Tecnología,Letyshops,App Móvil,843.08,"2,0%"
+TRX-2026-0776,2026-06-12,21.0,M,Italia,Sephora,Moda,Revolut_Rewards,Web/Enlace Directo,146.18,"4,6%"
+TRX-2026-0777,2026-03-20,28.0,No binario,Francia,ASOS,Moda,Letyshops,Extensión Navegador,146.47,
+TRX-2026-0778,2025-09-29,32.0,F,Reino Unido,Just Eat,Alimentación,Revolut_Rewards,App Móvil,37.86,0.0448
+TRX-2026-0779,2025-10-22,33.0,M,España ,Mango,Moda,Letyshops,Web/Enlace Directo,79.48,0.0571
+TRX-2026-0780,2026-04-24,38.0,F,Italia,Booking,Viajes,iGraal,Web/Enlace Directo,611.52,0.0341
+TRX-2026-0781,2025-09-29,35.0,No binario,Italia,Renfe,Viajes,Revolut_Rewards,Extensión Navegador,207.04,"4,8%"
+TRX-2026-0782,2025-10-19,23.0,M,Italia,Carrefour,Alimentación,Awin_Affiliate,Extensión Navegador,47.99,0.028
+TRX-2026-0783,2025-07-04,37.0,F,ES,Carrefour,Alimentación,iGraal,Extensión Navegador,24.97,0.0312
+TRX-2026-0784,2026-02-10,38.0,No binario,Francia,Mango,Moda,Revolut_Rewards,Extensión Navegador,125.17,"7,5%"
+TRX-2026-0785,2026-01-02,38.0,No binario,España ,Dia,Alimentación,iGraal,Web/Enlace Directo,67.08,0.0351
+TRX-2026-0786,2025-09-03,42.0,F,España,Nike,Moda,iGraal,Extensión Navegador,79.68,0.0777
+TRX-2026-0787,2025-08-25,40.0,M,espana,Zara,Moda,Awin_Affiliate,Extensión Navegador,54.97,"9,4%"
+TRX-2026-0788,2026-01-31,37.0,No binario,España,PcComponentes,Tecnología,Letyshops,Web/Enlace Directo,59.9,0.0297
+TRX-2026-0789,2026-01-20,33.0,M,España,Booking,Viajes,Revolut_Rewards,App Móvil,600.25,"3,8%"
+TRX-2026-0790,2026-02-26,20.0,No binario,Francia,Uber Eats,Alimentación,Revolut_Rewards,Extensión Navegador,26.69,"2,0%"
+TRX-2026-0791,2025-12-20,37.0,M,Francia,Expedia,Viajes,Awin_Affiliate,Extensión Navegador,189.92,"3,1%"
+TRX-2026-0792,2026-04-16,35.0,F,España ,Apple,Tecnología,Letyshops,Extensión Navegador,665.86,"2,9%"
+TRX-2026-0793,2025-07-15,36.0,M,Francia,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,31.26,0.0259
+TRX-2026-0794,2025-08-17,23.0,M,ES,Sephora,Moda,Revolut_Rewards,App Móvil,135.36,0.0654
+TRX-2026-0795,2025-08-27,25.0,M,ES,Iberia,Viajes,Letyshops,Extensión Navegador,626.12,0.0401
+TRX-2026-0796,2025-11-06,42.0,F,España,Nike,Moda,Letyshops,Web/Enlace Directo,71.46,
+TRX-2026-0797,2025-10-18,33.0,No binario,Italia,Apple,Tecnología,iGraal,App Móvil,283.91,"1,4%"
+TRX-2026-0798,2025-07-05,39.0,F,Alemania,Just Eat,alimentación,Awin_Affiliate,App Móvil,27.88,0.0215
+TRX-2026-0799,2025-10-25,34.0,F,Alemania,Fnac,Tecnología,Revolut_Rewards,Extensión Navegador,535.72,0.0157
+TRX-2026-0800,2026-01-19,34.0,F,Italia,Carrefour,Alimentación,iGraal,App Móvil,56.91,"2,2%"
+TRX-2026-0801,2025-12-18,41.0,M,España,MediaMarkt,Tecnología,iGraal,App Móvil,296.66,0.0297
+TRX-2026-0802,2026-02-19,29.0,F,Italia,Expedia,viajes,iGraal,App Móvil,570.99,"5,9%"
+TRX-2026-0803,2025-09-11,34.0,F,Reino Unido,Renfe,Viajes,iGraal,Extensión Navegador,107.36,"4,2%"
+TRX-2026-0804,2025-06-21,30.0,F,España ,Carrefour,Alimentación,Letyshops,App Móvil,71.02,0.0426
+TRX-2026-0805,2026-02-10,30.0,No binario,Francia,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,46.38,0.0228
+TRX-2026-0806,2026-02-09,31.0,No binario,Reino Unido,Sephora,Moda,iGraal,Extensión Navegador,146.47,"4,4%"
+TRX-2026-0807,2026-04-21,35.0,M,espana,Amazon,Tecnología,Revolut_Rewards,Web/Enlace Directo,172.44,0.0201
+TRX-2026-0808,2025-07-31,30.0,No binario,España,Dia,alimentación,iGraal,App Móvil,42.5,0.0406
+TRX-2026-0809,2026-02-10,44.0,F,Francia,ASOS,Moda,iGraal,App Móvil,107.74,"6,7%"
+TRX-2026-0810,2026-03-28,26.0,M,Alemania,Uber Eats,Alimentación,iGraal,App Móvil,32.72,0.0229
+TRX-2026-0811,2025-11-19,32.0,F,Alemania,Fnac,Tecnología,Revolut_Rewards,Web/Enlace Directo,412.87,0.0236
+TRX-2026-0812,2026-05-26,30.0,No binario,España ,Nike,Moda,iGraal,App Móvil,53.31,0.0772
+TRX-2026-0813,2025-06-24,45.0,M,Francia,Zalando,moda,Letyshops,App Móvil,104.61,"8,2%"
+TRX-2026-0814,2025-07-30,35.0,M,Reino Unido,Apple,Tecnología,Letyshops,App Móvil,626.04,"1,3%"
+TRX-2026-0815,2025-11-06,42.0,M,España ,ASOS,Moda,iGraal,Extensión Navegador,109.9,0.0912
+TRX-2026-0816,2026-04-18,22.0,F,Italia,Vueling,viajes,Awin_Affiliate,Extensión Navegador,379.4,"3,7%"
+TRX-2026-0817,2025-10-25,36.0,M,Reino Unido,Fnac,Tecnología,Awin_Affiliate,Web/Enlace Directo,458.38,"1,7%"
+TRX-2026-0818,2025-07-09,41.0,No binario,Francia,Renfe,viajes,iGraal,Extensión Navegador,637.82,0.0643
+TRX-2026-0819,2025-06-22,34.0,M,ES,Sephora,Moda,iGraal,Extensión Navegador,140.08,"6,3%"
+TRX-2026-0820,2025-10-26,42.0,No binario,espana,Amazon,tecnología,Awin_Affiliate,App Móvil,546.67,"2,9%"
+TRX-2026-0821,2025-08-04,29.0,F,Francia,Uber Eats,Alimentación,Awin_Affiliate,Extensión Navegador,78.02,0.035
+TRX-2026-0822,2025-07-29,45.0,No binario,Reino Unido,ASOS,Moda,Revolut_Rewards,App Móvil,33.08,0.0577
+TRX-2026-0823,2025-10-06,52.0,M,espana,Uber Eats,Alimentación,iGraal,Extensión Navegador,31.34,"3,1%"
+TRX-2026-0824,2026-03-05,31.0,M,Alemania,Renfe,Viajes,Letyshops,Extensión Navegador,349.71,0.0442
+TRX-2026-0825,2026-04-24,30.0,M,espana,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,793.3,"2,6%"
+TRX-2026-0826,2026-01-08,45.0,F,ES,Dia,Alimentación,Revolut_Rewards,App Móvil,21.24,0.0358
+TRX-2026-0827,2025-11-15,46.0,M,ES,Iberia,viajes,iGraal,Extensión Navegador,430.67,"4,2%"
+TRX-2026-0828,2026-01-14,29.0,F,Italia,Dia,Alimentación,Revolut_Rewards,Web/Enlace Directo,15.39,0.0442
+TRX-2026-0829,2025-07-16,30.0,F,España,Renfe,Viajes,Revolut_Rewards,Web/Enlace Directo,268.85,0.0324
+TRX-2026-0830,2025-10-03,31.0,F,espana,ASOS,moda,Awin_Affiliate,Web/Enlace Directo,148.64,
+TRX-2026-0831,2026-04-13,23.0,No binario,España,Zalando,Moda,iGraal,App Móvil,28.08,"7,0%"
+TRX-2026-0832,2026-02-13,26.0,No binario,espana,Carrefour,Alimentación,Revolut_Rewards,Extensión Navegador,56.35,0.0255
+TRX-2026-0833,2025-10-13,25.0,M,España,PcComponentes,Tecnología,Revolut_Rewards,App Móvil,614.22,0.0178
+TRX-2026-0834,2026-01-19,27.0,M,España,Carrefour,Alimentación,Awin_Affiliate,Extensión Navegador,56.93,0.0468
+TRX-2026-0835,2025-10-22,33.0,M,espana,ASOS,Moda,Letyshops,App Móvil,137.82,0.0715
+TRX-2026-0836,2025-12-22,35.0,M,Reino Unido,ASOS,Moda,Awin_Affiliate,App Móvil,33.53,0.0904
+TRX-2026-0837,2025-06-16,46.0,No binario,Italia,Apple,Tecnología,Awin_Affiliate,Web/Enlace Directo,861.47,
+TRX-2026-0838,2026-03-24,26.0,F,espana,Iberia,viajes,Revolut_Rewards,App Móvil,513.15,0.0693
+TRX-2026-0839,2025-11-29,41.0,M,ES,Vueling,Viajes,Awin_Affiliate,Extensión Navegador,101.33,0.06
+TRX-2026-0840,2025-12-31,32.0,F,Reino Unido,Just Eat,Alimentación,Letyshops,Web/Enlace Directo,52.3,"2,6%"
+TRX-2026-0841,2026-03-23,33.0,M,Italia,Nike,moda,iGraal,Web/Enlace Directo,144.98,
+TRX-2026-0842,2025-08-27,39.0,No binario,Italia,Renfe,Viajes,Letyshops,Web/Enlace Directo,496.09,0.0664
+TRX-2026-0843,2025-10-14,25.0,No binario,España,Fnac,tecnología,Letyshops,Extensión Navegador,417.44,0.0225
+TRX-2026-0844,2025-10-01,37.0,F,España,PcComponentes,Tecnología,Letyshops,App Móvil,833.16,0.015
+TRX-2026-0845,2025-09-13,35.0,No binario,ES,MediaMarkt,Tecnología,iGraal,Web/Enlace Directo,639.87,
+TRX-2026-0846,2026-03-03,37.0,M,Italia,Expedia,Viajes,Letyshops,Web/Enlace Directo,545.55,0.0432
+TRX-2026-0847,2025-08-29,36.0,No binario,Reino Unido,Renfe,Viajes,iGraal,App Móvil,420.94,"5,4%"
+TRX-2026-0848,2026-05-23,53.0,F,espana,Dia,alimentación,Awin_Affiliate,App Móvil,46.04,0.0434
+TRX-2026-0849,2026-03-05,28.0,No binario,Alemania,Carrefour,Alimentación,Revolut_Rewards,Extensión Navegador,40.16,"3,1%"
+TRX-2026-0850,2026-04-14,29.0,No binario,España,Apple,Tecnología,Awin_Affiliate,App Móvil,829.54,"1,5%"
+TRX-2026-0851,2025-09-12,29.0,No binario,ES,Expedia,Viajes,iGraal,Extensión Navegador,112.29,"4,8%"
+TRX-2026-0852,2026-01-15,29.0,F,Alemania,Just Eat,Alimentación,iGraal,Web/Enlace Directo,19.99,0.0275
+TRX-2026-0853,2026-02-21,28.0,M,Reino Unido,Amazon,Tecnología,Awin_Affiliate,Web/Enlace Directo,250.02,"2,8%"
+TRX-2026-0854,2025-11-15,43.0,No binario,Alemania,Uber Eats,Alimentación,iGraal,Extensión Navegador,74.28,0.0452
+TRX-2026-0855,2026-04-02,45.0,F,España ,Just Eat,Alimentación,iGraal,Extensión Navegador,47.43,"2,1%"
+TRX-2026-0856,2025-08-05,29.0,M,Francia,Iberia,Viajes,Revolut_Rewards,App Móvil,105.32,"3,8%"
+TRX-2026-0857,2025-09-09,27.0,M,España ,Amazon,Tecnología,Letyshops,Extensión Navegador,333.21,0.0266
+TRX-2026-0858,2026-04-19,37.0,No binario,Francia,Fnac,Tecnología,Revolut_Rewards,App Móvil,532.44,0.0214
+TRX-2026-0859,2026-02-12,29.0,F,España,Amazon,Tecnología,iGraal,Extensión Navegador,703.35,0.0159
+TRX-2026-0860,2025-07-14,39.0,No binario,España,Renfe,Viajes,Awin_Affiliate,App Móvil,563.13,"4,8%"
+TRX-2026-0861,2025-09-02,35.0,F,Francia,Vueling,Viajes,iGraal,App Móvil,591.32,0.0521
+TRX-2026-0862,2026-02-01,21.0,M,España,Sephora,Moda,Letyshops,Extensión Navegador,133.9,"7,9%"
+TRX-2026-0863,2026-01-02,46.0,F,Alemania,Nike,Moda,Awin_Affiliate,App Móvil,27.01,
+TRX-2026-0864,2026-04-19,48.0,F,Alemania,Carrefour,Alimentación,iGraal,Extensión Navegador,28.26,0.0371
+TRX-2026-0865,2026-01-20,29.0,F,ES,Fnac,Tecnología,Awin_Affiliate,App Móvil,878.58,"2,8%"
+TRX-2026-0866,2026-03-29,30.0,No binario,ES,Vueling,Viajes,Letyshops,App Móvil,371.15,0.0612
+TRX-2026-0867,2025-07-12,36.0,No binario,España ,Carrefour,Alimentación,iGraal,Extensión Navegador,51.75,0.0499
+TRX-2026-0868,2026-05-18,36.0,No binario,Francia,Uber Eats,Alimentación,Awin_Affiliate,Extensión Navegador,69.34,"2,9%"
+TRX-2026-0869,2025-10-23,39.0,M,Reino Unido,Expedia,Viajes,Revolut_Rewards,Web/Enlace Directo,625.84,"4,6%"
+TRX-2026-0870,2025-10-09,50.0,No binario,espana,Just Eat,Alimentación,Letyshops,Web/Enlace Directo,68.81,0.0496
+TRX-2026-0871,2026-04-04,32.0,No binario,España ,Amazon,Tecnología,Awin_Affiliate,Extensión Navegador,110.1,0.0184
+TRX-2026-0872,2025-10-24,27.0,F,España,Iberia,Viajes,Awin_Affiliate,Web/Enlace Directo,485.49,
+TRX-2026-0873,2026-05-07,22.0,F,Alemania,Just Eat,alimentación,Awin_Affiliate,Extensión Navegador,41.15,0.0367
+TRX-2026-0874,2025-08-15,28.0,No binario,Alemania,Booking,Viajes,iGraal,Web/Enlace Directo,604.81,0.068
+TRX-2026-0875,2025-10-12,33.0,No binario,España ,Sephora,Moda,iGraal,Extensión Navegador,136.95,"7,6%"
+TRX-2026-0876,2025-08-16,48.0,M,Italia,Expedia,Viajes,Awin_Affiliate,App Móvil,274.44,0.0526
+TRX-2026-0877,2025-12-30,29.0,M,ES,Zalando,Moda,iGraal,Web/Enlace Directo,135.3,0.0839
+TRX-2026-0878,2026-01-19,35.0,F,ES,Amazon,Tecnología,Revolut_Rewards,App Móvil,232.32,0.0134
+TRX-2026-0879,2025-07-07,,M,espana,Expedia,viajes,Letyshops,Extensión Navegador,421.08,0.0316
+TRX-2026-0880,2026-03-01,43.0,M,Alemania,Just Eat,Alimentación,Letyshops,App Móvil,34.17,0.0233
+TRX-2026-0881,2026-01-30,54.0,F,Italia,ASOS,moda,iGraal,App Móvil,125.46,"8,5%"
+TRX-2026-0882,2025-10-24,29.0,No binario,Reino Unido,Renfe,Viajes,iGraal,App Móvil,137.25,0.0582
+TRX-2026-0883,2025-07-28,30.0,F,Reino Unido,Expedia,Viajes,Letyshops,Web/Enlace Directo,294.44,0.0677
+TRX-2026-0884,2025-10-02,42.0,M,España,Sephora,Moda,iGraal,Web/Enlace Directo,132.14,"8,5%"
+TRX-2026-0885,2026-05-25,39.0,M,Reino Unido,Fnac,Tecnología,Revolut_Rewards,Web/Enlace Directo,542.15,0.0228
+TRX-2026-0886,2026-02-15,48.0,M,Reino Unido,Just Eat,alimentación,Revolut_Rewards,Web/Enlace Directo,38.21,"3,4%"
+TRX-2026-0887,2026-01-17,38.0,M,Francia,Apple,Tecnología,Revolut_Rewards,Extensión Navegador,191.53,0.0291
+TRX-2026-0888,2025-10-09,31.0,M,Alemania,Dia,Alimentación,iGraal,App Móvil,32.42,0.0265
+TRX-2026-0889,2025-07-03,38.0,M,Francia,Just Eat,Alimentación,Revolut_Rewards,App Móvil,31.95,0.0216
+TRX-2026-0890,2025-10-27,42.0,M,espana,Mango,Moda,Letyshops,Web/Enlace Directo,38.79,
+TRX-2026-0891,2025-12-01,40.0,F,Italia,Amazon,Tecnología,iGraal,Web/Enlace Directo,82.33,0.0142
+TRX-2026-0892,2026-02-16,38.0,M,Italia,ASOS,moda,Awin_Affiliate,App Móvil,51.95,
+TRX-2026-0893,2026-04-22,42.0,No binario,Francia,Carrefour,Alimentación,Letyshops,App Móvil,34.6,0.0269
+TRX-2026-0894,2025-12-02,43.0,No binario,Francia,Sephora,Moda,Awin_Affiliate,Extensión Navegador,34.57,
+TRX-2026-0895,2025-09-09,45.0,No binario,España ,Vueling,Viajes,Revolut_Rewards,Extensión Navegador,553.94,
+TRX-2026-0896,2026-03-02,39.0,F,España ,Just Eat,Alimentación,Awin_Affiliate,App Móvil,21.05,0.049
+TRX-2026-0897,2025-11-30,32.0,F,Francia,Uber Eats,Alimentación,iGraal,App Móvil,29.56,"4,9%"
+TRX-2026-0898,2025-07-19,35.0,M,espana,Sephora,moda,iGraal,Extensión Navegador,95.11,0.0525
+TRX-2026-0899,2025-09-19,43.0,No binario,Italia,Nike,moda,Revolut_Rewards,App Móvil,76.48,0.0844
+TRX-2026-0900,2026-06-11,27.0,M,Reino Unido,Mango,Moda,Revolut_Rewards,Web/Enlace Directo,87.48,"9,8%"
+TRX-2026-0901,2026-05-03,36.0,F,Francia,Iberia,Viajes,Letyshops,Extensión Navegador,172.39,"6,0%"
+TRX-2026-0902,2025-11-08,30.0,M,ES,Dia,Alimentación,Revolut_Rewards,App Móvil,15.6,0.0235
+TRX-2026-0903,2025-07-16,34.0,F,España ,Fnac,Tecnología,Letyshops,Web/Enlace Directo,858.72,0.0174
+TRX-2026-0904,2026-04-05,44.0,F,Alemania,Carrefour,alimentación,Awin_Affiliate,App Móvil,26.65,0.0341
+TRX-2026-0905,2026-04-26,35.0,No binario,Francia,PcComponentes,Tecnología,iGraal,Web/Enlace Directo,443.08,"1,3%"
+TRX-2026-0906,2026-03-07,34.0,M,espana,Uber Eats,alimentación,Awin_Affiliate,Web/Enlace Directo,64.85,0.048
+TRX-2026-0907,2026-01-21,23.0,F,España ,Expedia,Viajes,Revolut_Rewards,App Móvil,408.12,
+TRX-2026-0908,2026-02-23,39.0,F,Italia,Zalando,moda,Letyshops,App Móvil,134.33,0.0594
+TRX-2026-0909,2025-07-08,39.0,M,España ,Fnac,Tecnología,iGraal,Extensión Navegador,521.72,"1,8%"
+TRX-2026-0910,2026-05-04,51.0,No binario,Italia,Zalando,Moda,Awin_Affiliate,Web/Enlace Directo,42.86,0.0662
+TRX-2026-0911,2025-11-03,31.0,No binario,espana,Nike,Moda,Awin_Affiliate,App Móvil,121.34,0.0608
+TRX-2026-0912,2026-06-08,,F,Francia,Fnac,Tecnología,Letyshops,Extensión Navegador,544.12,0.0166
+TRX-2026-0913,2026-01-25,35.0,F,Reino Unido,MediaMarkt,tecnología,Revolut_Rewards,Extensión Navegador,896.33,"2,4%"
+TRX-2026-0914,2025-10-15,46.0,No binario,Reino Unido,Just Eat,alimentación,Letyshops,App Móvil,63.75,0.0394
+TRX-2026-0915,2025-06-13,33.0,F,Reino Unido,Zalando,Moda,iGraal,App Móvil,129.26,0.0472
+TRX-2026-0916,2026-01-22,36.0,F,Reino Unido,Renfe,Viajes,Awin_Affiliate,Web/Enlace Directo,176.45,
+TRX-2026-0917,2025-11-12,38.0,No binario,Reino Unido,Booking,viajes,Letyshops,Web/Enlace Directo,164.08,"4,1%"
+TRX-2026-0918,2025-11-16,35.0,F,Reino Unido,Renfe,Viajes,Awin_Affiliate,Web/Enlace Directo,279.89,0.0437
+TRX-2026-0919,2026-04-15,30.0,F,España,Expedia,Viajes,Awin_Affiliate,Web/Enlace Directo,437.18,"3,1%"
+TRX-2026-0920,2026-02-07,35.0,M,Italia,Sephora,moda,Letyshops,App Móvil,31.67,"8,2%"
+TRX-2026-0921,2026-03-09,42.0,M,ES,ASOS,Moda,Awin_Affiliate,Web/Enlace Directo,79.95,"4,6%"
+TRX-2026-0922,2025-07-25,25.0,No binario,Italia,Nike,Moda,Revolut_Rewards,Extensión Navegador,92.24,0.0526
+TRX-2026-0923,2026-02-27,35.0,M,Reino Unido,PcComponentes,Tecnología,Letyshops,App Móvil,227.7,0.0152
+TRX-2026-0924,2025-10-17,28.0,No binario,ES,Fnac,Tecnología,Revolut_Rewards,Web/Enlace Directo,546.02,
+TRX-2026-0925,2025-12-24,43.0,M,Reino Unido,Expedia,Viajes,Awin_Affiliate,App Móvil,172.77,0.0519
+TRX-2026-0926,2025-06-23,21.0,M,Reino Unido,Just Eat,Alimentación,Letyshops,App Móvil,62.02,
+TRX-2026-0927,2026-02-14,29.0,No binario,ES,Just Eat,Alimentación,Awin_Affiliate,Web/Enlace Directo,41.05,0.0209
+TRX-2026-0928,2026-03-04,37.0,No binario,Italia,Zalando,Moda,Awin_Affiliate,Extensión Navegador,146.29,0.0586
+TRX-2026-0929,2026-06-13,46.0,No binario,España,Zalando,Moda,Awin_Affiliate,App Móvil,35.05,"5,4%"
+TRX-2026-0930,2025-12-04,33.0,F,Francia,ASOS,Moda,iGraal,App Móvil,93.73,"6,4%"
+TRX-2026-0931,2026-02-09,29.0,F,Francia,ASOS,Moda,Letyshops,App Móvil,121.66,0.0939
+TRX-2026-0932,2026-05-08,49.0,M,Francia,Expedia,Viajes,Letyshops,Extensión Navegador,290.41,0.0436
+TRX-2026-0933,2025-07-18,22.0,F,espana,Dia,Alimentación,iGraal,Extensión Navegador,34.63,"2,3%"
+TRX-2026-0934,2025-10-10,18.0,F,España,Dia,Alimentación,Letyshops,App Móvil,59.35,0.045
+TRX-2026-0935,2025-11-18,37.0,F,España ,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,431.04,0.0197
+TRX-2026-0936,2025-07-24,29.0,F,Alemania,Uber Eats,Alimentación,Revolut_Rewards,Web/Enlace Directo,36.78,"3,6%"
+TRX-2026-0937,2025-11-29,25.0,No binario,España ,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,98.77,0.0519
+TRX-2026-0938,2025-10-06,39.0,M,España,Vueling,Viajes,Awin_Affiliate,App Móvil,322.65,0.057
+TRX-2026-0939,2026-06-05,35.0,M,espana,PcComponentes,tecnología,iGraal,App Móvil,669.44,"2,1%"
+TRX-2026-0940,2025-07-24,29.0,M,Francia,Amazon,Tecnología,Revolut_Rewards,Web/Enlace Directo,570.83,0.0284
+TRX-2026-0941,2026-05-24,23.0,F,España ,PcComponentes,Tecnología,Letyshops,Web/Enlace Directo,880.09,0.0228
+TRX-2026-0942,2025-07-22,40.0,No binario,España,Just Eat,Alimentación,iGraal,Extensión Navegador,76.77,0.0277
+TRX-2026-0943,2026-03-07,39.0,No binario,España ,Fnac,Tecnología,Letyshops,Web/Enlace Directo,727.1,0.0175
+TRX-2026-0944,2025-09-30,33.0,No binario,espana,Dia,Alimentación,Awin_Affiliate,App Móvil,15.33,0.0262
+TRX-2026-0945,2025-07-23,48.0,M,España ,Zalando,Moda,iGraal,Web/Enlace Directo,65.58,"4,4%"
+TRX-2026-0946,2025-11-26,25.0,M,Alemania,Renfe,Viajes,Awin_Affiliate,App Móvil,277.43,0.0478
+TRX-2026-0947,2025-07-04,21.0,M,ES,Carrefour,Alimentación,iGraal,Web/Enlace Directo,46.63,"5,0%"
+TRX-2026-0948,2025-10-17,28.0,F,ES,Mango,Moda,Awin_Affiliate,Web/Enlace Directo,78.94,"10,0%"
+TRX-2026-0949,2025-09-11,33.0,F,Francia,Booking,Viajes,Revolut_Rewards,Extensión Navegador,200.44,"3,4%"
+TRX-2026-0950,2025-11-20,35.0,No binario,Francia,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,279.84,0.0254
+TRX-2026-0951,2025-07-23,32.0,M,Alemania,Dia,Alimentación,Revolut_Rewards,App Móvil,64.19,0.0286
+TRX-2026-0952,2026-06-12,36.0,No binario,Italia,MediaMarkt,Tecnología,Letyshops,Web/Enlace Directo,820.26,0.0177
+TRX-2026-0953,2025-08-01,,F,España ,Vueling,Viajes,Revolut_Rewards,Extensión Navegador,265.26,0.04
+TRX-2026-0954,2025-08-10,45.0,No binario,Francia,Zalando,Moda,Revolut_Rewards,App Móvil,115.38,0.0544
+TRX-2026-0955,2026-05-11,33.0,F,España ,Just Eat,Alimentación,Letyshops,Web/Enlace Directo,54.21,0.0497
+TRX-2026-0956,2025-12-26,42.0,F,España ,Carrefour,Alimentación,iGraal,Web/Enlace Directo,17.1,0.0403
+TRX-2026-0957,2026-01-31,36.0,No binario,Alemania,Vueling,Viajes,iGraal,App Móvil,354.06,"5,9%"
+TRX-2026-0958,2025-12-09,37.0,M,Reino Unido,Just Eat,Alimentación,iGraal,Extensión Navegador,24.49,0.0279
+TRX-2026-0959,2025-11-14,38.0,No binario,España ,Zalando,Moda,Revolut_Rewards,Extensión Navegador,58.06,0.0598
+TRX-2026-0960,2026-01-31,37.0,M,espana,Uber Eats,alimentación,Revolut_Rewards,Web/Enlace Directo,31.76,"2,8%"
+TRX-2026-0961,2025-12-06,39.0,No binario,ES,Amazon,Tecnología,Letyshops,Web/Enlace Directo,585.15,0.0195
+TRX-2026-0962,2025-08-06,44.0,M,Italia,Uber Eats,alimentación,Letyshops,Extensión Navegador,70.31,"3,7%"
+TRX-2026-0963,2025-09-22,35.0,M,Francia,ASOS,Moda,Letyshops,Web/Enlace Directo,131.58,"5,9%"
+TRX-2026-0964,2025-09-18,39.0,M,espana,Just Eat,Alimentación,iGraal,Web/Enlace Directo,76.55,"3,0%"
+TRX-2026-0965,2026-04-13,33.0,No binario,espana,MediaMarkt,Tecnología,Revolut_Rewards,Web/Enlace Directo,824.92,0.0281
+TRX-2026-0966,2025-07-28,45.0,F,espana,Renfe,Viajes,iGraal,Extensión Navegador,334.58,"5,1%"
+TRX-2026-0967,2025-06-25,28.0,No binario,Francia,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,59.68,0.0846
+TRX-2026-0968,2026-01-09,48.0,F,España,Zalando,Moda,Revolut_Rewards,App Móvil,37.28,"9,3%"
+TRX-2026-0969,2026-03-04,33.0,F,Alemania,Mango,moda,Revolut_Rewards,App Móvil,96.17,0.0749
+TRX-2026-0970,2026-03-06,22.0,No binario,Italia,Carrefour,Alimentación,Awin_Affiliate,App Móvil,54.09,"3,5%"
+TRX-2026-0971,2026-01-11,35.0,M,Italia,ASOS,Moda,Awin_Affiliate,Web/Enlace Directo,95.16,0.0585
+TRX-2026-0972,2026-01-01,28.0,No binario,Francia,Dia,Alimentación,Letyshops,Extensión Navegador,64.43,"4,0%"
+TRX-2026-0973,2026-03-12,40.0,F,Italia,Expedia,viajes,Letyshops,App Móvil,366.01,0.0428
+TRX-2026-0974,2025-08-25,28.0,No binario,espana,Apple,Tecnología,Letyshops,App Móvil,715.8,0.027
+TRX-2026-0975,2025-08-13,30.0,M,Italia,Apple,Tecnología,Awin_Affiliate,App Móvil,843.52,"2,7%"
+TRX-2026-0976,2026-01-03,18.0,M,ES,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,64.54,0.0321
+TRX-2026-0977,2026-01-24,30.0,F,Italia,Zalando,Moda,Awin_Affiliate,App Móvil,129.07,0.0414
+TRX-2026-0978,2026-02-23,18.0,No binario,Alemania,Uber Eats,Alimentación,iGraal,Extensión Navegador,30.8,0.0298
+TRX-2026-0979,2026-05-21,21.0,No binario,Francia,Dia,Alimentación,Awin_Affiliate,Web/Enlace Directo,53.1,"2,2%"
+TRX-2026-0980,2026-01-19,40.0,F,Francia,Sephora,Moda,iGraal,App Móvil,147.15,0.0839
+TRX-2026-0981,2025-08-30,40.0,F,Francia,ASOS,Moda,Awin_Affiliate,Web/Enlace Directo,91.38,"5,7%"
+TRX-2026-0982,2025-06-14,37.0,No binario,espana,MediaMarkt,Tecnología,Letyshops,Extensión Navegador,316.29,"1,5%"
+TRX-2026-0983,2026-06-02,26.0,F,ES,Just Eat,alimentación,Revolut_Rewards,App Móvil,66.88,"4,5%"
+TRX-2026-0984,2025-09-28,33.0,M,Italia,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,19.36,"2,2%"
+TRX-2026-0985,2025-09-24,33.0,F,Alemania,Dia,Alimentación,iGraal,Web/Enlace Directo,43.01,0.0283
+TRX-2026-0986,2026-05-07,24.0,F,Reino Unido,MediaMarkt,Tecnología,Revolut_Rewards,Extensión Navegador,385.26,
+TRX-2026-0987,2026-03-28,46.0,M,Italia,Mango,Moda,Awin_Affiliate,Web/Enlace Directo,82.22,0.0799
+TRX-2026-0988,2025-08-22,41.0,F,España,Zalando,Moda,Awin_Affiliate,Extensión Navegador,37.61,0.072
+TRX-2026-0989,2025-12-28,32.0,M,espana,Zalando,Moda,Awin_Affiliate,Extensión Navegador,78.04,
+TRX-2026-0990,2025-10-31,34.0,F,Italia,Carrefour,Alimentación,Revolut_Rewards,Web/Enlace Directo,70.52,"2,6%"
+TRX-2026-0991,2025-08-15,35.0,F,ES,Mango,Moda,iGraal,Extensión Navegador,119.58,0.0472
+TRX-2026-0992,2026-04-28,18.0,No binario,España,Uber Eats,Alimentación,iGraal,App Móvil,16.05,0.0314
+TRX-2026-0993,2025-11-03,32.0,No binario,ES,Sephora,Moda,iGraal,Web/Enlace Directo,105.45,0.0634
+TRX-2026-0994,2026-02-06,28.0,F,Alemania,Expedia,Viajes,Letyshops,Extensión Navegador,476.19,"6,0%"
+TRX-2026-0995,2025-12-05,25.0,No binario,Francia,Zara,Moda,Letyshops,Extensión Navegador,142.04,0.0979
+TRX-2026-0996,2026-04-18,,F,ES,Dia,alimentación,Awin_Affiliate,App Móvil,55.65,
+TRX-2026-0997,2025-10-16,48.0,F,Reino Unido,Zara,Moda,iGraal,Web/Enlace Directo,72.13,
+TRX-2026-0998,2026-04-27,39.0,M,España,Iberia,Viajes,Revolut_Rewards,App Móvil,568.0,"5,1%"
+TRX-2026-0999,2026-04-09,29.0,M,Reino Unido,Fnac,tecnología,iGraal,App Móvil,463.81,0.0266
+TRX-2026-1000,2026-04-01,38.0,F,Reino Unido,Booking,Viajes,Revolut_Rewards,App Móvil,585.54,"3,4%"
+TRX-2026-1001,2025-10-20,45.0,No binario,Alemania,Apple,Tecnología,Awin_Affiliate,App Móvil,362.3,0.0129
+TRX-2026-1002,2025-07-25,41.0,F,Italia,Zalando,Moda,iGraal,Extensión Navegador,104.33,
+TRX-2026-1003,2025-12-19,34.0,F,Reino Unido,Just Eat,Alimentación,Letyshops,App Móvil,55.39,"3,6%"
+TRX-2026-1004,2025-12-23,28.0,F,ES,MediaMarkt,tecnología,Revolut_Rewards,Web/Enlace Directo,122.99,0.0271
+TRX-2026-1005,2025-09-08,39.0,F,ES,Zara,Moda,iGraal,Extensión Navegador,93.81,0.0577
+TRX-2026-1006,2025-09-28,37.0,F,Francia,Zalando,Moda,Letyshops,Extensión Navegador,49.83,0.0847
+TRX-2026-1007,2026-05-20,41.0,No binario,espana,Sephora,Moda,Letyshops,App Móvil,44.84,0.0808
+TRX-2026-1008,2025-08-05,39.0,M,Italia,ASOS,Moda,iGraal,App Móvil,62.06,0.0941
+TRX-2026-1009,2026-01-11,42.0,F,España,Fnac,Tecnología,Awin_Affiliate,Extensión Navegador,833.82,0.0223
+TRX-2026-1010,2026-03-23,29.0,F,Francia,Sephora,Moda,Revolut_Rewards,App Móvil,98.93,"5,5%"
+TRX-2026-1011,2025-11-20,44.0,F,Reino Unido,Zalando,moda,Revolut_Rewards,Extensión Navegador,109.03,"8,6%"
+TRX-2026-1012,2025-07-27,35.0,No binario,Francia,Sephora,Moda,Revolut_Rewards,App Móvil,127.78,0.0725
+TRX-2026-1013,2025-12-21,50.0,M,España ,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,45.32,0.0375
+TRX-2026-1014,2025-08-09,28.0,No binario,Italia,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,868.39,0.0184
+TRX-2026-1015,2026-01-23,47.0,M,Reino Unido,MediaMarkt,Tecnología,Awin_Affiliate,App Móvil,111.46,0.012
+TRX-2026-1016,2025-07-08,35.0,M,España,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,54.11,0.0377
+TRX-2026-1017,2025-12-11,28.0,No binario,Reino Unido,Just Eat,Alimentación,iGraal,App Móvil,57.06,
+TRX-2026-1018,2025-07-27,,No binario,Italia,Carrefour,Alimentación,Letyshops,Web/Enlace Directo,26.75,"3,9%"
+TRX-2026-1019,2025-10-23,31.0,M,ES,Amazon,Tecnología,Letyshops,App Móvil,423.57,0.011
+TRX-2026-1020,2025-09-06,37.0,No binario,espana,Uber Eats,Alimentación,Letyshops,App Móvil,70.68,0.03
+TRX-2026-1021,2026-04-28,38.0,No binario,Francia,Fnac,Tecnología,Revolut_Rewards,Web/Enlace Directo,200.13,"1,8%"
+TRX-2026-1022,2025-12-10,29.0,F,ES,PcComponentes,Tecnología,iGraal,Extensión Navegador,540.39,0.0282
+TRX-2026-1023,2025-06-22,33.0,F,espana,Booking,Viajes,Revolut_Rewards,App Móvil,163.09,"4,4%"
+TRX-2026-1024,2026-01-14,51.0,No binario,Alemania,Renfe,Viajes,Letyshops,App Móvil,550.9,
+TRX-2026-1025,2025-06-23,47.0,F,España ,Zara,Moda,Letyshops,Extensión Navegador,26.55,"5,5%"
+TRX-2026-1026,2025-08-27,37.0,F,Francia,Mango,Moda,Revolut_Rewards,Web/Enlace Directo,96.93,"9,4%"
+TRX-2026-1027,2026-01-30,34.0,M,espana,Apple,Tecnología,Awin_Affiliate,Web/Enlace Directo,347.08,"2,9%"
+TRX-2026-1028,2025-09-27,34.0,No binario,Francia,PcComponentes,Tecnología,Letyshops,Web/Enlace Directo,339.57,0.024
+TRX-2026-1029,2026-05-17,38.0,M,Alemania,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,76.96,0.0251
+TRX-2026-1030,2025-06-17,25.0,F,España ,PcComponentes,Tecnología,Awin_Affiliate,Web/Enlace Directo,256.73,"2,8%"
+TRX-2026-1031,2025-11-23,31.0,F,Reino Unido,Uber Eats,Alimentación,Awin_Affiliate,App Móvil,30.12,0.044
+TRX-2026-1032,2025-08-17,20.0,M,Italia,Vueling,viajes,iGraal,Web/Enlace Directo,510.05,0.0535
+TRX-2026-1033,2026-03-23,37.0,No binario,ES,Mango,moda,Letyshops,Extensión Navegador,28.69,0.0957
+TRX-2026-1034,2025-06-28,39.0,M,Italia,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,70.07,"2,5%"
+TRX-2026-1035,2026-04-28,30.0,F,España,Dia,Alimentación,Letyshops,App Móvil,79.07,
+TRX-2026-1036,2025-09-01,46.0,F,Reino Unido,PcComponentes,Tecnología,Letyshops,Extensión Navegador,868.7,
+TRX-2026-1037,2025-08-29,24.0,M,Italia,Expedia,Viajes,Letyshops,Web/Enlace Directo,433.9,"3,7%"
+TRX-2026-1038,2025-08-10,22.0,M,Alemania,Zara,moda,Letyshops,Web/Enlace Directo,43.61,"8,9%"
+TRX-2026-1039,2026-04-13,35.0,M,espana,Renfe,Viajes,Letyshops,Web/Enlace Directo,375.54,0.066
+TRX-2026-1040,2025-07-11,42.0,No binario,Italia,Just Eat,Alimentación,iGraal,Web/Enlace Directo,51.04,"3,0%"
+TRX-2026-1041,2025-11-19,47.0,F,España ,Iberia,Viajes,iGraal,Web/Enlace Directo,131.84,0.0562
+TRX-2026-1042,2026-04-05,30.0,M,Italia,ASOS,moda,Revolut_Rewards,App Móvil,79.39,"4,5%"
+TRX-2026-1043,2026-01-08,42.0,M,Italia,PcComponentes,Tecnología,iGraal,Extensión Navegador,854.23,0.0161
+TRX-2026-1044,2026-05-20,33.0,No binario,España ,Renfe,Viajes,Revolut_Rewards,Extensión Navegador,280.51,0.0515
+TRX-2026-1045,2025-12-06,32.0,No binario,Reino Unido,Expedia,viajes,iGraal,App Móvil,621.48,0.0657
+TRX-2026-1046,2025-07-21,41.0,No binario,ES,Iberia,Viajes,Letyshops,Web/Enlace Directo,146.31,0.0416
+TRX-2026-1047,2025-12-05,39.0,M,ES,Zalando,Moda,Letyshops,Web/Enlace Directo,108.57,0.0929
+TRX-2026-1048,2026-01-25,21.0,M,Reino Unido,Iberia,Viajes,Revolut_Rewards,App Móvil,238.51,0.066
+TRX-2026-1049,2025-11-23,45.0,F,Reino Unido,Dia,Alimentación,Letyshops,Extensión Navegador,56.44,0.0235
+TRX-2026-1050,2026-02-02,45.0,No binario,Reino Unido,Uber Eats,Alimentación,Awin_Affiliate,App Móvil,70.61,0.0278
+TRX-2026-1051,2026-04-30,28.0,No binario,Italia,Dia,Alimentación,Letyshops,Web/Enlace Directo,79.71,"3,4%"
+TRX-2026-1052,2025-06-23,37.0,F,espana,Uber Eats,Alimentación,Revolut_Rewards,Web/Enlace Directo,24.28,"3,8%"
+TRX-2026-1053,2026-06-06,37.0,F,espana,Apple,Tecnología,Awin_Affiliate,App Móvil,212.56,"2,3%"
+TRX-2026-1054,2025-07-27,36.0,F,espana,Carrefour,alimentación,Revolut_Rewards,Extensión Navegador,69.82,"3,8%"
+TRX-2026-1055,2025-06-28,29.0,F,Francia,Vueling,viajes,Letyshops,Web/Enlace Directo,611.7,"4,5%"
+TRX-2026-1056,2025-08-29,28.0,F,Italia,Carrefour,Alimentación,Letyshops,Web/Enlace Directo,17.29,"3,6%"
+TRX-2026-1057,2025-11-28,33.0,M,Reino Unido,Just Eat,Alimentación,Letyshops,Web/Enlace Directo,46.89,0.0275
+TRX-2026-1058,2025-10-24,,No binario,ES,Zalando,Moda,Awin_Affiliate,Web/Enlace Directo,116.37,"9,8%"
+TRX-2026-1059,2026-01-11,38.0,F,España ,Just Eat,Alimentación,Letyshops,App Móvil,23.13,"3,9%"
+TRX-2026-1060,2025-10-29,31.0,M,Francia,Amazon,Tecnología,Awin_Affiliate,Web/Enlace Directo,383.04,"2,4%"
+TRX-2026-1061,2025-07-11,40.0,No binario,España ,Just Eat,Alimentación,Awin_Affiliate,Web/Enlace Directo,34.95,0.0318
+TRX-2026-1062,2025-07-29,18.0,M,España ,Zalando,Moda,Awin_Affiliate,Web/Enlace Directo,136.24,0.0796
+TRX-2026-1063,2025-11-28,43.0,No binario,Reino Unido,ASOS,Moda,Letyshops,Web/Enlace Directo,75.23,"8,7%"
+TRX-2026-1064,2026-04-08,20.0,M,ES,Booking,Viajes,iGraal,Extensión Navegador,92.24,0.0668
+TRX-2026-1065,2026-03-02,31.0,No binario,España ,ASOS,Moda,iGraal,App Móvil,102.9,0.0589
+TRX-2026-1066,2026-04-23,25.0,No binario,España ,Zalando,Moda,Revolut_Rewards,Extensión Navegador,91.54,"7,7%"
+TRX-2026-1067,2026-02-06,23.0,F,Reino Unido,Zara,Moda,iGraal,Extensión Navegador,41.95,
+TRX-2026-1068,2025-12-10,43.0,M,Alemania,Zara,Moda,iGraal,App Móvil,143.33,0.074
+TRX-2026-1069,2026-04-05,30.0,No binario,España,Dia,Alimentación,iGraal,Web/Enlace Directo,27.81,"3,9%"
+TRX-2026-1070,2025-07-30,36.0,No binario,Francia,ASOS,moda,Awin_Affiliate,Extensión Navegador,89.18,0.0989
+TRX-2026-1071,2025-07-16,33.0,F,Reino Unido,Amazon,Tecnología,Revolut_Rewards,App Móvil,330.27,0.0155
+TRX-2026-1072,2026-05-28,37.0,F,Italia,Vueling,viajes,iGraal,App Móvil,296.98,"6,6%"
+TRX-2026-1073,2025-12-24,34.0,M,Italia,Just Eat,Alimentación,Awin_Affiliate,Extensión Navegador,76.29,0.0416
+TRX-2026-1074,2025-07-05,23.0,F,Italia,Fnac,tecnología,iGraal,Extensión Navegador,737.25,"2,6%"
+TRX-2026-1075,2026-02-12,41.0,F,Italia,Booking,Viajes,iGraal,Web/Enlace Directo,539.98,0.0648
+TRX-2026-1076,2025-10-21,30.0,No binario,Italia,PcComponentes,tecnología,iGraal,Extensión Navegador,645.57,0.014
+TRX-2026-1077,2026-06-12,21.0,M,Italia,Zalando,Moda,iGraal,Web/Enlace Directo,34.93,0.0592
+TRX-2026-1078,2025-08-08,30.0,No binario,espana,Uber Eats,Alimentación,iGraal,App Móvil,27.02,"2,0%"
+TRX-2026-1079,2026-03-09,46.0,No binario,ES,Expedia,Viajes,Letyshops,App Móvil,511.08,"3,9%"
+TRX-2026-1080,2025-11-07,40.0,M,Italia,Apple,Tecnología,iGraal,Web/Enlace Directo,805.88,"2,4%"
+TRX-2026-1081,2026-05-14,31.0,No binario,Italia,Carrefour,Alimentación,Revolut_Rewards,Extensión Navegador,78.52,"4,0%"
+TRX-2026-1082,2025-08-07,31.0,No binario,España ,Amazon,Tecnología,Revolut_Rewards,App Móvil,678.29,0.0196
+TRX-2026-1083,2025-08-17,31.0,F,España ,MediaMarkt,Tecnología,Revolut_Rewards,App Móvil,318.96,0.0259
+TRX-2026-1084,2026-04-02,50.0,No binario,Italia,Just Eat,alimentación,iGraal,Extensión Navegador,66.24,0.0314
+TRX-2026-1085,2025-07-10,37.0,F,España,Zalando,Moda,iGraal,Extensión Navegador,73.91,"4,9%"
+TRX-2026-1086,2025-09-05,37.0,M,España,Zara,Moda,Revolut_Rewards,App Móvil,79.39,0.0911
+TRX-2026-1087,2025-06-17,42.0,M,Alemania,Apple,tecnología,Letyshops,Web/Enlace Directo,851.27,0.0261
+TRX-2026-1088,2025-07-26,35.0,M,Reino Unido,Carrefour,Alimentación,Letyshops,Web/Enlace Directo,33.32,0.0417
+TRX-2026-1089,2026-05-12,31.0,F,Francia,MediaMarkt,Tecnología,Letyshops,Extensión Navegador,852.34,0.0238
+TRX-2026-1090,2025-10-13,32.0,M,Alemania,Fnac,Tecnología,Awin_Affiliate,Web/Enlace Directo,207.16,"1,3%"
+TRX-2026-1091,2025-08-14,33.0,No binario,espana,Zara,Moda,Revolut_Rewards,Extensión Navegador,64.18,"9,3%"
+TRX-2026-1092,2025-08-09,,No binario,España,Iberia,Viajes,Revolut_Rewards,Extensión Navegador,531.03,"4,1%"
+TRX-2026-1093,2025-12-13,39.0,No binario,Francia,ASOS,Moda,Awin_Affiliate,App Móvil,148.16,0.0763
+TRX-2026-1094,2025-08-12,34.0,No binario,España ,PcComponentes,Tecnología,Letyshops,Web/Enlace Directo,727.01,0.0156
+TRX-2026-1095,2026-03-01,39.0,F,España ,Booking,Viajes,Revolut_Rewards,Extensión Navegador,290.12,0.061
+TRX-2026-1096,2026-01-04,33.0,F,ES,Uber Eats,Alimentación,Letyshops,Web/Enlace Directo,54.43,0.0285
+TRX-2026-1097,2025-09-04,34.0,M,espana,ASOS,Moda,Revolut_Rewards,Web/Enlace Directo,28.18,"6,6%"
+TRX-2026-1098,2026-01-20,18.0,M,Alemania,Vueling,viajes,iGraal,Web/Enlace Directo,488.84,"3,5%"
+TRX-2026-1099,2025-06-13,41.0,F,España,Amazon,Tecnología,Awin_Affiliate,Extensión Navegador,394.87,0.025
+TRX-2026-1100,2026-03-26,36.0,No binario,Italia,Expedia,Viajes,Revolut_Rewards,Extensión Navegador,145.69,"6,6%"
+TRX-2026-1101,2026-05-18,41.0,No binario,Italia,Zara,Moda,iGraal,Extensión Navegador,52.38,"5,4%"
+TRX-2026-1102,2025-07-24,18.0,No binario,Francia,Vueling,viajes,Awin_Affiliate,App Móvil,93.4,0.0586
+TRX-2026-1103,2026-02-16,,No binario,Francia,Renfe,Viajes,iGraal,Web/Enlace Directo,582.54,0.0504
+TRX-2026-1104,2025-07-27,32.0,No binario,Alemania,Amazon,Tecnología,Awin_Affiliate,Web/Enlace Directo,374.04,0.0267
+TRX-2026-1105,2025-11-24,42.0,F,Reino Unido,MediaMarkt,Tecnología,iGraal,App Móvil,558.9,0.023
+TRX-2026-1106,2026-04-20,25.0,No binario,Italia,Zalando,Moda,Awin_Affiliate,Web/Enlace Directo,109.28,0.0932
+TRX-2026-1107,2025-08-27,38.0,M,España ,Renfe,Viajes,iGraal,Extensión Navegador,552.86,"6,4%"
+TRX-2026-1108,2026-03-21,25.0,M,Francia,Apple,tecnología,iGraal,Web/Enlace Directo,132.24,
+TRX-2026-1109,2026-06-13,29.0,M,Francia,Dia,Alimentación,iGraal,Extensión Navegador,38.92,0.0394
+TRX-2026-1110,2025-07-14,49.0,F,espana,Booking,viajes,Awin_Affiliate,Extensión Navegador,229.75,0.0672
+TRX-2026-1111,2026-05-29,32.0,M,ES,Booking,Viajes,iGraal,Web/Enlace Directo,213.84,0.0648
+TRX-2026-1112,2025-06-24,35.0,F,espana,Iberia,Viajes,Revolut_Rewards,Extensión Navegador,101.18,0.0473
+TRX-2026-1113,2026-05-12,,M,Reino Unido,MediaMarkt,Tecnología,Letyshops,App Móvil,61.0,0.0154
+TRX-2026-1114,2025-07-16,37.0,F,Italia,Just Eat,Alimentación,Letyshops,Web/Enlace Directo,70.15,"2,1%"
+TRX-2026-1115,2026-03-22,35.0,M,Reino Unido,Fnac,Tecnología,Letyshops,App Móvil,672.27,"1,7%"
+TRX-2026-1116,2026-01-15,36.0,F,Italia,Just Eat,Alimentación,Awin_Affiliate,App Móvil,20.62,"2,8%"
+TRX-2026-1117,2025-09-10,53.0,No binario,espana,Renfe,Viajes,Letyshops,Web/Enlace Directo,274.74,0.0553
+TRX-2026-1118,2025-11-23,33.0,F,Italia,Carrefour,Alimentación,iGraal,Web/Enlace Directo,21.75,0.0201
+TRX-2026-1119,2025-06-15,35.0,M,Francia,Renfe,Viajes,Awin_Affiliate,Web/Enlace Directo,614.05,0.0509
+TRX-2026-1120,2026-04-20,42.0,F,Reino Unido,Dia,alimentación,Letyshops,Web/Enlace Directo,15.04,0.0438
+TRX-2026-1121,2026-01-08,42.0,F,Italia,Uber Eats,alimentación,Letyshops,Web/Enlace Directo,56.49,"4,9%"
+TRX-2026-1122,2025-06-30,43.0,F,ES,MediaMarkt,Tecnología,iGraal,App Móvil,852.59,"2,3%"
+TRX-2026-1123,2025-07-31,39.0,No binario,Francia,Iberia,Viajes,iGraal,App Móvil,262.19,0.0312
+TRX-2026-1124,2026-04-24,24.0,M,Reino Unido,MediaMarkt,Tecnología,iGraal,App Móvil,73.26,0.0197
+TRX-2026-1125,2025-07-25,47.0,F,Francia,Uber Eats,Alimentación,Letyshops,Web/Enlace Directo,78.96,"2,1%"
+TRX-2026-1126,2025-11-15,24.0,F,España ,Mango,Moda,iGraal,Web/Enlace Directo,80.55,0.0701
+TRX-2026-1127,2026-02-04,36.0,No binario,España ,Dia,alimentación,Revolut_Rewards,App Móvil,70.48,0.0212
+TRX-2026-1128,2026-03-04,27.0,M,Francia,Nike,moda,Revolut_Rewards,Web/Enlace Directo,125.85,0.0943
+TRX-2026-1129,2025-06-29,33.0,No binario,Italia,Dia,alimentación,Revolut_Rewards,Web/Enlace Directo,76.62,"2,3%"
+TRX-2026-1130,2026-06-01,36.0,M,Francia,MediaMarkt,tecnología,iGraal,Web/Enlace Directo,491.65,0.0239
+TRX-2026-1131,2025-09-01,36.0,No binario,Francia,Booking,Viajes,iGraal,App Móvil,580.34,0.0566
+TRX-2026-1132,2026-04-04,37.0,F,ES,Nike,Moda,Letyshops,Web/Enlace Directo,49.56,0.0796
+TRX-2026-1133,2025-08-19,46.0,M,ES,Expedia,viajes,Letyshops,Extensión Navegador,251.2,"6,0%"
+TRX-2026-1134,2025-07-08,37.0,M,Alemania,Renfe,Viajes,Letyshops,App Móvil,604.82,0.0644
+TRX-2026-1135,2026-04-24,32.0,F,Francia,Expedia,Viajes,Letyshops,Web/Enlace Directo,162.88,0.0604
+TRX-2026-1136,2025-07-28,41.0,M,Italia,Apple,Tecnología,Awin_Affiliate,App Móvil,91.32,
+TRX-2026-1137,2025-12-04,43.0,M,Francia,Sephora,Moda,Letyshops,App Móvil,101.86,0.0874
+TRX-2026-1138,2025-08-11,24.0,No binario,espana,Carrefour,Alimentación,Revolut_Rewards,Web/Enlace Directo,17.01,
+TRX-2026-1139,2026-01-21,38.0,M,Reino Unido,Amazon,Tecnología,Awin_Affiliate,App Móvil,775.63,0.0194
+TRX-2026-1140,2025-08-31,39.0,No binario,Alemania,Zara,Moda,Awin_Affiliate,Extensión Navegador,111.43,0.0985
+TRX-2026-1141,2026-01-26,31.0,M,Alemania,ASOS,Moda,Awin_Affiliate,Extensión Navegador,95.75,"6,1%"
+TRX-2026-1142,2026-01-29,45.0,No binario,Francia,Mango,Moda,Letyshops,Web/Enlace Directo,61.88,"8,1%"
+TRX-2026-1143,2025-08-20,32.0,No binario,España ,Renfe,Viajes,Letyshops,Extensión Navegador,420.93,"5,5%"
+TRX-2026-1144,2025-08-27,35.0,M,Alemania,Apple,Tecnología,Awin_Affiliate,Web/Enlace Directo,101.96,"1,2%"
+TRX-2026-1145,2026-02-03,32.0,M,Francia,Fnac,Tecnología,Revolut_Rewards,Extensión Navegador,268.5,0.0296
+TRX-2026-1146,2026-01-04,34.0,F,ES,Nike,moda,Awin_Affiliate,Extensión Navegador,30.13,"4,4%"
+TRX-2026-1147,2025-11-09,25.0,F,espana,Booking,Viajes,iGraal,App Móvil,636.8,"5,9%"
+TRX-2026-1148,2026-01-28,22.0,No binario,España ,Zalando,Moda,iGraal,Web/Enlace Directo,98.02,"8,6%"
+TRX-2026-1149,2026-04-28,46.0,No binario,Reino Unido,MediaMarkt,Tecnología,iGraal,Extensión Navegador,251.73,"1,8%"
+TRX-2026-1150,2026-01-21,27.0,F,espana,Sephora,Moda,Awin_Affiliate,App Móvil,97.45,"7,6%"
+TRX-2026-1151,2025-10-29,26.0,M,España ,Just Eat,Alimentación,iGraal,Web/Enlace Directo,64.73,0.0262
+TRX-2026-1152,2025-10-01,18.0,No binario,Alemania,Just Eat,Alimentación,Letyshops,App Móvil,24.39,0.0223
+TRX-2026-1153,2026-02-22,28.0,M,España ,Uber Eats,Alimentación,Letyshops,Web/Enlace Directo,33.89,0.0269
+TRX-2026-1154,2025-07-18,23.0,No binario,España ,Carrefour,Alimentación,Revolut_Rewards,Web/Enlace Directo,37.44,0.0314
+TRX-2026-1155,2026-02-16,47.0,M,espana,MediaMarkt,Tecnología,Letyshops,Extensión Navegador,228.46,0.0217
+TRX-2026-1156,2026-02-16,42.0,F,Reino Unido,Nike,Moda,iGraal,App Móvil,34.91,0.0959
+TRX-2026-1157,2026-03-10,28.0,F,Francia,Apple,Tecnología,iGraal,Extensión Navegador,789.76,0.0224
+TRX-2026-1158,2026-03-15,52.0,M,Alemania,Just Eat,alimentación,Letyshops,Extensión Navegador,16.12,0.0488
+TRX-2026-1159,2026-03-14,41.0,No binario,ES,Uber Eats,Alimentación,Letyshops,Extensión Navegador,49.69,0.0256
+TRX-2026-1160,2026-06-03,31.0,No binario,Alemania,Iberia,Viajes,Letyshops,Extensión Navegador,107.56,"3,6%"
+TRX-2026-1161,2026-01-22,18.0,M,España,Dia,Alimentación,iGraal,Web/Enlace Directo,31.13,0.0392
+TRX-2026-1162,2025-09-16,52.0,M,Reino Unido,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,76.31,0.0306
+TRX-2026-1163,2025-09-18,22.0,M,España,Dia,Alimentación,iGraal,Extensión Navegador,19.77,0.0498
+TRX-2026-1164,2025-12-04,20.0,F,espana,Dia,Alimentación,iGraal,Extensión Navegador,43.31,"3,9%"
+TRX-2026-1165,2026-06-05,42.0,F,Francia,MediaMarkt,tecnología,Revolut_Rewards,App Móvil,653.09,"1,7%"
+TRX-2026-1166,2026-03-31,53.0,No binario,España ,Amazon,tecnología,iGraal,App Móvil,439.98,0.0177
+TRX-2026-1167,2025-09-04,45.0,M,España,Carrefour,alimentación,Awin_Affiliate,App Móvil,27.58,"4,8%"
+TRX-2026-1168,2026-06-01,38.0,No binario,ES,PcComponentes,Tecnología,Revolut_Rewards,App Móvil,327.28,"2,2%"
+TRX-2026-1169,2026-04-11,38.0,M,Italia,Just Eat,alimentación,iGraal,Web/Enlace Directo,65.66,0.0419
+TRX-2026-1170,2025-12-02,40.0,M,Reino Unido,Uber Eats,Alimentación,Letyshops,Extensión Navegador,64.54,0.0259
+TRX-2026-1171,2026-06-07,40.0,F,espana,Dia,alimentación,Revolut_Rewards,Extensión Navegador,42.75,0.037
+TRX-2026-1172,2026-01-29,36.0,No binario,Francia,Expedia,Viajes,Revolut_Rewards,Extensión Navegador,607.15,"5,0%"
+TRX-2026-1173,2025-12-05,34.0,M,ES,Amazon,Tecnología,Letyshops,Web/Enlace Directo,626.48,0.0243
+TRX-2026-1174,2026-06-02,33.0,M,Francia,Amazon,Tecnología,Awin_Affiliate,App Móvil,876.57,"3,0%"
+TRX-2026-1175,2026-03-30,27.0,No binario,España ,Zalando,Moda,Revolut_Rewards,Extensión Navegador,140.76,0.0818
+TRX-2026-1176,2026-05-03,31.0,F,España ,Carrefour,Alimentación,Awin_Affiliate,Extensión Navegador,43.32,"4,4%"
+TRX-2026-1177,2026-01-07,20.0,F,Francia,Just Eat,Alimentación,Letyshops,App Móvil,42.96,"2,7%"
+TRX-2026-1178,2025-08-14,33.0,M,Italia,Booking,Viajes,iGraal,Extensión Navegador,533.83,0.0303
+TRX-2026-1179,2025-06-21,26.0,No binario,ES,Booking,Viajes,Revolut_Rewards,Extensión Navegador,98.63,0.0417
+TRX-2026-1180,2026-01-06,25.0,M,espana,Vueling,Viajes,iGraal,Extensión Navegador,430.19,"6,3%"
+TRX-2026-1181,2026-01-28,35.0,No binario,España,Vueling,Viajes,Awin_Affiliate,Extensión Navegador,117.02,"5,4%"
+TRX-2026-1182,2025-11-24,45.0,M,Reino Unido,Sephora,Moda,Revolut_Rewards,App Móvil,69.84,"7,1%"
+TRX-2026-1183,2026-02-13,41.0,M,Reino Unido,Apple,Tecnología,Letyshops,App Móvil,167.9,"1,3%"
+TRX-2026-1184,2025-10-27,21.0,F,España ,Renfe,viajes,Awin_Affiliate,Web/Enlace Directo,262.37,0.0396
+TRX-2026-1185,2025-09-04,26.0,No binario,Alemania,Apple,tecnología,Revolut_Rewards,Web/Enlace Directo,69.1,
+TRX-2026-1186,2026-02-04,41.0,M,España ,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,71.07,0.0335
+TRX-2026-1187,2025-06-20,26.0,F,espana,ASOS,Moda,Revolut_Rewards,Extensión Navegador,85.86,"9,9%"
+TRX-2026-1188,2026-03-02,32.0,No binario,ES,Carrefour,alimentación,iGraal,Web/Enlace Directo,38.45,0.0303
+TRX-2026-1189,2025-09-30,38.0,F,espana,ASOS,Moda,Awin_Affiliate,Web/Enlace Directo,73.84,0.0717
+TRX-2026-1190,2025-10-24,26.0,No binario,Alemania,Fnac,Tecnología,Revolut_Rewards,Extensión Navegador,284.66,0.0104
+TRX-2026-1191,2025-11-12,34.0,M,Alemania,ASOS,Moda,Letyshops,App Móvil,58.09,0.0935
+TRX-2026-1192,2025-11-23,23.0,M,España,Nike,Moda,Letyshops,App Móvil,54.87,"4,0%"
+TRX-2026-1193,2025-09-07,29.0,M,ES,Fnac,Tecnología,iGraal,App Móvil,890.43,0.0143
+TRX-2026-1194,2025-11-26,36.0,No binario,Reino Unido,Apple,Tecnología,Letyshops,Extensión Navegador,629.17,
+TRX-2026-1195,2026-02-01,21.0,F,Reino Unido,Amazon,tecnología,Revolut_Rewards,Extensión Navegador,819.12,"1,4%"
+TRX-2026-1196,2025-09-09,37.0,No binario,Alemania,Booking,Viajes,Letyshops,Extensión Navegador,566.23,"3,0%"
+TRX-2026-1197,2026-03-14,33.0,F,Italia,Uber Eats,alimentación,iGraal,Web/Enlace Directo,64.79,0.0434
+TRX-2026-1198,2026-05-02,38.0,M,Italia,Renfe,viajes,Letyshops,App Móvil,539.76,"5,2%"
+TRX-2026-1199,2026-04-30,35.0,F,ES,ASOS,moda,Letyshops,Web/Enlace Directo,126.9,0.0721
+TRX-2026-1200,2025-11-04,44.0,F,Italia,Dia,Alimentación,Letyshops,Extensión Navegador,55.37,0.0345
+TRX-2026-1201,2025-07-12,,M,Alemania,Just Eat,Alimentación,Awin_Affiliate,Web/Enlace Directo,38.98,"4,7%"
+TRX-2026-1202,2025-07-08,30.0,M,Reino Unido,MediaMarkt,Tecnología,iGraal,App Móvil,781.33,0.0117
+TRX-2026-1203,2026-04-05,34.0,M,Francia,PcComponentes,Tecnología,iGraal,Web/Enlace Directo,312.68,0.0162
+TRX-2026-1204,2026-01-11,38.0,No binario,ES,MediaMarkt,tecnología,Letyshops,App Móvil,332.35,"1,8%"
+TRX-2026-1205,2026-06-02,34.0,F,ES,Apple,tecnología,iGraal,Extensión Navegador,841.01,0.0221
+TRX-2026-1206,2026-01-02,34.0,F,España,Mango,Moda,iGraal,Extensión Navegador,31.13,0.0587
+TRX-2026-1207,2025-06-25,28.0,No binario,ES,PcComponentes,Tecnología,Revolut_Rewards,Extensión Navegador,308.23,"2,8%"
+TRX-2026-1208,2025-08-16,28.0,F,espana,Carrefour,alimentación,Revolut_Rewards,App Móvil,41.39,"2,3%"
+TRX-2026-1209,2025-08-26,22.0,No binario,Italia,Booking,Viajes,Revolut_Rewards,Extensión Navegador,495.39,0.0351
+TRX-2026-1210,2025-11-17,47.0,F,Reino Unido,Fnac,Tecnología,Letyshops,App Móvil,510.9,"1,1%"
+TRX-2026-1211,2025-12-19,,F,Francia,Uber Eats,Alimentación,Awin_Affiliate,Extensión Navegador,55.07,0.0467
+TRX-2026-1212,2026-04-16,28.0,M,Alemania,Sephora,moda,Awin_Affiliate,Web/Enlace Directo,41.02,0.0511
+TRX-2026-1213,2026-05-24,28.0,F,España,Booking,Viajes,Revolut_Rewards,Extensión Navegador,630.18,"4,1%"
+TRX-2026-1214,2026-06-06,41.0,M,ES,Apple,Tecnología,Revolut_Rewards,Extensión Navegador,166.41,"2,3%"
+TRX-2026-1215,2025-06-30,31.0,M,Francia,Sephora,Moda,Letyshops,Extensión Navegador,73.65,0.0513
+TRX-2026-1216,2026-01-24,43.0,M,España ,PcComponentes,Tecnología,Revolut_Rewards,App Móvil,176.4,0.0256
+TRX-2026-1217,2026-01-17,28.0,F,España ,Apple,Tecnología,Revolut_Rewards,Extensión Navegador,446.98,"2,5%"
+TRX-2026-1218,2025-06-26,36.0,M,Italia,Just Eat,Alimentación,Awin_Affiliate,Extensión Navegador,46.22,"3,3%"
+TRX-2026-1219,2025-09-04,27.0,No binario,Reino Unido,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,71.35,"5,5%"
+TRX-2026-1220,2025-11-19,,F,espana,Expedia,Viajes,Awin_Affiliate,App Móvil,541.53,0.0603
+TRX-2026-1221,2026-06-03,24.0,M,Italia,Uber Eats,Alimentación,iGraal,App Móvil,27.57,"2,3%"
+TRX-2026-1222,2025-08-17,36.0,F,Reino Unido,Uber Eats,alimentación,iGraal,App Móvil,45.67,"2,6%"
+TRX-2026-1223,2026-02-10,39.0,No binario,espana,Dia,Alimentación,Revolut_Rewards,Web/Enlace Directo,16.07,0.0223
+TRX-2026-1224,2025-11-14,37.0,No binario,Reino Unido,Booking,viajes,Revolut_Rewards,Web/Enlace Directo,157.36,"6,0%"
+TRX-2026-1225,2025-11-16,32.0,F,ES,Dia,Alimentación,iGraal,App Móvil,75.03,"3,8%"
+TRX-2026-1226,2026-02-10,32.0,F,Francia,Fnac,Tecnología,Letyshops,Web/Enlace Directo,691.3,0.0246
+TRX-2026-1227,2025-12-26,34.0,F,España ,Mango,Moda,Awin_Affiliate,Extensión Navegador,78.39,"6,1%"
+TRX-2026-1228,2025-07-27,32.0,No binario,espana,Apple,Tecnología,Letyshops,Extensión Navegador,241.43,"1,1%"
+TRX-2026-1229,2025-10-26,41.0,F,Alemania,Nike,Moda,iGraal,Web/Enlace Directo,139.03,0.0522
+TRX-2026-1230,2026-03-27,51.0,No binario,España ,Zara,moda,Revolut_Rewards,Extensión Navegador,46.42,"4,2%"
+TRX-2026-1231,2026-03-27,29.0,M,ES,Dia,Alimentación,Letyshops,App Móvil,61.39,0.0414
+TRX-2026-1232,2025-09-14,23.0,No binario,Alemania,Zara,Moda,Revolut_Rewards,Extensión Navegador,101.37,"8,8%"
+TRX-2026-1233,2026-06-03,33.0,F,Francia,MediaMarkt,Tecnología,Revolut_Rewards,Extensión Navegador,792.26,0.0123
+TRX-2026-1234,2026-04-17,54.0,No binario,Francia,Dia,Alimentación,iGraal,Web/Enlace Directo,26.69,0.0463
+TRX-2026-1235,2025-09-08,27.0,F,España,Renfe,Viajes,iGraal,App Móvil,228.85,0.052
+TRX-2026-1236,2026-02-21,47.0,No binario,Reino Unido,Vueling,viajes,Letyshops,Web/Enlace Directo,332.14,0.0469
+TRX-2026-1237,2025-06-30,47.0,M,Italia,PcComponentes,Tecnología,iGraal,Extensión Navegador,710.84,0.0255
+TRX-2026-1238,2026-03-21,29.0,No binario,Italia,Booking,Viajes,Letyshops,App Móvil,623.26,0.0339
+TRX-2026-1239,2025-08-08,38.0,F,Reino Unido,ASOS,Moda,Awin_Affiliate,App Móvil,109.02,0.0877
+TRX-2026-1240,2025-09-07,47.0,F,Alemania,Uber Eats,Alimentación,Revolut_Rewards,Web/Enlace Directo,74.17,"2,2%"
+TRX-2026-1241,2026-01-04,30.0,M,Francia,Vueling,Viajes,Revolut_Rewards,App Móvil,94.96,"5,4%"
+TRX-2026-1242,2025-12-21,32.0,F,ES,Fnac,Tecnología,Letyshops,App Móvil,364.84,0.0125
+TRX-2026-1243,2026-05-19,29.0,M,España,Mango,Moda,Revolut_Rewards,Web/Enlace Directo,30.23,0.0829
+TRX-2026-1244,2025-08-03,25.0,No binario,Francia,PcComponentes,tecnología,Letyshops,Extensión Navegador,95.48,"1,5%"
+TRX-2026-1245,2026-04-11,28.0,No binario,Alemania,Renfe,Viajes,Awin_Affiliate,Web/Enlace Directo,181.14,0.0679
+TRX-2026-1246,2026-03-09,24.0,No binario,Reino Unido,Iberia,Viajes,Awin_Affiliate,Extensión Navegador,168.27,0.0326
+TRX-2026-1247,2025-08-25,34.0,No binario,Reino Unido,MediaMarkt,tecnología,Awin_Affiliate,Extensión Navegador,57.81,0.0276
+TRX-2026-1248,2025-11-05,27.0,F,España ,Amazon,Tecnología,iGraal,App Móvil,791.16,"2,6%"
+TRX-2026-1249,2026-01-16,35.0,F,España,Dia,Alimentación,Awin_Affiliate,App Móvil,50.33,"2,6%"
+TRX-2026-1250,2026-01-21,21.0,M,Alemania,Expedia,Viajes,iGraal,App Móvil,217.62,0.0579
+TRX-2026-1251,2026-04-06,36.0,M,Alemania,Renfe,Viajes,iGraal,App Móvil,471.49,0.0323
+TRX-2026-1252,2025-12-14,40.0,F,Italia,Fnac,Tecnología,Awin_Affiliate,Web/Enlace Directo,145.08,0.0246
+TRX-2026-1253,2025-10-24,18.0,No binario,Francia,Vueling,Viajes,iGraal,Web/Enlace Directo,636.09,"4,0%"
+TRX-2026-1254,2025-07-19,36.0,M,España ,Iberia,Viajes,iGraal,Web/Enlace Directo,123.8,0.0334
+TRX-2026-1255,2025-10-20,43.0,No binario,Italia,Carrefour,Alimentación,iGraal,Extensión Navegador,28.57,0.0208
+TRX-2026-1256,2025-09-05,24.0,F,Italia,Expedia,Viajes,Revolut_Rewards,App Móvil,349.2,"5,8%"
+TRX-2026-1257,2025-11-13,47.0,F,Alemania,Zara,Moda,Awin_Affiliate,Web/Enlace Directo,124.01,"4,8%"
+TRX-2026-1258,2025-09-17,37.0,No binario,Italia,PcComponentes,tecnología,Awin_Affiliate,Extensión Navegador,238.96,"2,1%"
+TRX-2026-1259,2026-03-06,28.0,F,Italia,Zalando,moda,Letyshops,Extensión Navegador,55.02,"5,7%"
+TRX-2026-1260,2026-01-14,33.0,F,Alemania,Carrefour,Alimentación,Awin_Affiliate,Web/Enlace Directo,16.38,"4,4%"
+TRX-2026-1261,2026-05-21,38.0,No binario,Reino Unido,Booking,Viajes,Letyshops,App Móvil,524.77,"3,1%"
+TRX-2026-1262,2026-03-01,34.0,M,Francia,Carrefour,Alimentación,iGraal,App Móvil,25.01,"3,4%"
+TRX-2026-1263,2026-02-22,38.0,M,España ,PcComponentes,Tecnología,Revolut_Rewards,Web/Enlace Directo,513.25,"1,9%"
+TRX-2026-1264,2025-07-30,26.0,F,Alemania,Amazon,Tecnología,iGraal,Extensión Navegador,248.21,"2,8%"
+TRX-2026-1265,2026-01-12,35.0,F,Francia,Zara,moda,iGraal,Extensión Navegador,54.22,0.0625
+TRX-2026-1266,2025-06-23,22.0,F,Alemania,Vueling,Viajes,Awin_Affiliate,Web/Enlace Directo,411.08,"3,3%"
+TRX-2026-1267,2025-10-25,33.0,M,Alemania,Zara,Moda,Revolut_Rewards,Web/Enlace Directo,96.59,0.0626
+TRX-2026-1268,2025-08-10,26.0,No binario,Reino Unido,Carrefour,Alimentación,Awin_Affiliate,Extensión Navegador,49.79,"3,1%"
+TRX-2026-1269,2026-04-22,28.0,M,espana,Fnac,Tecnología,Letyshops,Extensión Navegador,805.86,0.0122
+TRX-2026-1270,2025-11-19,43.0,No binario,Alemania,Iberia,Viajes,iGraal,Web/Enlace Directo,349.6,"4,6%"
+TRX-2026-1271,2025-10-30,42.0,F,Reino Unido,ASOS,Moda,Letyshops,Web/Enlace Directo,100.84,0.0595
+TRX-2026-1272,2025-09-20,38.0,F,Reino Unido,Renfe,viajes,iGraal,App Móvil,627.21,"6,5%"
+TRX-2026-1273,2025-12-21,25.0,F,Alemania,Zara,Moda,Awin_Affiliate,Web/Enlace Directo,109.57,"6,6%"
+TRX-2026-1274,2025-11-17,31.0,No binario,espana,Nike,Moda,Revolut_Rewards,App Móvil,37.28,0.0898
+TRX-2026-1275,2026-04-13,43.0,M,Italia,ASOS,Moda,Revolut_Rewards,Web/Enlace Directo,43.62,0.0753
+TRX-2026-1276,2026-05-29,35.0,F,Francia,Nike,Moda,iGraal,Web/Enlace Directo,131.53,"6,6%"
+TRX-2026-1277,2025-11-27,52.0,No binario,España,Booking,Viajes,Letyshops,Web/Enlace Directo,270.86,0.0688
+TRX-2026-1278,2025-07-17,37.0,M,espana,Fnac,Tecnología,iGraal,Web/Enlace Directo,316.4,0.0191
+TRX-2026-1279,2025-07-27,35.0,F,ES,Apple,Tecnología,Awin_Affiliate,App Móvil,54.46,0.0199
+TRX-2026-1280,2026-04-03,31.0,No binario,Francia,Dia,Alimentación,Letyshops,App Móvil,16.27,0.044
+TRX-2026-1281,2025-11-29,35.0,F,espana,Renfe,Viajes,iGraal,App Móvil,613.85,"5,7%"
+TRX-2026-1282,2026-04-07,32.0,M,España,Zalando,Moda,Awin_Affiliate,App Móvil,38.59,"7,3%"
+TRX-2026-1283,2025-07-01,39.0,F,ES,Nike,moda,Revolut_Rewards,Extensión Navegador,52.36,0.0653
+TRX-2026-1284,2025-12-19,41.0,M,España,Zalando,Moda,Revolut_Rewards,Extensión Navegador,136.43,"7,3%"
+TRX-2026-1285,2026-05-20,27.0,F,Italia,Uber Eats,Alimentación,iGraal,Extensión Navegador,43.03,"2,9%"
+TRX-2026-1286,2025-11-22,23.0,M,Alemania,Expedia,Viajes,Revolut_Rewards,Web/Enlace Directo,530.83,
+TRX-2026-1287,2026-04-27,19.0,M,Italia,Nike,Moda,Letyshops,App Móvil,89.93,"9,8%"
+TRX-2026-1288,2025-06-27,38.0,No binario,Francia,Zara,Moda,Letyshops,Web/Enlace Directo,55.38,0.0469
+TRX-2026-1289,2025-12-22,25.0,F,Alemania,Carrefour,Alimentación,Revolut_Rewards,Web/Enlace Directo,53.26,0.0416
+TRX-2026-1290,2025-06-20,18.0,F,Francia,Dia,Alimentación,Revolut_Rewards,Web/Enlace Directo,65.69,
+TRX-2026-1291,2026-05-01,37.0,No binario,Italia,Zalando,Moda,Letyshops,Web/Enlace Directo,68.66,"8,0%"
+TRX-2026-1292,2025-12-24,53.0,No binario,Francia,Renfe,Viajes,Revolut_Rewards,Web/Enlace Directo,165.69,0.0329
+TRX-2026-1293,2025-12-28,33.0,No binario,Francia,Carrefour,Alimentación,Awin_Affiliate,Extensión Navegador,42.95,
+TRX-2026-1294,2026-05-25,40.0,M,Italia,Vueling,Viajes,Letyshops,Web/Enlace Directo,559.81,0.0473
+TRX-2026-1295,2025-07-17,34.0,F,España ,Fnac,Tecnología,iGraal,Web/Enlace Directo,112.25,0.0169
+TRX-2026-1296,2025-07-13,33.0,M,espana,Apple,tecnología,Letyshops,Web/Enlace Directo,385.42,"1,8%"
+TRX-2026-1297,2026-05-05,41.0,No binario,España ,Just Eat,Alimentación,Revolut_Rewards,App Móvil,50.23,0.0457
+TRX-2026-1298,2026-04-08,31.0,M,Alemania,Zara,Moda,iGraal,Web/Enlace Directo,91.52,"8,1%"
+TRX-2026-1299,2025-12-07,36.0,F,Reino Unido,PcComponentes,Tecnología,Awin_Affiliate,App Móvil,367.61,
+TRX-2026-1300,2026-01-21,36.0,No binario,España ,Amazon,Tecnología,Awin_Affiliate,App Móvil,197.0,0.0205
+TRX-2026-1301,2026-01-14,28.0,F,Reino Unido,Sephora,Moda,Letyshops,Web/Enlace Directo,91.59,"7,5%"
+TRX-2026-1302,2026-03-06,41.0,No binario,Alemania,Renfe,Viajes,Revolut_Rewards,Extensión Navegador,228.62,0.0574
+TRX-2026-1303,2025-10-09,32.0,F,ES,Dia,Alimentación,Letyshops,App Móvil,76.49,0.0266
+TRX-2026-1304,2026-02-19,,No binario,España ,Uber Eats,Alimentación,Awin_Affiliate,Extensión Navegador,76.86,"3,5%"
+TRX-2026-1305,2025-12-31,38.0,M,Italia,Amazon,Tecnología,Letyshops,Extensión Navegador,206.98,"2,3%"
+TRX-2026-1306,2026-04-17,26.0,M,Alemania,Dia,Alimentación,iGraal,Extensión Navegador,48.9,
+TRX-2026-1307,2026-02-26,34.0,M,espana,Renfe,Viajes,Awin_Affiliate,App Móvil,141.29,"6,3%"
+TRX-2026-1308,2025-11-11,33.0,M,Reino Unido,Expedia,Viajes,Revolut_Rewards,App Móvil,565.39,0.0318
+TRX-2026-1309,2025-07-19,42.0,F,España,Booking,Viajes,Awin_Affiliate,Extensión Navegador,340.28,0.0546
+TRX-2026-1310,2025-08-08,37.0,No binario,Italia,Zara,Moda,iGraal,App Móvil,70.12,0.0541
+TRX-2026-1311,2026-04-04,33.0,M,Alemania,Just Eat,Alimentación,iGraal,App Móvil,71.16,0.0375
+TRX-2026-1312,2026-03-20,40.0,F,Francia,Fnac,Tecnología,Awin_Affiliate,Web/Enlace Directo,808.13,0.0156
+TRX-2026-1313,2026-01-02,45.0,No binario,Italia,Apple,Tecnología,Letyshops,App Móvil,863.88,0.0282
+TRX-2026-1314,2026-04-05,38.0,F,España,Expedia,Viajes,Awin_Affiliate,App Móvil,444.32,0.0535
+TRX-2026-1315,2026-04-15,34.0,M,Italia,PcComponentes,Tecnología,Letyshops,Extensión Navegador,318.62,0.0196
+TRX-2026-1316,2025-06-29,23.0,F,España ,Amazon,Tecnología,Revolut_Rewards,App Móvil,544.33,0.0299
+TRX-2026-1317,2025-11-09,25.0,M,Reino Unido,Uber Eats,Alimentación,Revolut_Rewards,Extensión Navegador,63.55,0.0239
+TRX-2026-1318,2026-01-17,31.0,F,espana,Zalando,Moda,iGraal,Web/Enlace Directo,41.72,"9,0%"
+TRX-2026-1319,2025-07-29,29.0,F,España ,Carrefour,Alimentación,iGraal,Web/Enlace Directo,30.91,"2,8%"
+TRX-2026-1320,2025-11-19,32.0,No binario,Reino Unido,Iberia,Viajes,Letyshops,Extensión Navegador,592.92,"4,9%"
+TRX-2026-1321,2025-10-09,34.0,F,Francia,Mango,Moda,iGraal,App Móvil,42.81,0.0454
+TRX-2026-1322,2025-07-12,38.0,No binario,España ,Iberia,Viajes,iGraal,Web/Enlace Directo,575.35,0.0587
+TRX-2026-1323,2025-10-30,33.0,No binario,Reino Unido,Mango,Moda,Letyshops,Extensión Navegador,65.73,0.0504
+TRX-2026-1324,2026-03-18,37.0,F,Reino Unido,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,34.71,"3,7%"
+TRX-2026-1325,2026-02-08,34.0,No binario,Italia,ASOS,Moda,Awin_Affiliate,App Móvil,77.23,0.0693
+TRX-2026-1326,2025-11-24,18.0,M,España ,Vueling,Viajes,Awin_Affiliate,App Móvil,573.3,0.0531
+TRX-2026-1327,2025-10-28,26.0,No binario,Italia,Carrefour,Alimentación,Letyshops,Web/Enlace Directo,26.33,"2,2%"
+TRX-2026-1328,2025-09-17,32.0,M,Reino Unido,Expedia,Viajes,Revolut_Rewards,Web/Enlace Directo,590.37,0.0431
+TRX-2026-1329,2026-03-29,24.0,F,Italia,Expedia,Viajes,Awin_Affiliate,App Móvil,495.65,
+TRX-2026-1330,2025-09-03,38.0,M,Alemania,Just Eat,Alimentación,Awin_Affiliate,Web/Enlace Directo,28.69,0.0422
+TRX-2026-1331,2025-07-22,46.0,No binario,Francia,Booking,Viajes,Letyshops,Extensión Navegador,238.53,0.0421
+TRX-2026-1332,2025-08-24,43.0,M,España,Carrefour,alimentación,Awin_Affiliate,Extensión Navegador,77.02,0.0462
+TRX-2026-1333,2025-08-17,32.0,No binario,espana,Booking,viajes,Awin_Affiliate,Extensión Navegador,352.44,0.0562
+TRX-2026-1334,2025-08-22,45.0,M,Francia,Expedia,Viajes,Revolut_Rewards,Extensión Navegador,426.96,"3,5%"
+TRX-2026-1335,2026-03-25,35.0,F,Italia,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,24.08,0.0235
+TRX-2026-1336,2026-04-21,31.0,F,España ,Booking,Viajes,iGraal,App Móvil,157.51,0.0437
+TRX-2026-1337,2026-02-24,29.0,F,ES,Zara,Moda,Revolut_Rewards,App Móvil,51.05,"4,1%"
+TRX-2026-1338,2026-01-20,31.0,F,ES,Renfe,Viajes,iGraal,Web/Enlace Directo,469.33,"5,5%"
+TRX-2026-1339,2026-04-06,30.0,F,Alemania,MediaMarkt,Tecnología,Letyshops,Extensión Navegador,762.39,0.0218
+TRX-2026-1340,2026-05-11,35.0,No binario,Reino Unido,Expedia,Viajes,Awin_Affiliate,Extensión Navegador,524.15,0.0533
+TRX-2026-1341,2026-04-02,35.0,M,espana,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,38.83,0.0292
+TRX-2026-1342,2026-03-26,34.0,F,España ,Carrefour,Alimentación,Revolut_Rewards,Extensión Navegador,38.52,"2,5%"
+TRX-2026-1343,2025-10-30,37.0,No binario,Reino Unido,Iberia,Viajes,Revolut_Rewards,Web/Enlace Directo,92.76,"3,9%"
+TRX-2026-1344,2025-12-20,43.0,M,España,Sephora,moda,iGraal,Extensión Navegador,112.65,"9,2%"
+TRX-2026-1345,2025-11-18,41.0,M,Alemania,Uber Eats,Alimentación,Revolut_Rewards,App Móvil,55.49,0.0311
+TRX-2026-1346,2026-03-17,22.0,F,España,Carrefour,Alimentación,Letyshops,App Móvil,45.01,"2,0%"
+TRX-2026-1347,2026-05-25,,F,espana,Dia,Alimentación,iGraal,App Móvil,40.91,
+TRX-2026-1348,2026-04-25,41.0,No binario,Reino Unido,MediaMarkt,Tecnología,iGraal,Extensión Navegador,549.76,"2,7%"
+TRX-2026-1349,2025-09-26,23.0,F,Francia,Carrefour,alimentación,Letyshops,Extensión Navegador,45.03,"2,7%"
+TRX-2026-1350,2025-09-15,32.0,M,Francia,Apple,Tecnología,Revolut_Rewards,Extensión Navegador,138.22,"1,4%"
+TRX-2026-1351,2025-07-02,24.0,M,Francia,Just Eat,Alimentación,Awin_Affiliate,App Móvil,16.93,"2,4%"
+TRX-2026-1352,2026-03-03,19.0,No binario,Francia,Zara,Moda,Awin_Affiliate,App Móvil,136.2,"6,6%"
+TRX-2026-1353,2026-04-04,38.0,No binario,Italia,Carrefour,Alimentación,iGraal,Extensión Navegador,78.69,0.0321
+TRX-2026-1354,2026-05-10,40.0,F,ES,Just Eat,Alimentación,Revolut_Rewards,Extensión Navegador,74.41,0.0211
+TRX-2026-1355,2026-05-10,29.0,No binario,Alemania,Fnac,Tecnología,iGraal,App Móvil,254.39,
+TRX-2026-1356,2025-09-30,18.0,F,Italia,Fnac,Tecnología,Revolut_Rewards,App Móvil,713.66,0.0206
+TRX-2026-1357,2025-11-01,29.0,No binario,espana,Just Eat,Alimentación,Awin_Affiliate,Extensión Navegador,41.71,"3,1%"
+TRX-2026-1358,2025-08-25,37.0,M,ES,Zalando,Moda,Awin_Affiliate,App Móvil,47.88,0.0842
+TRX-2026-1359,2025-10-28,22.0,F,España ,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,160.03,"1,4%"
+TRX-2026-1360,2026-04-29,35.0,M,España,Sephora,Moda,iGraal,Web/Enlace Directo,125.41,"7,8%"
+TRX-2026-1361,2025-08-25,33.0,No binario,Alemania,Dia,Alimentación,iGraal,Extensión Navegador,78.44,0.0489
+TRX-2026-1362,2025-07-10,38.0,No binario,España ,Vueling,Viajes,Revolut_Rewards,App Móvil,253.35,0.0355
+TRX-2026-1363,2026-02-14,34.0,No binario,Francia,MediaMarkt,tecnología,iGraal,Web/Enlace Directo,188.41,"2,6%"
+TRX-2026-1364,2026-04-27,26.0,F,Italia,Zara,moda,iGraal,App Móvil,99.46,0.0455
+TRX-2026-1365,2025-07-03,43.0,No binario,España ,Mango,Moda,Revolut_Rewards,Web/Enlace Directo,137.98,0.049
+TRX-2026-1366,2025-10-12,32.0,No binario,Reino Unido,Renfe,Viajes,iGraal,Web/Enlace Directo,282.15,"5,9%"
+TRX-2026-1367,2025-12-14,33.0,M,espana,Dia,Alimentación,Letyshops,App Móvil,33.47,0.0468
+TRX-2026-1368,2025-10-21,26.0,No binario,Italia,Dia,Alimentación,Awin_Affiliate,Web/Enlace Directo,17.94,0.0381
+TRX-2026-1369,2025-09-07,30.0,F,Reino Unido,Fnac,Tecnología,Revolut_Rewards,Extensión Navegador,268.45,"2,0%"
+TRX-2026-1370,2025-11-28,26.0,F,espana,Fnac,Tecnología,Letyshops,Web/Enlace Directo,389.7,"2,1%"
+TRX-2026-1371,2026-02-17,,No binario,España ,Dia,Alimentación,Awin_Affiliate,App Móvil,46.17,0.0497
+TRX-2026-1372,2026-05-12,47.0,F,espana,Expedia,Viajes,iGraal,Web/Enlace Directo,590.75,"7,0%"
+TRX-2026-1373,2026-04-19,23.0,F,ES,Just Eat,Alimentación,iGraal,App Móvil,27.13,0.0275
+TRX-2026-1374,2025-06-20,21.0,F,ES,Amazon,Tecnología,Awin_Affiliate,App Móvil,164.39,"1,2%"
+TRX-2026-1375,2026-01-24,45.0,F,Italia,Just Eat,Alimentación,iGraal,App Móvil,64.11,0.0345
+TRX-2026-1376,2026-02-01,32.0,No binario,Alemania,Vueling,viajes,iGraal,App Móvil,343.18,"5,2%"
+TRX-2026-1377,2026-04-21,28.0,F,Italia,Fnac,Tecnología,Letyshops,App Móvil,578.87,0.0289
+TRX-2026-1378,2026-02-06,42.0,No binario,Alemania,Just Eat,alimentación,Awin_Affiliate,Web/Enlace Directo,39.78,0.0294
+TRX-2026-1379,2026-01-04,29.0,No binario,España ,Booking,Viajes,Letyshops,Web/Enlace Directo,421.49,0.0372
+TRX-2026-1380,2025-06-23,48.0,F,España ,Booking,Viajes,Revolut_Rewards,Extensión Navegador,320.81,"5,9%"
+TRX-2026-1381,2025-06-15,39.0,No binario,España,Vueling,viajes,Awin_Affiliate,App Móvil,292.26,0.0322
+TRX-2026-1382,2026-04-05,30.0,M,Alemania,Apple,Tecnología,iGraal,App Móvil,831.64,0.03
+TRX-2026-1383,2025-08-03,51.0,M,Francia,Just Eat,Alimentación,iGraal,App Móvil,66.3,"2,8%"
+TRX-2026-1384,2025-12-09,29.0,M,Italia,Uber Eats,Alimentación,iGraal,Web/Enlace Directo,44.29,0.0486
+TRX-2026-1385,2025-08-06,39.0,F,Francia,Zalando,Moda,Awin_Affiliate,App Móvil,124.87,0.0926
+TRX-2026-1386,2025-06-20,36.0,M,España ,Iberia,Viajes,Awin_Affiliate,Web/Enlace Directo,426.7,"3,9%"
+TRX-2026-1387,2026-01-14,,F,Italia,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,57.68,"2,9%"
+TRX-2026-1388,2026-05-04,46.0,F,España ,Booking,Viajes,Awin_Affiliate,Web/Enlace Directo,544.71,
+TRX-2026-1389,2025-09-12,34.0,F,España,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,47.14,"3,7%"
+TRX-2026-1390,2025-10-29,27.0,F,Italia,MediaMarkt,Tecnología,Letyshops,Web/Enlace Directo,391.35,"1,5%"
+TRX-2026-1391,2026-03-21,37.0,F,España ,Apple,Tecnología,Revolut_Rewards,App Móvil,236.06,0.0169
+TRX-2026-1392,2025-12-16,28.0,No binario,espana,Amazon,Tecnología,Letyshops,App Móvil,150.01,0.0234
+TRX-2026-1393,2026-01-27,50.0,F,espana,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,38.88,"4,0%"
+TRX-2026-1394,2026-04-03,35.0,F,España ,Uber Eats,Alimentación,Revolut_Rewards,Web/Enlace Directo,76.11,0.042
+TRX-2026-1395,2026-02-09,31.0,No binario,espana,Zara,Moda,Letyshops,Extensión Navegador,48.95,0.09
+TRX-2026-1396,2026-06-07,35.0,No binario,Alemania,Booking,Viajes,Revolut_Rewards,Extensión Navegador,551.22,0.0402
+TRX-2026-1397,2026-02-16,23.0,M,Reino Unido,ASOS,Moda,Letyshops,App Móvil,130.97,"9,3%"
+TRX-2026-1398,2026-04-21,26.0,No binario,ES,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,33.63,0.0472
+TRX-2026-1399,2025-07-05,43.0,M,España,MediaMarkt,Tecnología,iGraal,Web/Enlace Directo,220.83,"2,1%"
+TRX-2026-1400,2025-09-04,28.0,F,ES,Apple,Tecnología,iGraal,Extensión Navegador,501.5,0.0292
+TRX-2026-1401,2025-08-27,25.0,No binario,Francia,Sephora,moda,iGraal,App Móvil,149.15,0.0589
+TRX-2026-1402,2025-10-26,38.0,No binario,España ,MediaMarkt,Tecnología,Letyshops,Extensión Navegador,736.79,0.0272
+TRX-2026-1403,2026-03-01,43.0,No binario,Reino Unido,Mango,Moda,Revolut_Rewards,Extensión Navegador,90.18,0.0543
+TRX-2026-1404,2025-09-05,39.0,M,espana,Dia,Alimentación,Letyshops,Extensión Navegador,48.61,"3,5%"
+TRX-2026-1405,2026-06-06,41.0,F,España,Nike,moda,iGraal,Extensión Navegador,111.46,
+TRX-2026-1406,2025-08-12,27.0,No binario,Italia,Just Eat,Alimentación,iGraal,Extensión Navegador,50.6,"4,5%"
+TRX-2026-1407,2026-02-13,22.0,No binario,España ,Apple,Tecnología,iGraal,Web/Enlace Directo,478.89,0.0109
+TRX-2026-1408,2026-04-04,46.0,F,España,MediaMarkt,Tecnología,Awin_Affiliate,Web/Enlace Directo,719.49,"1,1%"
+TRX-2026-1409,2026-06-12,31.0,M,Italia,Amazon,tecnología,Revolut_Rewards,App Móvil,757.32,0.0166
+TRX-2026-1410,2025-11-26,31.0,M,España,Booking,Viajes,iGraal,Web/Enlace Directo,304.0,0.0448
+TRX-2026-1411,2026-01-20,44.0,F,Italia,Uber Eats,Alimentación,iGraal,App Móvil,54.92,0.0477
+TRX-2026-1412,2026-06-06,38.0,M,Italia,Zara,Moda,Revolut_Rewards,Web/Enlace Directo,50.29,"7,3%"
+TRX-2026-1413,2025-11-27,37.0,No binario,Francia,Vueling,Viajes,Letyshops,Web/Enlace Directo,327.07,0.0522
+TRX-2026-1414,2025-07-10,51.0,No binario,Francia,Renfe,Viajes,iGraal,App Móvil,537.62,"4,7%"
+TRX-2026-1415,2026-06-02,28.0,No binario,Alemania,Zalando,Moda,iGraal,Extensión Navegador,41.59,0.0929
+TRX-2026-1416,2025-08-22,41.0,No binario,Italia,Zara,Moda,iGraal,App Móvil,147.22,"7,3%"
+TRX-2026-1417,2026-04-03,34.0,F,Italia,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,35.43,0.0487
+TRX-2026-1418,2026-04-04,36.0,M,espana,Dia,Alimentación,iGraal,Extensión Navegador,50.22,0.0439
+TRX-2026-1419,2026-04-04,46.0,M,España ,Zalando,moda,Letyshops,Web/Enlace Directo,142.88,0.0601
+TRX-2026-1420,2026-01-29,38.0,No binario,Reino Unido,Amazon,Tecnología,Letyshops,Extensión Navegador,748.04,"1,7%"
+TRX-2026-1421,2025-09-28,38.0,F,España,Zalando,moda,Awin_Affiliate,App Móvil,128.81,"8,3%"
+TRX-2026-1422,2025-12-20,42.0,M,espana,Iberia,Viajes,Letyshops,Extensión Navegador,551.55,0.0411
+TRX-2026-1423,2026-01-21,31.0,F,espana,Iberia,Viajes,Letyshops,Extensión Navegador,472.64,"5,9%"
+TRX-2026-1424,2025-09-09,27.0,M,España,Carrefour,alimentación,iGraal,App Móvil,76.29,0.0392
+TRX-2026-1425,2025-08-05,25.0,F,Italia,Carrefour,Alimentación,iGraal,App Móvil,27.09,0.0224
+TRX-2026-1426,2025-10-31,18.0,F,Italia,Zalando,Moda,iGraal,Extensión Navegador,82.8,
+TRX-2026-1427,2025-06-20,50.0,No binario,España ,Fnac,Tecnología,Awin_Affiliate,Web/Enlace Directo,292.01,"2,6%"
+TRX-2026-1428,2025-11-14,25.0,M,espana,Amazon,Tecnología,Revolut_Rewards,Extensión Navegador,395.54,0.0247
+TRX-2026-1429,2025-09-11,32.0,F,España ,Booking,Viajes,Awin_Affiliate,App Móvil,105.88,0.0441
+TRX-2026-1430,2026-01-13,31.0,F,Italia,MediaMarkt,Tecnología,Awin_Affiliate,Web/Enlace Directo,696.99,"2,6%"
+TRX-2026-1431,2026-01-25,36.0,No binario,Francia,Iberia,Viajes,Revolut_Rewards,Extensión Navegador,415.32,0.0388
+TRX-2026-1432,2026-03-06,40.0,No binario,ES,ASOS,Moda,Letyshops,App Móvil,140.14,0.0879
+TRX-2026-1433,2025-12-24,40.0,F,Francia,Uber Eats,Alimentación,iGraal,App Móvil,38.41,"3,9%"
+TRX-2026-1434,2026-03-12,29.0,No binario,Italia,Vueling,viajes,iGraal,Web/Enlace Directo,614.04,"6,6%"
+TRX-2026-1435,2026-05-30,32.0,No binario,Alemania,Expedia,Viajes,iGraal,Extensión Navegador,648.17,0.0485
+TRX-2026-1436,2026-04-02,36.0,M,Italia,MediaMarkt,Tecnología,Revolut_Rewards,Extensión Navegador,630.59,0.0135
+TRX-2026-1437,2026-01-03,32.0,M,Reino Unido,Expedia,Viajes,iGraal,Extensión Navegador,460.11,0.0373
+TRX-2026-1438,2026-05-14,46.0,F,espana,Carrefour,Alimentación,iGraal,App Móvil,22.21,0.0264
+TRX-2026-1439,2025-06-27,37.0,No binario,Alemania,MediaMarkt,tecnología,Awin_Affiliate,Extensión Navegador,416.73,0.0109
+TRX-2026-1440,2026-04-08,39.0,M,Alemania,Renfe,viajes,Awin_Affiliate,Web/Enlace Directo,95.99,
+TRX-2026-1441,2025-07-02,39.0,No binario,espana,PcComponentes,Tecnología,Letyshops,Web/Enlace Directo,811.65,"1,2%"
+TRX-2026-1442,2025-09-27,43.0,No binario,Reino Unido,PcComponentes,Tecnología,iGraal,Web/Enlace Directo,297.91,"2,2%"
+TRX-2026-1443,2025-08-02,35.0,F,Alemania,Amazon,Tecnología,Letyshops,App Móvil,629.98,
+TRX-2026-1444,2025-10-07,23.0,No binario,Alemania,Booking,viajes,Revolut_Rewards,Web/Enlace Directo,324.23,0.0666
+TRX-2026-1445,2025-10-12,37.0,M,espana,Zara,Moda,Awin_Affiliate,Web/Enlace Directo,110.03,0.083
+TRX-2026-1446,2025-12-04,28.0,F,ES,Iberia,viajes,Revolut_Rewards,App Móvil,294.88,"6,4%"
+TRX-2026-1447,2026-06-08,29.0,F,Francia,Zara,Moda,Awin_Affiliate,App Móvil,41.25,"6,3%"
+TRX-2026-1448,2025-07-27,38.0,F,Reino Unido,Zalando,Moda,Letyshops,App Móvil,66.38,"4,6%"
+TRX-2026-1449,2025-11-10,43.0,No binario,ES,Apple,Tecnología,iGraal,Web/Enlace Directo,697.3,0.0208
+TRX-2026-1450,2026-04-29,34.0,M,Francia,Dia,Alimentación,Letyshops,Web/Enlace Directo,75.29,0.0284
+TRX-2026-1451,2025-08-29,36.0,No binario,Italia,Uber Eats,Alimentación,Letyshops,Extensión Navegador,26.11,0.0421
+TRX-2026-1452,2026-02-10,,M,Reino Unido,Nike,Moda,Letyshops,App Móvil,71.26,"7,1%"
+TRX-2026-1453,2025-08-12,35.0,F,España,Carrefour,Alimentación,iGraal,App Móvil,69.72,0.0268
+TRX-2026-1454,2026-04-24,54.0,No binario,Italia,Nike,Moda,Awin_Affiliate,Web/Enlace Directo,123.21,0.0713
+TRX-2026-1455,2025-11-03,38.0,F,Italia,Vueling,Viajes,Revolut_Rewards,Extensión Navegador,385.25,0.0433
+TRX-2026-1456,2025-10-19,19.0,No binario,Francia,Sephora,Moda,iGraal,App Móvil,94.5,"4,3%"
+TRX-2026-1457,2025-09-13,40.0,No binario,Alemania,Nike,Moda,Revolut_Rewards,Web/Enlace Directo,142.83,0.0705
+TRX-2026-1458,2026-01-05,37.0,F,Reino Unido,Vueling,Viajes,Letyshops,Extensión Navegador,491.76,"4,9%"
+TRX-2026-1459,2026-04-09,44.0,No binario,Italia,Zalando,Moda,Letyshops,Extensión Navegador,56.5,0.0566
+TRX-2026-1460,2025-09-18,39.0,No binario,espana,Iberia,Viajes,Awin_Affiliate,Web/Enlace Directo,423.39,"3,8%"
+TRX-2026-1461,2025-07-24,32.0,F,espana,Apple,Tecnología,Letyshops,Extensión Navegador,152.3,"1,9%"
+TRX-2026-1462,2026-03-06,24.0,F,Italia,Mango,Moda,iGraal,App Móvil,66.93,"4,3%"
+TRX-2026-1463,2025-12-19,32.0,No binario,Italia,Zara,Moda,Revolut_Rewards,App Móvil,69.48,"9,4%"
+TRX-2026-1464,2026-06-02,27.0,No binario,espana,Iberia,Viajes,iGraal,App Móvil,250.17,"6,5%"
+TRX-2026-1465,2026-05-30,,M,espana,PcComponentes,Tecnología,Revolut_Rewards,App Móvil,179.49,0.0213
+TRX-2026-1466,2026-05-16,38.0,M,Francia,MediaMarkt,Tecnología,Revolut_Rewards,App Móvil,860.48,"2,8%"
+TRX-2026-1467,2025-08-25,47.0,No binario,Italia,Uber Eats,Alimentación,Awin_Affiliate,Extensión Navegador,34.71,0.0286
+TRX-2026-1468,2025-11-05,37.0,M,España ,Fnac,Tecnología,Letyshops,Web/Enlace Directo,233.26,"1,8%"
+TRX-2026-1469,2025-11-28,24.0,F,Francia,Booking,Viajes,Awin_Affiliate,Extensión Navegador,225.76,0.0614
+TRX-2026-1470,2025-09-02,37.0,No binario,España,Apple,Tecnología,iGraal,Web/Enlace Directo,482.63,0.0203
+TRX-2026-1471,2025-06-27,43.0,No binario,España ,Dia,Alimentación,Letyshops,Web/Enlace Directo,35.22,"4,5%"
+TRX-2026-1472,2026-02-11,29.0,F,Reino Unido,MediaMarkt,Tecnología,Letyshops,App Móvil,613.37,"1,7%"
+TRX-2026-1473,2026-05-27,32.0,No binario,ES,Booking,Viajes,Awin_Affiliate,Web/Enlace Directo,381.53,"4,6%"
+TRX-2026-1474,2025-06-25,34.0,No binario,Reino Unido,MediaMarkt,Tecnología,Awin_Affiliate,App Móvil,385.18,0.0242
+TRX-2026-1475,2025-07-23,27.0,M,España ,Apple,Tecnología,Revolut_Rewards,App Móvil,525.31,"3,0%"
+TRX-2026-1476,2026-05-12,39.0,M,España,Apple,Tecnología,iGraal,Extensión Navegador,335.2,0.0174
+TRX-2026-1477,2026-01-08,33.0,No binario,España ,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,162.63,"2,6%"
+TRX-2026-1478,2026-02-11,37.0,F,Francia,Apple,Tecnología,Letyshops,App Móvil,708.15,"2,2%"
+TRX-2026-1479,2026-05-18,26.0,No binario,ES,Zalando,Moda,Letyshops,App Móvil,127.07,"5,8%"
+TRX-2026-1480,2025-11-14,30.0,F,Reino Unido,Dia,Alimentación,iGraal,Web/Enlace Directo,73.74,0.0209
+TRX-2026-1481,2025-12-13,39.0,F,ES,Booking,Viajes,Awin_Affiliate,Web/Enlace Directo,392.92,0.0337
+TRX-2026-1482,2025-07-12,31.0,M,Reino Unido,Zara,Moda,Revolut_Rewards,App Móvil,58.38,0.0808
+TRX-2026-1483,2026-03-22,47.0,No binario,Italia,Vueling,Viajes,Revolut_Rewards,App Móvil,578.93,"6,3%"
+TRX-2026-1484,2025-11-21,30.0,No binario,España,Dia,Alimentación,Letyshops,App Móvil,15.22,"2,8%"
+TRX-2026-1485,2026-03-27,35.0,M,Alemania,Booking,viajes,Awin_Affiliate,App Móvil,449.97,"5,6%"
+TRX-2026-1486,2026-03-14,41.0,No binario,España ,Renfe,viajes,Letyshops,App Móvil,343.98,"6,4%"
+TRX-2026-1487,2025-06-24,22.0,F,Italia,Zara,Moda,iGraal,App Móvil,149.18,"9,5%"
+TRX-2026-1488,2026-03-27,19.0,No binario,Italia,Dia,Alimentación,iGraal,Web/Enlace Directo,56.92,0.0373
+TRX-2026-1489,2025-12-04,21.0,No binario,espana,Zalando,Moda,Letyshops,Extensión Navegador,43.85,0.0816
+TRX-2026-1490,2025-08-06,44.0,F,ES,Amazon,Tecnología,Revolut_Rewards,Web/Enlace Directo,636.4,0.0279
+TRX-2026-1491,2025-09-27,29.0,M,España ,Just Eat,Alimentación,iGraal,Extensión Navegador,50.83,0.0338
+TRX-2026-1492,2025-09-28,54.0,F,Italia,Zara,Moda,iGraal,Extensión Navegador,26.77,"4,7%"
+TRX-2026-1493,2025-09-03,29.0,F,Alemania,Sephora,Moda,iGraal,App Móvil,108.28,0.0905
+TRX-2026-1494,2025-11-19,35.0,M,espana,MediaMarkt,tecnología,Awin_Affiliate,Extensión Navegador,164.83,0.0296
+TRX-2026-1495,2026-06-05,46.0,No binario,espana,Amazon,Tecnología,Letyshops,App Móvil,521.78,0.0234
+TRX-2026-1496,2026-03-11,50.0,F,Reino Unido,MediaMarkt,Tecnología,iGraal,App Móvil,197.41,0.0278
+TRX-2026-1497,2025-11-26,50.0,F,Italia,Dia,Alimentación,iGraal,Web/Enlace Directo,22.46,"2,2%"
+TRX-2026-1498,2026-06-10,43.0,M,Reino Unido,Apple,Tecnología,Awin_Affiliate,Extensión Navegador,601.75,"1,6%"
+TRX-2026-1499,2025-11-20,42.0,No binario,España,MediaMarkt,Tecnología,Letyshops,Web/Enlace Directo,752.23,"1,9%"
+TRX-2026-1500,2025-12-10,38.0,M,España,Expedia,Viajes,iGraal,App Móvil,129.29,"6,9%"
+TRX-2026-1117,2025-09-10,53.0,No binario,espana,Renfe,Viajes,Letyshops,Web/Enlace Directo,274.74,0.0553
+TRX-2026-1369,2025-09-07,30.0,F,Reino Unido,Fnac,Tecnología,Revolut_Rewards,Extensión Navegador,268.45,"2,0%"
+TRX-2026-0423,2026-01-07,32.0,M,Alemania,PcComponentes,Tecnología,iGraal,Web/Enlace Directo,326.62,0.0179
+TRX-2026-0414,2026-03-24,44.0,M,Alemania,Carrefour,Alimentación,Letyshops,App Móvil,51.76,"4,0%"
+TRX-2026-0452,2026-03-28,41.0,No binario,Francia,Apple,tecnología,Awin_Affiliate,Web/Enlace Directo,243.13,0.0136
+TRX-2026-0862,2026-02-01,21.0,M,España,Sephora,Moda,Letyshops,Extensión Navegador,133.9,"7,9%"
+TRX-2026-1064,2026-04-08,20.0,M,ES,Booking,Viajes,iGraal,Extensión Navegador,92.24,0.0668
+TRX-2026-0742,2026-04-07,23.0,F,Italia,Renfe,Viajes,Letyshops,Web/Enlace Directo,421.79,"6,2%"
+TRX-2026-1273,2025-12-21,25.0,F,Alemania,Zara,Moda,Awin_Affiliate,Web/Enlace Directo,109.57,"6,6%"
+TRX-2026-0260,2025-07-02,40.0,No binario,España ,Iberia,viajes,Letyshops,Extensión Navegador,634.13,"6,2%"
+TRX-2026-0889,2025-07-03,38.0,M,Francia,Just Eat,Alimentación,Revolut_Rewards,App Móvil,31.95,0.0216
+TRX-2026-1433,2025-12-24,40.0,F,Francia,Uber Eats,Alimentación,iGraal,App Móvil,38.41,"3,9%"
+TRX-2026-0713,2026-03-21,29.0,No binario,espana,Renfe,Viajes,Revolut_Rewards,Extensión Navegador,628.43,0.047
+TRX-2026-1383,2025-08-03,51.0,M,Francia,Just Eat,Alimentación,iGraal,App Móvil,66.3,"2,8%"
+TRX-2026-0071,2026-03-28,36.0,M,España ,Mango,moda,Awin_Affiliate,Extensión Navegador,134.27,0.0664
+TRX-2026-1269,2026-04-22,28.0,M,espana,Fnac,Tecnología,Letyshops,Extensión Navegador,805.86,0.0122
+TRX-2026-1492,2025-09-28,54.0,F,Italia,Zara,Moda,iGraal,Extensión Navegador,26.77,"4,7%"
+TRX-2026-0608,2025-10-10,24.0,M,Alemania,MediaMarkt,Tecnología,Awin_Affiliate,Web/Enlace Directo,222.97,"2,7%"
+TRX-2026-0434,2026-01-05,39.0,M,Italia,Sephora,Moda,iGraal,App Móvil,95.97,0.0456
+TRX-2026-0052,2025-10-27,30.0,F,ES,Apple,Tecnología,Revolut_Rewards,Web/Enlace Directo,249.24,"2,3%"
+TRX-2026-1200,2025-11-04,44.0,F,Italia,Dia,Alimentación,Letyshops,Extensión Navegador,55.37,0.0345
+TRX-2026-1129,2025-06-29,33.0,No binario,Italia,Dia,alimentación,Revolut_Rewards,Web/Enlace Directo,76.62,"2,3%"
+TRX-2026-1191,2025-11-12,34.0,M,Alemania,ASOS,Moda,Letyshops,App Móvil,58.09,0.0935
+TRX-2026-1250,2026-01-21,21.0,M,Alemania,Expedia,Viajes,iGraal,App Móvil,217.62,0.0579
+TRX-2026-1420,2026-01-29,38.0,No binario,Reino Unido,Amazon,Tecnología,Letyshops,Extensión Navegador,748.04,"1,7%"
+TRX-2026-0433,2026-05-19,31.0,F,Francia,Booking,Viajes,Revolut_Rewards,App Móvil,182.02,0.0538
+TRX-2026-1453,2025-08-12,35.0,F,España,Carrefour,Alimentación,iGraal,App Móvil,69.72,0.0268
+TRX-2026-1471,2025-06-27,43.0,No binario,España ,Dia,Alimentación,Letyshops,Web/Enlace Directo,35.22,"4,5%"
+TRX-2026-1235,2025-09-08,27.0,F,España,Renfe,Viajes,iGraal,App Móvil,228.85,0.052
+TRX-2026-1282,2026-04-07,32.0,M,España,Zalando,Moda,Awin_Affiliate,App Móvil,38.59,"7,3%"
+TRX-2026-1086,2025-09-05,37.0,M,España,Zara,Moda,Revolut_Rewards,App Móvil,79.39,0.0911
+TRX-2026-0611,2026-06-09,39.0,No binario,España,Just Eat,Alimentación,Revolut_Rewards,Web/Enlace Directo,20.27,0.0463
+TRX-2026-1285,2026-05-20,27.0,F,Italia,Uber Eats,Alimentación,iGraal,Extensión Navegador,43.03,"2,9%"
+TRX-2026-1042,2026-04-05,30.0,M,Italia,ASOS,moda,Revolut_Rewards,App Móvil,79.39,"4,5%"
+TRX-2026-0221,2026-01-23,52.0,No binario,espana,Mango,Moda,Awin_Affiliate,Web/Enlace Directo,28.35,0.0908
+TRX-2026-0340,2026-02-04,29.0,M,Italia,Uber Eats,Alimentación,Awin_Affiliate,Web/Enlace Directo,40.83,0.0261
+TRX-2026-0424,2025-12-22,41.0,No binario,Francia,Carrefour,Alimentación,Letyshops,App Móvil,25.1,0.0338
+TRX-2026-0429,2025-09-22,42.0,No binario,ES,Sephora,Moda,iGraal,App Móvil,73.45,"9,2%"
+TRX-2026-1106,2026-04-20,25.0,No binario,Italia,Zalando,Moda,Awin_Affiliate,Web/Enlace Directo,109.28,0.0932
+TRX-2026-0077,2025-10-09,34.0,F,ES,Uber Eats,alimentación,Awin_Affiliate,Web/Enlace Directo,34.19,0.0493
+TRX-2026-1392,2025-12-16,28.0,No binario,espana,Amazon,Tecnología,Letyshops,App Móvil,150.01,0.0234
+TRX-2026-0440,2025-12-28,33.0,M,Reino Unido,Booking,viajes,Letyshops,Extensión Navegador,585.74,0.0661
+TRX-2026-1337,2026-02-24,29.0,F,ES,Zara,Moda,Revolut_Rewards,App Móvil,51.05,"4,1%"
+TRX-2026-0865,2026-01-20,29.0,F,ES,Fnac,Tecnología,Awin_Affiliate,App Móvil,878.58,"2,8%"
+TRX-2026-1081,2026-05-14,31.0,No binario,Italia,Carrefour,Alimentación,Revolut_Rewards,Extensión Navegador,78.52,"4,0%"
