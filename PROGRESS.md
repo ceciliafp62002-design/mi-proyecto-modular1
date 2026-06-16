@@ -25,3 +25,38 @@ Cuando retome este proyecto, el objetivo será ejecutar las siguientes tareas en
    * **Paso B (Volumen Transaccional):** Buscar y descargar un dataset real de comercio electrónico o comportamiento de compra de más de 1,000 filas en **Kaggle** o **Hugging Face** (ej: *Customer Shopping Trends Dataset*), y guardarlo en `data/raw/`.
 2. **Fusión y Ensuciamiento:** En el pipeline, cruzar la tabla grande con las marcas del scraping e introducir controladamente las imperfecciones técnicas exigidas por la tutoría.
 3. **Fase de Análisis Exploratorio:** Abrir el Jupyter Notebook `notebooks/eda_analisis.ipynb` para empezar a inspeccionar la tabla con Pandas y responder las 7 preguntas mediante gráficos con intención (incluyendo el Heatmap).
+
+##Día 2
+### ✅ Lo que ya está hecho y configurado:
+1. **Infraestructura Base:** Conexión Git/GitHub correcta, entorno virtual operativo en VS Code y estructura de carpetas profesional creada (`data/raw`, `data/processed`, `notebooks`, `src/`).
+2. **Archivos de Control:** `.gitignore`, `requirements.txt` y `README.md` estructurados con las 7 preguntas de negocio.
+3. **Estrategia de Datos Modificada:** Se ha **descartado por completo el uso de datos sintéticos (`Faker`)**. El proyecto utilizará una **Estrategia Mixta de Datos Reales**: Marcas reales obtenidas por scraping + volumen transaccional real obtenido de plataformas analíticas externas.
+4. **Fase 1 (Web Scraping - Paso A) Completada y Cerrada:**
+   * Se creó el script modular `src/scraping_awin.py`.
+   * Se creó la bitácora educativa `notebooks/01_adquisicion_datos.ipynb`.
+   * **Práctica e Inspección Real:** Se realizó la inspección HTML/CSS en vivo sobre la plataforma real **iGraal España**. Se identificó el comportamiento de su arquitectura web y se capturó la clase del contenedor padre (`nalu verticalbasecardlite`).
+   * **Código Blindado:** Se programó y documentó el script de extracción final utilizando funciones lambda capaces de esquivar las clases dinámicas comprimidas por el servidor.
+
+### 🧠 Conceptos clave aprendidos y documentados para repasar:
+* **Estructuras Multi-Plataforma:** Uso de diccionarios de configuración (`config_redes`) y bucles con `.items()` para automatizar la extracción de múltiples redes (Awin, CJ Affiliate, Rakuten, Impact) con una sola función inteligente.
+* **Consolidación de Datos:** Uso de `.extend()` en lugar de `.append()` para fusionar listas de diccionarios en un único nivel plano sin anidar listas.
+* **Compresión en Next.js:** Comprensión de cómo los frameworks web modernos inyectan hashes alfanuméricos aleatorios (ej: `_16sh3nb0`) en las clases CSS y cómo combatirlos aislando la raíz de la clase estable.
+
+---
+
+## 🛑 ¿Dónde nos hemos quedado?
+Hemos cerrado con éxito el **Paso A** de la adquisición de datos (Scraping de marcas reales) tras entender cómo mapear elementos en entornos web complejos. Nos hemos quedado justo al inicio del **Paso B**: la conexión e importación automatizada de los datasets transaccionales masivos mediante APIs.
+
+---
+
+## 🚀 Próximos pasos a seguir en la siguiente sesión:
+Cuando retome este proyecto, el objetivo será ejecutar las siguientes tareas en el orden establecido:
+
+1. **Adquisición de Volumen Transaccional (Paso B):**
+   * Configurar el token oficial de Kaggle (`kaggle.json`) en la ruta correspondiente del Mac (`~/.kaggle/`).
+   * Ejecutar y testear en el Notebook las funciones programadas para descargar datasets transaccionales de e-commerce mediante la **API de Kaggle** o la librería de **Hugging Face (`datasets`)**.
+   * Almacenar los archivos descargados directamente en `data/raw/` en formato CSV plano.
+2. **Fase de Consolidación e Inyección de "Suciedad Técnico-Académica":**
+   * Cruzar en memoria (usando Pandas) el dataset de marcas reales raspadas con el dataset transaccional de Kaggle/HF.
+   * Introducir de forma controlada y manual los errores de formato exigidos por la escuela (comas decimales erróneas, nulos en campos clave, inconsistencias en nombres de países) para justificar la posterior fase de limpieza.
+3. **Fase de Análisis Exploratorio (EDA):** Crear el archivo `notebooks/02_eda_analisis.ipynb` para iniciar la limpieza de datos con Pandas y construir las primeras visualizaciones (Heatmap de correlación, gráficos de distribución) que respondan a las 7 preguntas de negocio.
